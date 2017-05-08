@@ -23,8 +23,9 @@ function scavengePatorjk() {
 function getAlphabetForEveryFont(fontList) {
   console.log('Looking for...')
   console.log(fontList[cte.target])
-  return Promise.map(fontList[cte.target], (fontFace) => {
-    return Promise.map(cte.alphabet, phantomCrawlForFontByLetter.bind({fontFace:
+  return Promise.mapSeries(fontList[cte.target], (fontFace) => {
+    console.log('current alphabet: ', cte.alphabet)
+    return Promise.mapSeries(cte.alphabet, phantomCrawlForFontByLetter.bind({fontFace:
     fontFace}))
     .then(asciiAlphabet => {
       return _.reduce(asciiAlphabet, (groupedAsciiAlphabet, asciiLetter, index) => {
@@ -32,20 +33,25 @@ function getAlphabetForEveryFont(fontList) {
         return groupedAsciiAlphabet
       }, {}) // => { A: '   __ - ; ', B: 'other bizarre string }
     })
-  }, {concurrency: 1})
+    .then((r) => {console.log('alfabeto inteiro:\n', r); return r})
+  })
   .then(asciiFonts => {
     // [{}, {}, ..]
     return _.reduce(asciiFonts, (groupedFontAscii, asciiFont, index) => {
-      groupedFontAscii[cte.target[index]] = asciiFont
+      console.log('asciiFont', fontList)
+      console.log('index', index)
+      groupedFontAscii[fontList[cte.target][index]] = asciiFont
       return groupedFontAscii
     }, {})
   })
+  .then((r) => {console.log('todas as fontes:\n', r); return r})
 }
 
 function phantomCrawlForFontByLetter(letter) {
   var self = this
   console.log('Crawling for font face: ', self.fontFace)
   var path = site + '/software/taag/#p=display&f=' + urlEncode(self.fontFace) + '&t=' + letter
+  console.log(path)
   var horseman = new Horseman()
   return horseman
     .open(path)

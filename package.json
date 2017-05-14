@@ -6,14 +6,15 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "cheerio": "^0.22.0",
-    "lodash": "^4.17.4",
     "htmlparser2": "^3.9.2",
-    "phantom": "^4.0.3",
-    "node-horseman": "^3.3.0",
-    "spa-crawler": "^2.0.0",
-    "webpage": "^0.3.0",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
     "node": "^0.0.0",
-    "urlencode": "^1.1.0"
+    "node-horseman": "^3.3.0",
+    "phantom": "^4.0.3",
+    "spa-crawler": "^2.0.0",
+    "urlencode": "^1.1.0",
+    "webpage": "^0.3.0"
   },
   "devDependencies": {},
   "scripts": {

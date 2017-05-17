@@ -4,8 +4,10 @@
   "description": "A ascii font in JS, with colors!",
   "main": "index.js",
   "dependencies": {
+    "ava": "^0.19.1",
     "bluebird": "^3.5.0",
     "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
     "htmlparser2": "^3.9.2",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
@@ -13,6 +15,7 @@
     "node-horseman": "^3.3.0",
     "phantom": "^4.0.3",
     "spa-crawler": "^2.0.0",
+    "testdouble": "^2.1.2",
     "urlencode": "^1.1.0",
     "webpage": "^0.3.0"
   },

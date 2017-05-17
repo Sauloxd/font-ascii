@@ -22,7 +22,6 @@ function getAlphabetForEveryFont(fontList) {
   return Promise.mapSeries(fontList[cte.target], getForEveryAlphabet)
     .then(asciiFonts => {
       return _.reduce(asciiFonts, (groupedFontAscii, asciiFont, index) => {
-        console.log('index', index)
         groupedFontAscii[fontList[cte.target][index]] = asciiFont
         return groupedFontAscii
       }, {})

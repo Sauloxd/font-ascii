@@ -1,6 +1,6 @@
 {
   "name": "font-ascii",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A ascii font in JS, with colors!",
   "main": "index.js",
   "dependencies": {

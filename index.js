@@ -39,8 +39,6 @@ module.exports = {
   formPhrase
 }
 
-formPhrase()
-
 function loadFont() {
   return fs.readFileAsync('./fontIndex.json')
     .then(json => {

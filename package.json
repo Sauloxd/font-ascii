@@ -1,13 +1,13 @@
 {
   "name": "font-ascii",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A ascii font in JS, with colors!",
   "main": "dist/index.js",
   "scripts": {
     "test": "$(npm bin)/ava",
     "start": "node index.js",
     "build": "$(npm bin)/babel ./src -d ./dist",
-    "postinstall": "postinstall-build dist"
+		"postinstall": "postinstall-build dist"
   },
   "dependencies": {
     "ava": "^0.19.1",

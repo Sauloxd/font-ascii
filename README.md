@@ -98,22 +98,6 @@ You can choose one of these defaults color. Otherwise it's always random:
  - 'white'
  - 'gray'
  - 'grey'
- - 'bgBlack'
- - 'bgRed'
- - 'bgGreen'
- - 'bgYellow'
- - 'bgBlue'
- - 'bgMagenta'
- - 'bgCyan'
- - 'bgWhite'
- - 'blackBG'
- - 'redBG'
- - 'greenBG'
- - 'yellowBG'
- - 'blueBG'
- - 'magentaBG'
- - 'cyanBG'
- - 'whiteBG
 
 ``` javascript
 formPhrase('Hello', { typeface: 'Diagonal3d', color: 'red' })

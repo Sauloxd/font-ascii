@@ -3,24 +3,26 @@
   "version": "1.0.1",
   "description": "A ascii font in JS, with colors!",
   "main": "dist/index.js",
+  "scripts": {
+    "test": "$(npm bin)/ava",
+    "start": "node index.js",
+    "build": "$(npm bin)/babel ./src -d ./dist",
+    "postinstall": "postinstall-build dist"
+  },
   "dependencies": {
     "ava": "^0.19.1",
     "bluebird": "^3.5.0",
     "colors": "^1.1.2",
+    "inquirer": "^3.1.1",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
-    "node": "^0.0.0",
+    "postinstall-build": "^3.0.0",
     "testdouble": "^2.1.2"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-preset-env": "^1.5.1"
-  },
-  "scripts": {
-    "test": "$(npm bin)/ava",
-    "start": "node index.js",
-    "build": "$(npm bin)/babel ./src -d ./dist"
   },
   "ava": {
     "require": "babel-register",

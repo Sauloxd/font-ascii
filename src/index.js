@@ -1,5 +1,9 @@
-require('colors')
-require('./fonts/Wet Letts.js')
+import _ from 'colors'
+import minimist from 'minimist'
+import { sample, random, join, map } from 'lodash'
+import { * as fonts } from './fonts'
+import fontIndex from './fontIndex'
+
 const colors = {
   9: 'red',
   10: 'green',
@@ -28,30 +32,22 @@ const colors = {
   33: 'whiteBG'
 }
 
-const _         = require('lodash')
-const Promise   = require('bluebird')
-const fs        = Promise.promisifyAll(require('fs'))
+const readFileAsync = promisify(fs.readFile)
 
 //ASCII CODES https://websitebuilders.com/tools/html-codes/a-z/
 
-module.exports = {
-  formPhrase
-}
-
-formPhrase('hello', 'Varsity')
-
 function loadFont() {
-  return Promise.resolve(require('./fontIndex')['Featured FIGlet Fonts'])
+  return Promise.resolve(fontIndex['Featured FIGlet Fonts'])
 }
 
-function formPhrase(sentence, choosenFont) {
-  var argv = require('minimist')(process.argv.slice(2))
+export default function formPhrase(sentence, choosenFont) {
+  var argv = minimist(process.argv.slice(2))
   sentence = argv.s || sentence
 
   var characters = checkForSpecialChars(sentence.split(''))
   loadFont()
     .then(fonts => {
-      return choosenFont || ((argv.f) ? argv.f : _.sample(fonts))
+      return choosenFont || ((argv.f) ? argv.f : sample(fonts))
     })
     .then(loadAlphabet)
     .then(alphabet => {
@@ -59,16 +55,16 @@ function formPhrase(sentence, choosenFont) {
         height: alphabet.A.split('\n').length,
         width: alphabet.A.split('\n')[0].split('').length
       }
-      var asciiArray = _.map(characters, char => {
+      var asciiArray = map(characters, char => {
         //TODO: SPACE STILL NOT WORKING!
-        if (char ===  'x20') return _.join(_.map(dimension.height, () => {
-          return _.join(_.map(dimension.width, () => { return ' ' }))
+        if (char ===  'x20') return join(map(dimension.height, () => {
+          return join(map(dimension.width, () => { return ' ' }))
         }), '\n')
         return alphabet[char.toUpperCase()]
       })
       var phrase = []
       asciiArray.forEach(function (asciiChar) {
-        var randomColor = _.random(9, 15)
+        var randomColor = random(9, 15)
         Array.apply(null, Array(dimension.height)).forEach((zero, index) => {
           var incomingChar = asciiChar.split('\n')[index]
           if (phrase[index]) {
@@ -78,15 +74,15 @@ function formPhrase(sentence, choosenFont) {
           }
         })
       })
-      return _.map(phrase, (row) => { return _.join(row, '') })
+      return map(phrase, (row) => { return join(row, '') })
     })
     .then(asciiArray => {
-      console.log(_.join(asciiArray, '\n'))
+      console.log(join(asciiArray, '\n'))
     })
 }
 
 function checkForSpecialChars(chars) {
-  return _.map(chars, char => {
+  return map(chars, char => {
     switch (char) {
       case ' ':
         return 'x20'
@@ -98,7 +94,7 @@ function checkForSpecialChars(chars) {
 
 function loadAlphabet(font) {
   console.log('font', font)
-  return Promise.resolve(require('./fonts/' + font  + '.js'))
+  return Promise.resolve(fonts[font])
     .catch(err => {
       console.log('Sorry we do not have this font: ', font)
     })

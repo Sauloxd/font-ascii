@@ -1,61 +1,56 @@
-const index = {
-  '3D Diagonal',
-  'Acrobatic',
-  'Alpha',
-  'Avatar',
-  'Big Money-ne',
-  'Big Money-nw',
-  'Big Money-se',
-  'Big Money-sw',
-  'Big',
-  'Blocks',
-  'Bulbhead',
-  'Cards',
-  'Chiseled',
-  'Crawford2',
-  'Crazy',
-  'Dancing Font',
-  'Doh',
-  'Doom',
-  'Efti Wall',
-  'Epic',
-  'Fire Font-k',
-  'Fire Font-s',
-  'Flower Power',
-  'Fun Face',
-  'Fun Faces',
-  'Ghost',
-  'Graceful',
-  'Graffiti',
-  'Impossible',
-  'index',
-  'Isometric1',
-  'Isometric2',
-  'Isometric3',
-  'Isometric4',
-  'JS Bracket Letters',
-  'Lil Devil',
-  'Merlin1',
-  'Modular',
-  'Ogre',
-  'Patorjk\'s Cheese',
-  'Patorjk-HeX',
-  'Rectangles',
-  'Slant Relief',
-  'Slant',
-  'Small Isometric1',
-  'Small Slant',
-  'Small',
-  'Soft',
-  'Standard',
-  'Star Wars',
-  'Sub-Zero',
-  'Swamp Land',
-  'Sweet',
-  'Train',
-  'Twisted',
-  'Varsity',
-  'Wet Letts'
-}
-
-export default index
+export { default as Acrobatic } from './Acrobatic'
+export { default as Alpha } from './Alpha'
+export { default as Avatar } from './Avatar'
+export { default as Big } from './Big'
+export { default as BigMoneyne } from './BigMoneyne'
+export { default as BigMoneynw } from './BigMoneynw'
+export { default as BigMoneyse } from './BigMoneyse'
+export { default as BigMoneysw } from './BigMoneysw'
+export { default as Blocks } from './Blocks'
+export { default as Bulbhead } from './Bulbhead'
+export { default as Cards } from './Cards'
+export { default as Chiseled } from './Chiseled'
+export { default as Crawford2 } from './Crawford2'
+export { default as Crazy } from './Crazy'
+export { default as DancingFont } from './DancingFont'
+export { default as Diagonal3d } from './Diagonal3d'
+export { default as Doh } from './Doh'
+export { default as Doom } from './Doom'
+export { default as EftiWall } from './EftiWall'
+export { default as Epic } from './Epic'
+export { default as Firefontk } from './Firefontk'
+export { default as FireFonts } from './FireFonts'
+export { default as FlowerPower } from './FlowerPower'
+export { default as FunFace } from './FunFace'
+export { default as FunFaces } from './FunFaces'
+export { default as Ghost } from './Ghost'
+export { default as Graceful } from './Graceful'
+export { default as Graffiti } from './Graffiti'
+export { default as Impossible } from './Impossible'
+export { default as Isometric1 } from './Isometric1'
+export { default as Isometric2 } from './Isometric2'
+export { default as Isometric3 } from './Isometric3'
+export { default as Isometric4 } from './Isometric4'
+export { default as JSBracketLetters } from './JSBracketLetters'
+export { default as LilDevil } from './LilDevil'
+export { default as Merlin1 } from './Merlin1'
+export { default as Modular } from './Modular'
+export { default as Ogre } from './Ogre'
+export { default as PatorjkCheese } from './PatorjkCheese'
+export { default as PatorjkHeX } from './PatorjkHeX'
+export { default as Rectangles } from './Rectangles'
+export { default as Slant } from './Slant'
+export { default as SlantRelief } from './SlantRelief'
+export { default as Small } from './Small'
+export { default as SmallIsometric1 } from './SmallIsometric1'
+export { default as SmallSlant } from './SmallSlant'
+export { default as Soft } from './Soft'
+export { default as Standard } from './Standard'
+export { default as StarWars } from './StarWars'
+export { default as SubZero } from './SubZero'
+export { default as SwampLand } from './SwampLand'
+export { default as Sweet } from './Sweet'
+export { default as Train } from './Train'
+export { default as Twisted } from './Twisted'
+export { default as Varsity } from './Varsity'
+export { default as WetLetts } from './WetLetts'

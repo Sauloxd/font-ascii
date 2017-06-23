@@ -1,4 +1,4 @@
-const fonts = {
+const fontIndex = {
   'Featured FIGlet Fonts': [
     '3D Diagonal',
     'Alpha',
@@ -325,4 +325,4 @@ const fonts = {
   ]
 }
 
-export default fonts
+export default fontIndex

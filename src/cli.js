@@ -9,10 +9,10 @@ function init() {
     type: 'input',
     name: 'phrase'
   })
-    .then((action) => {
-      return formPhrase(action.phrase)
-        .then(_ => init())
-    })
-
+  .then((action) => {
+    return formPhrase(action.phrase)
+  })
+  .then(_ => init())
+  .catch(e => console.log(e))
 }
 

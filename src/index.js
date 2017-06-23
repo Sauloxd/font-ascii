@@ -4,33 +4,7 @@ import { sample, random, join, map } from 'lodash'
 import * as fonts from './fonts'
 import fontIndex from './fontIndex'
 
-const colors = {
-  9: 'red',
-  10: 'green',
-  11: 'yellow',
-  12: 'blue',
-  13: 'magenta',
-  14: 'cyan',
-  15: 'white',
-  16: 'gray',
-  17: 'grey',
-  18: 'bgBlack',
-  19: 'bgRed',
-  20: 'bgGreen',
-  21: 'bgYellow',
-  22: 'bgBlue',
-  23: 'bgMagenta',
-  24: 'bgCyan',
-  25: 'bgWhite',
-  26: 'blackBG',
-  27: 'redBG',
-  28: 'greenBG',
-  29: 'yellowBG',
-  30: 'blueBG',
-  31: 'magentaBG',
-  32: 'cyanBG',
-  33: 'whiteBG'
-}
+const colors = [ 'red', 'green', 'yellow', 'blue', 'magenta', 'cyan', 'white', 'gray', 'grey']
 
 //ASCII CODES https://websitebuilders.com/tools/html-codes/a-z/
 
@@ -38,15 +12,23 @@ function loadFont() {
   return Promise.resolve(fontIndex['Featured FIGlet Fonts'])
 }
 
-export default function formPhrase(sentence, choosenFont) {
+export default function formPhrase(sentence, obj) {
+  const typeface = obj && obj.typeface
+  const color = obj && obj.color
+
+  if (color && colors.indexOf(color) === -1) throw new Error('INVALID_COLOR')
+
   const argv = minimist(process.argv.slice(2))
   const characters = checkForSpecialChars((argv.s || sentence).split(''))
 
   return loadFont()
-    .then(fonts => {
-      return choosenFont || ((argv.f) ? argv.f : sample(fonts))
+    .then(mainfont => {
+      return fonts[typeface] || sample(fonts)
     })
-    .then(loadAlphabet)
+    .then(font => {
+      if (!fonts) throw new Error('INVALID_TYPEFACE')
+      return font
+    })
     .then(alphabet => {
       const dimension = {
         height: alphabet.A.split('\n').length,
@@ -62,13 +44,13 @@ export default function formPhrase(sentence, choosenFont) {
       })
       const phrase = []
       asciiArray.forEach(function (asciiChar) {
-        const randomColor = random(9, 15)
+        const randomColor = sample(colors)
         Array.apply(null, Array(dimension.height)).forEach((zero, index) => {
           const incomingChar = asciiChar.split('\n')[index]
           if (phrase[index]) {
-            phrase[index].push(incomingChar[colors[randomColor]])
+            phrase[index].push(incomingChar[color || randomColor])
           } else {
-            phrase[index] = [incomingChar[colors[randomColor]]]
+            phrase[index] = [incomingChar[color || randomColor]]
           }
         })
       })
@@ -78,6 +60,7 @@ export default function formPhrase(sentence, choosenFont) {
       console.log(join(asciiArray, '\n'))
     })
     .catch(e => {
+      console.log('Error!', e.message)
       formPhrase('invalid')
     })
 }
@@ -94,9 +77,3 @@ function checkForSpecialChars(chars) {
   })
 }
 
-function loadAlphabet(font) {
-  return Promise.resolve(fonts[font])
-    .catch(err => {
-      console.log('Sorry we do not have this font: ', font)
-    })
-}

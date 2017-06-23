@@ -1,5 +1,5 @@
 require('colors')
-
+require('./fonts/Wet Letts.js')
 const colors = {
   9: 'red',
   10: 'green',
@@ -28,7 +28,6 @@ const colors = {
   33: 'whiteBG'
 }
 
-const typefaces = require('./typefaces')
 const _         = require('lodash')
 const Promise   = require('bluebird')
 const fs        = Promise.promisifyAll(require('fs'))
@@ -39,21 +38,20 @@ module.exports = {
   formPhrase
 }
 
+formPhrase('hello', 'Varsity')
+
 function loadFont() {
-  return fs.readFileAsync('./fontIndex.json')
-    .then(json => {
-      return JSON.parse(json)['Featured FIGlet Fonts']
-    })
+  return Promise.resolve(require('./fontIndex')['Featured FIGlet Fonts'])
 }
 
-function formPhrase(sentence) {
+function formPhrase(sentence, choosenFont) {
   var argv = require('minimist')(process.argv.slice(2))
   sentence = argv.s || sentence
 
   var characters = checkForSpecialChars(sentence.split(''))
   loadFont()
     .then(fonts => {
-      return (argv.f) ? argv.f : _.sample(fonts)
+      return choosenFont || ((argv.f) ? argv.f : _.sample(fonts))
     })
     .then(loadAlphabet)
     .then(alphabet => {
@@ -99,10 +97,8 @@ function checkForSpecialChars(chars) {
 }
 
 function loadAlphabet(font) {
-  return fs.readFileAsync('fonts/' + font + '.json')
-    .then(json => {
-      return JSON.parse(json)
-    })
+  console.log('font', font)
+  return Promise.resolve(require('./fonts/' + font  + '.js'))
     .catch(err => {
       console.log('Sorry we do not have this font: ', font)
     })

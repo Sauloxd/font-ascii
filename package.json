@@ -2,27 +2,31 @@
   "name": "font-ascii",
   "version": "1.0.1",
   "description": "A ascii font in JS, with colors!",
-  "main": "index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "ava": "^0.19.1",
     "bluebird": "^3.5.0",
-    "cheerio": "^0.22.0",
     "colors": "^1.1.2",
-    "htmlparser2": "^3.9.2",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
     "node": "^0.0.0",
-    "node-horseman": "^3.3.0",
-    "phantom": "^4.0.3",
-    "spa-crawler": "^2.0.0",
-    "testdouble": "^2.1.2",
-    "urlencode": "^1.1.0",
-    "webpage": "^0.3.0"
+    "testdouble": "^2.1.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-env": "^1.5.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "scavenge": "node patorjk-crawler.js"
+    "test": "$(npm bin)/ava",
+    "start": "node index.js",
+    "build": "$(npm bin)/babel ./src -d ./dist"
+  },
+  "ava": {
+    "require": "babel-register",
+    "babel": {
+      "babelrc": true
+    }
   },
   "author": "",
   "license": "ISC"

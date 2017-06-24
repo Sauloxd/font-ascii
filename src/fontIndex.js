@@ -326,4 +326,4 @@ const fontIndex = {
   ]
 }
 
-export default fontIndex
+export default fontIndex['Featured FIGlet Fonts']

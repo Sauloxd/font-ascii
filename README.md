@@ -1,5 +1,7 @@
+![fontascii](http://i.imgur.com/xXBkyTE.png)
+
 # Font Ascii
-An Awesome Logger That will log a ASCII phrase for you!
+An Awesome Logger That will log an ASCII phrase for you!
 Import and use it in your code, or just use the CLI (command line interface)
 
 # How to use
@@ -7,8 +9,13 @@ Import and use it in your code, or just use the CLI (command line interface)
 
 ## Installing
 Easy! Just type this in your project
-`npm i --save font-ascii`
-`npm i -g font-ascii`
+``` bash
+npm i --save font-ascii
+```
+or
+``` bash
+npm i -g font-ascii
+```
 
 ## Using - CLI
 If you installed globally, just:
@@ -21,13 +28,11 @@ Otherwise, use it like:
 You can import it on your project like this:
 
 ``` javascript
-
 //ES6 Flavour
 import formPhrase from 'font-ascii'
 
 //Old fashioned
 var formPhrase = require('font-ascii').default
-
 ```
 
 ## Using
@@ -36,6 +41,8 @@ formPhrase('Awesome Phrase')
 ```
 
 # Configuration
+
+## Typeface
 Per default, it will use a random font, but you can choose one of the following:
 
  - Acrobatic
@@ -100,7 +107,7 @@ And pass it like:
 ``` javascript
 formPhrase('Hello', { typeface: 'Diagonal3d' })
 ```
-
+## Color
 You can choose one of these defaults color. Otherwise it's always random:
 
  - 'red'
@@ -117,14 +124,26 @@ You can choose one of these defaults color. Otherwise it's always random:
 formPhrase('Hello', { typeface: 'Diagonal3d', color: 'red' })
 ```
 
-## Contributing
+## Object
+``` javascript
 
+const config = {
+  typeface: STRING,
+  color: STRING,
+  verbose: BOOLEAN,
+}
+
+```
+
+## Contributing
 It's a random idea I had and done in my free time, so probably it contains a lot of bugs, but feel free to open a PR with any optimization! Anything would be awesome!
 
-And **ISSUES**, open them if you find anything wrong.
+And [ISSUES](https://github.com/sauloxd/font-ascii/issues), open them if you find anything wrong.
 
 LOTS AND LOTS of kudos to this guys, and his awesome site:
 
 [Patorjk](http://patorjk.com/software/taag/#p=display&f=Alpha&t=A)
 
 There you'll find shit ton of other fonts.
+
+

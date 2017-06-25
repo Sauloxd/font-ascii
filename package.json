@@ -1,6 +1,6 @@
 {
   "name": "font-ascii",
-  "version": "1.1.11",
+  "version": "1.1.10",
   "description": "A ascii font in JS, with colors!",
   "main": "dist/index.js",
   "repository": "sauloxd/font-ascii",
@@ -9,16 +9,14 @@
     "test:watch": "npm run test -- --watch",
     "start": "node index.js",
     "build": "$(npm bin)/babel ./src -d ./dist",
-    "clean": "rm -r ./dist",
-    "postinstall": "postinstall-build dist"
+    "clean": "rm -r ./dist"
   },
   "bin": {
     "font-ascii": "./bin/formPhrase.js"
   },
   "dependencies": {
     "colors": "^1.1.2",
-    "lodash": "^4.17.4",
-    "postinstall-build": "^3.0.0"
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "ava": "^0.19.1",

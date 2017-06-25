@@ -4,10 +4,9 @@
 An Awesome Logger That will log an ASCII phrase for you!
 Import and use it in your code, or just use the CLI (command line interface)
 
-# How to use
-![fontascii](https://media.giphy.com/media/l0Iy5KrlroP0MSqiI/giphy.gif "How to Use")
+![howtouse](https://thumbs.gfycat.com/OrnateAcrobaticEchidna-size_restricted.gif)
 
-## Installing
+# How to use
 Easy! Just type this in your project
 ``` bash
 npm i --save font-ascii
@@ -107,6 +106,15 @@ And pass it like:
 ``` javascript
 formPhrase('Hello', { typeface: 'Diagonal3d' })
 ```
+or 
+``` bash
+font-ascii Hello -t Diagonal3d
+```
+or
+``` bash
+font-ascii Hello --typeface Diagonal3d
+```
+
 ## Color
 You can choose one of these defaults color. Otherwise it's always random:
 
@@ -122,6 +130,14 @@ You can choose one of these defaults color. Otherwise it's always random:
 
 ``` javascript
 formPhrase('Hello', { typeface: 'Diagonal3d', color: 'red' })
+```
+or 
+``` bash
+font-ascii Hello -c red
+```
+or
+``` bash
+font-ascii Hello --color red
 ```
 
 ## Object
@@ -145,5 +161,3 @@ LOTS AND LOTS of kudos to this guys, and his awesome site:
 [Patorjk](http://patorjk.com/software/taag/#p=display&f=Alpha&t=A)
 
 There you'll find shit ton of other fonts.
-
-

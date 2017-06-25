@@ -1,18 +1,10 @@
-import inquirer from 'inquirer'
-import formPhrase from './index'
+#! /usr/bin/env node
 
-init(inquirer)
+var formPhrase  = require('./index').default
+var handleArgvs = require('./handleArgvs').default
 
-function init() {
-  return inquirer.prompt({
-    message: 'Input a magical phrase: \n',
-    type: 'input',
-    name: 'phrase'
-  })
-  .then((action) => {
-    return formPhrase(action.phrase)
-  })
-  .then(_ => init())
-  .catch(e => console.log(e))
+cliFormPhrase(handleArgvs(process.argv.slice(2)))
+
+function cliFormPhrase(config) {
+  formPhrase(config.sentence, config)
 }
-

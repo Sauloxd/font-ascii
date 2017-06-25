@@ -8,10 +8,12 @@
     "test:watch": "npm run test -- --watch",
     "start": "node index.js",
     "build": "$(npm bin)/babel ./src -d ./dist",
-    "postinstall": "postinstall-build dist"
+    "clean": "rm -r ./dist",
+    "postinstall": "postinstall-build dist",
+    "publish": "npm version patch && npm publish && git push --follow-tags"
   },
   "bin": {
-    "font-ascii": "dist/bin/formPhrase.js"
+    "font-ascii": "dist/cli.js"
   },
   "dependencies": {
     "colors": "^1.1.2",

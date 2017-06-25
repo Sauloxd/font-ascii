@@ -1,9 +1,9 @@
 # Font Ascii
-
 An Awesome Logger That will log a ASCII phrase for you!
 Import and use it in your code, or just use the CLI (command line interface)
 
 # How to use
+![fontascii](https://media.giphy.com/media/l0Iy5KrlroP0MSqiI/giphy.gif "How to Use")
 
 ## Installing
 Easy! Just type this in your project

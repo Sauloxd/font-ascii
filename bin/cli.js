@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 
-var formPhrase  = require('./index').default
-var handleArgvs = require('./handleArgvs').default
+var formPhrase  = require('../dist/index').default
+var handleArgvs = require('../dist/handleArgvs').default
 
 cliFormPhrase(handleArgvs(process.argv.slice(2)))
 

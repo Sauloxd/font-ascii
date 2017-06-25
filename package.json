@@ -10,6 +10,9 @@
     "build": "$(npm bin)/babel ./src -d ./dist",
     "postinstall": "postinstall-build dist"
   },
+  "bin": {
+    "font-ascii": "dist/bin/formPhrase.js"
+  },
   "dependencies": {
     "colors": "^1.1.2",
     "lodash": "^4.17.4",

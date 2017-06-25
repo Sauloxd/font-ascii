@@ -1,4 +1,3 @@
-import minimist from 'minimist'
 import { sample } from 'lodash'
 import * as fonts from './fonts'
 import sentenceToAsciiAlphabet from './sentenceToAsciiAlphabet'

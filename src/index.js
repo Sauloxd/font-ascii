@@ -7,7 +7,9 @@ import concatAsciiLetters from './concatAsciiLetters'
 export default function formPhrase(sentence, config) {
   if (!sentence) return
 
-  const { typeface, color, verbose } = config
+  const typeface = config && config.typeface,
+    color = config && config.color,
+    verbose = config && config.verbose
 
   if (verbose) {
     console.log('Typeface: ', typeface)

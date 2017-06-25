@@ -5,8 +5,8 @@ import { sample } from 'lodash'
 
 export const colorLetters = (asciiLetters, argColor) => {
   const sampleColors = [ 'red', 'green', 'yellow',
-     'blue', 'magenta', 'cyan',
-     'white', 'gray', 'grey']
+    'blue', 'magenta', 'cyan',
+    'white', 'gray', 'grey']
 
   return Array(dimensions(asciiLetters, 'height')).fill(argColor ||  sample(sampleColors))
 }

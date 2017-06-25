@@ -8,10 +8,13 @@ export const colorLetters = (asciiLetters, argColor) => {
     'blue', 'magenta', 'cyan',
     'white', 'gray', 'grey']
 
-  return Array(dimensions(asciiLetters, 'height')).fill(argColor ||  sample(sampleColors))
+  return Array(asciiLetters.length).fill(0)
+    .map(_ => argColor ||  sample(sampleColors))
 }
 
 export default function (asciiLetters, color) {
   const colors = colorLetters(asciiLetters, color)
-  return asciiLetters.reduce((acc, letter) => letter.split('\n').map((line, index) => (acc[index] || '') + line[colors[index]]),[])
+
+  return asciiLetters.reduce((acc, letter, widthIndex) => letter.split('\n')
+    .map((line, heightIndex) => (acc[heightIndex] || '') + line[colors[widthIndex]]), [])
 }

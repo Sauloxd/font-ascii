@@ -1,11 +1,25 @@
 # Font Ascii
 
 An Awesome Logger That will log a ASCII phrase for you!
+Import and use it in your code, or just use the CLI (command line interface)
 
 # How to use
+
+## Installing
+Easy! Just type this in your project
+`npm i --save font-ascii`
+`npm i -g font-ascii`
+
+## Using - CLI
+If you installed globally, just:
+`font-ascii 'Hello World'`
+
+Otherwise, use it like:
+`$(npm bin)/font-ascii 'Hello World'`
+
+## Using - Importing
 You can import it on your project like this:
 
-## Importing
 ``` javascript
 
 //ES6 Flavour
@@ -101,15 +115,6 @@ You can choose one of these defaults color. Otherwise it's always random:
 
 ``` javascript
 formPhrase('Hello', { typeface: 'Diagonal3d', color: 'red' })
-```
-
-# Cloning
-
-If you clone this repo, you'll have to use babel to transpile the source code.
-But when you do, you can use the simple CLI, just for lolz, that will output phrases. Just run:
-
-``` bash
-babel-node src/cli.js
 ```
 
 ## Contributing

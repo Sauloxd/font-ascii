@@ -3,6 +3,7 @@
   "version": "1.1.10",
   "description": "A ascii font in JS, with colors!",
   "main": "dist/index.js",
+  "repository": "sauloxd/font-ascii",
   "scripts": {
     "test": "$(npm bin)/ava",
     "test:watch": "npm run test -- --watch",
@@ -12,7 +13,7 @@
     "postinstall": "postinstall-build dist"
   },
   "bin": {
-    "font-ascii": "./bin/cli.js"
+    "font-ascii": "./bin/formPhrase.js"
   },
   "dependencies": {
     "colors": "^1.1.2",
@@ -32,6 +33,10 @@
       "babelrc": true
     }
   },
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Saulo Furuta",
+    "email": "saulotoshi@gmail.com",
+    "url": "github.com/sauloxd"
+  },
+  "license": "MIT"
 }

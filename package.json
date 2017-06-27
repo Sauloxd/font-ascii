@@ -1,6 +1,6 @@
 {
   "name": "font-ascii",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "A ascii font in JS, with colors!",
   "main": "dist/index.js",
   "repository": "sauloxd/font-ascii",

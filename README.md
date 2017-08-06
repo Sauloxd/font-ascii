@@ -43,6 +43,7 @@ formPhrase('Awesome Phrase')
 
 ## Typeface
 Per default, it will use a random font, but you can choose one of the following:
+(if there is a typo, it will fallback to a random font!)
 
  - Acrobatic
  - Alpha

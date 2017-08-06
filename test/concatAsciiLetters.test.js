@@ -3,7 +3,7 @@ import { rectanglesPhrases, rectanglesAsciiLetters } from '../src/fixtures/recta
 import concatAsciiLetters, { colorLetters } from '../src/concatAsciiLetters'
 
 test('red color', t => {
-  t.deepEqual(colorLetters(rectanglesAsciiLetters.noSpaces, 'red'), ['red', 'red', 'red', 'red', 'red', 'red'])
+  t.deepEqual(colorLetters(rectanglesAsciiLetters.noSpaces, 'red'), ['red', 'red', 'red', 'red'])
 })
 
 test('random colors', t => {
@@ -11,5 +11,5 @@ test('random colors', t => {
 })
 
 test('Concatting Ascii Letters', t => {
-  t.deepEqual(concatAsciiLetters(rectanglesAsciiLetters.noSpaces, 'red'), rectanglesPhrases.red)
+  t.deepEqual(concatAsciiLetters('red' , rectanglesAsciiLetters.noSpaces), rectanglesPhrases.red)
 })

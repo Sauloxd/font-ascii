@@ -1,4 +1,6 @@
-import { first } from 'lodash'
+import Box from './types/Box'
+import R from 'ramda'
+
 const specialChars = {
   EMPTY: ' '
 }
@@ -17,7 +19,7 @@ function handleAlphabetChar(alphabet, char) {
 }
 
 export function dimensions(letters, dimension) {
-  const letter = letters instanceof Array ? first(letters) : letters.A
+  const letter = letters instanceof Array ? (letters || [])[0] : letters.A
   const proportion = {
     height: letter.split('\n').length,
     width: letter.split('\n')[0].split('').length
@@ -27,8 +29,9 @@ export function dimensions(letters, dimension) {
 }
 
 export default function (sentence, alphabet) {
-  return sentence.split('')
-    .map(char => handleAlphabetChar(alphabet, char))
+  return Box(sentence)
+    .map(R.split(''))
+    .map(R.map(char => handleAlphabetChar(alphabet, char)))
 }
 
 

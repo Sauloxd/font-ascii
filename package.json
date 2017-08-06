@@ -7,7 +7,7 @@
   "scripts": {
     "test": "$(npm bin)/ava",
     "test:watch": "npm run test -- --watch",
-    "start": "node index.js",
+    "start": "NODE_ENV=development babel-node bin/formPhrase.js hello",
     "build": "$(npm bin)/babel ./src -d ./dist",
     "clean": "rm -r ./dist"
   },
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "colors": "^1.1.2",
-    "lodash": "^4.17.4"
+    "ramda": "^0.24.1"
   },
   "devDependencies": {
     "ava": "^0.19.1",

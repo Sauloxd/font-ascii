@@ -1,7 +1,6 @@
-import _ from 'colors'
+import _ from 'colors' // Globally inject colors to String Prototype
 import { dimensions } from './sentenceToAsciiAlphabet'
-import { sample } from 'lodash'
-
+import R from 'ramda'
 
 export const colorLetters = (asciiLetters, argColor) => {
   const sampleColors = [ 'red', 'green', 'yellow',
@@ -9,12 +8,13 @@ export const colorLetters = (asciiLetters, argColor) => {
     'white', 'gray', 'grey']
 
   return Array(asciiLetters.length).fill(0)
-    .map(_ => argColor ||  sample(sampleColors))
+    .map(_ => argColor || sampleColors[Math.floor(Math.random() * (sampleColors.length))] || sampleColors[0])
 }
 
-export default function (asciiLetters, color) {
+export default R.curry(function (color, asciiLetters) {
   const colors = colorLetters(asciiLetters, color)
 
-  return asciiLetters.reduce((acc, letter, widthIndex) => letter.split('\n')
-    .map((line, heightIndex) => (acc[heightIndex] || '') + line[colors[widthIndex]]), [])
-}
+  return asciiLetters
+    .reduce((acc, letter, widthIndex) =>
+      letter.split('\n').map((line, heightIndex) => (acc[heightIndex] || '') + line[colors[widthIndex]]), [])
+})

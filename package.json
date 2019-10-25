@@ -5,10 +5,10 @@
   "main": "dist/index.js",
   "repository": "sauloxd/font-ascii",
   "scripts": {
-    "test": "$(npm bin)/ava",
+    "test": "npx ava",
     "test:watch": "npm run test -- --watch",
     "start": "NODE_ENV=development babel-node bin/formPhrase.js hello",
-    "build": "$(npm bin)/babel ./src -d ./dist",
+    "build": "npx babel ./src -d ./dist",
     "clean": "rm -r ./dist"
   },
   "bin": {
@@ -24,14 +24,15 @@
     "@babel/core": "^7.0.0",
     "@babel/node": "^7.0.0",
     "@babel/preset-env": "^7.6.3",
+    "@babel/register": "^7.6.2",
     "ava": "^2.4.0",
-    "babel-preset-es2015-node4": "^2.1.1"
+    "babel-preset-es2015-node4": "^2.1.1",
+    "prettier": "1.18.2"
   },
   "ava": {
-    "require": "babel-register",
-    "babel": {
-      "babelrc": true
-    }
+    "require": [
+      "@babel/register"
+    ]
   },
   "author": {
     "name": "Saulo Furuta",

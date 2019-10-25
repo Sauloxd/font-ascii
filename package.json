@@ -7,7 +7,7 @@
   "scripts": {
     "test": "npx ava",
     "test:watch": "npm run test -- --watch",
-    "start": "NODE_ENV=development babel-node bin/formPhrase.js hello",
+    "start": "NODE_ENV=development npx babel-node bin/formPhrase.js",
     "build": "npx babel ./src -d ./dist",
     "clean": "rm -r ./dist"
   },

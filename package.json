@@ -15,15 +15,15 @@
     "font-ascii": "./bin/formPhrase.js"
   },
   "dependencies": {
-    "colors": "^1.1.2",
-    "ramda": "^0.24.1"
+    "colors": "^1.4.0",
+    "inquirer": "^7.0.0",
+    "ramda": "^0.26.1"
   },
   "devDependencies": {
-    "ava": "^0.19.1",
+    "ava": "^2.4.0",
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.5.1",
-    "babel-preset-es2015-node4": "^2.1.1",
-    "inquirer": "^3.1.1"
+    "babel-preset-es2015-node4": "^2.1.1"
   },
   "ava": {
     "require": "babel-register",

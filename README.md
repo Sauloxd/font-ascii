@@ -35,16 +35,16 @@ You can import it on your project like this:
 
 ```javascript
 //ES6 Flavour
-import formPhrase from "font-ascii";
+import formPhrase from 'font-ascii';
 
 //Old fashioned
-var formPhrase = require("font-ascii").default;
+var formPhrase = require('font-ascii').default;
 ```
 
 ## Using
 
 ```javascript
-formPhrase("Awesome Phrase");
+formPhrase('Awesome Phrase');
 ```
 
 # Configuration
@@ -114,7 +114,7 @@ Per default, it will use a random font, but you can choose one of the following:
 And pass it like:
 
 ```javascript
-formPhrase("Hello", { typeface: "Diagonal3d" });
+formPhrase('Hello', { typeface: 'Diagonal3d' });
 ```
 
 or
@@ -144,7 +144,7 @@ You can choose one of these defaults color. Otherwise it's always random:
 - 'grey'
 
 ```javascript
-formPhrase("Hello", { typeface: "Diagonal3d", color: "red" });
+formPhrase('Hello', { typeface: 'Diagonal3d', color: 'red' });
 ```
 
 or
@@ -165,7 +165,7 @@ font-ascii Hello --color red
 const config = {
   typeface: STRING,
   color: STRING,
-  verbose: BOOLEAN
+  verbose: BOOLEAN,
 };
 ```
 
@@ -180,3 +180,28 @@ LOTS AND LOTS of kudos to this guys, and his awesome site:
 [Patorjk](http://patorjk.com/software/taag/#p=display&f=Alpha&t=A)
 
 There you'll find shit ton of other fonts.
+
+### Development
+
+First clone the repo:
+
+```bash
+git clone git@github.com:Sauloxd/font-ascii.git
+```
+
+Enter the cloned repo and install dependencies! Make sure you are using yarn (since its my package manager of choice) - [How to install yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+
+```bash
+cd font-ascii
+yarn install
+```
+
+Just call this command!
+
+```bash
+yarn start hello
+```
+
+And it will call the development version of this project!
+
+There is no currently easy way to test the compiled version, so we must believe the @babel power :)

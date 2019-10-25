@@ -1,7 +1,6 @@
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
-const cheerio = require('cheerio');
 const allAvailableFontNames = require('./all-available-font-names');
 // Code to run in http://patorjk.com/software/taag/#p=display&f=Fire%20Font-k&t=1
 // To get all correct font names.
@@ -32,11 +31,14 @@ const groupedFontNamePromises = splittedFontNames.reduce(
           fontName =>
             console.log(`start getting ${fontName}`) ||
             axios(getUrl(fontName))
-              .then(r =>
-                fs.writeFileSync(
-                  path.resolve(__dirname, `flf/${fontName}`),
-                  r.data,
-                ),
+              .then(
+                r =>
+                  console.log(r.data) ||
+                  fs.writeFileSync(
+                    path.resolve(__dirname, `flf/${fontName}`),
+                    r.data,
+                    'utf-8',
+                  ),
               )
               .then(() => console.log(`Finish getting ${fontName}`))
               .catch(
@@ -45,6 +47,7 @@ const groupedFontNamePromises = splittedFontNames.reduce(
                   fs.appendFileSync(
                     path.resolve(__dirname, `error.log`),
                     fontName + '\n',
+                    'utf-8',
                   ),
               ),
         ),

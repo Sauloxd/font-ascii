@@ -30,20 +30,25 @@ const groupedFontNamePromises = splittedFontNames.reduce(
         fontNameGroup.map(
           fontName =>
             console.log(`start getting ${fontName}`) ||
-            axios(getUrl(fontName))
-              .then(
-                r =>
-                  console.log(r.data) ||
-                  fs.writeFileSync(
-                    path.resolve(__dirname, `fonts/new/${fontName}`),
-                    r.data,
-                    'utf-8',
+            axios({
+              method: 'GET',
+              url: getUrl(fontName),
+              responseType: 'arraybuffer',
+            })
+              .then(r =>
+                fs.writeFileSync(
+                  path.resolve(
+                    __dirname,
+                    `fonts/${fontName.split('.')[1]}/${fontName}`,
                   ),
+                  r.data.toString('latin1'),
+                  'utf-8',
+                ),
               )
               .then(() => console.log(`Finish getting ${fontName}`))
               .catch(
-                () =>
-                  console.log('Error: ', fontName) ||
+                e =>
+                  console.log('Error: ', e) ||
                   fs.appendFileSync(
                     path.resolve(__dirname, `error.log`),
                     fontName + '\n',

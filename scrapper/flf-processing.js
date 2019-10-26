@@ -1,17 +1,20 @@
+const colors = require('colors');
 const fs = require('fs');
 const path = require('path');
+const {
+  getFileNames,
+  FONT_DIR,
+  generateCharMapBasedOn,
+  replaceAt,
+} = require('./file-processing-helpers');
 
-const FONT_DIR = path.resolve(__dirname, 'fonts/flf/');
-
-const fileNames = fs
-  .readdirSync(FONT_DIR)
-  .filter(f => f.match(/\.flf$/))
-  .map(f => f.replace('.flf', ''));
+const FLF_DIR = path.resolve(FONT_DIR, 'flf/');
 
 const processFile = fileName => {
-  console.log('START ', fileName);
+  console.log(colors.green(`START ${fileName}`));
+
   const content = fs
-    .readFileSync(path.resolve(FONT_DIR, `${fileName}.flf`), 'utf-8')
+    .readFileSync(path.resolve(FLF_DIR, `${fileName}.flf`), 'utf-8')
     .split('\n')
     .map(r => r.replace('\r', ''));
 
@@ -19,41 +22,21 @@ const processFile = fileName => {
 
   const [
     magicValue,
-    height,
+    charHeight,
     _not,
     _used,
     _variables,
-    skipLines,
+    commentLineHeaderCount,
     _rtol,
   ] = contentMetadata.split(' ');
-  const contentWithoutComments = content.slice(Number(skipLines) + 1);
-  const chars = contentWithoutComments.reduce(
-    (acc, line, index) => {
-      if (index !== 0 && index % height === 0) {
-        const char = acc.buffer;
 
-        return {
-          ...acc,
-          ['C' + index / height]: char,
-          buffer: [line],
-        };
-      }
-
-      return {
-        ...acc,
-        buffer: acc.buffer.concat(line),
-      };
-    },
-    {
-      buffer: [],
-    },
-  );
+  const chars = generateCharMapBasedOn({
+    commentLineHeaderCount,
+    charHeight,
+    content,
+  });
 
   // console.log(chars.C59);
-
-  const replaceAt = (string, index, replace) => {
-    return string.substring(0, index) + replace + string.substring(index + 1);
-  };
 
   const removeSymbolsFromLines = (line, index, array) => {
     // Do not remove mindless $ and @ because some fonts may use theses chars
@@ -82,12 +65,13 @@ const processFile = fileName => {
   );
 
   fs.writeFileSync(
-    path.resolve(FONT_DIR, `${fileName}.json`),
+    path.resolve(FLF_DIR, `${fileName}.json`),
     JSON.stringify(cleanSpecialCharFromChars, null, 2),
     'utf-8',
   );
 
-  console.log('END ', fileName);
+  console.log(colors.yellow(`END ${fileName}`));
 };
 
-fileNames.forEach(fileName => processFile(fileName));
+console.log(getFileNames('flf'));
+getFileNames('flf').forEach(fileName => processFile(fileName));

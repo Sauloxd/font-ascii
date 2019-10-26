@@ -26,13 +26,12 @@ const generateCharMapBasedOn = ({
     (acc, line, index, array) => {
       const isFirst = index === 0;
       const isLast = array.length - 1 === index;
-      const char = acc.buffer;
 
       if (!isFirst && index % charHeight === 0) {
         return {
           ...acc,
-          ['C' + index / charHeight]: char,
-          buffer: array.length - 1 === index ? [] : [line],
+          ['C' + index / charHeight]: acc.buffer,
+          buffer: isLast ? [] : [line],
         };
       }
 
@@ -42,7 +41,10 @@ const generateCharMapBasedOn = ({
 
         return {
           ...acc,
-          ['C' + charNumber]: fillIfMissingLines(char, charHeight),
+          ['C' + charNumber]: fillIfMissingLines(
+            acc.buffer.concat(line),
+            charHeight,
+          ),
           buffer: [],
         };
       }

@@ -30,10 +30,19 @@ const processFile = fileName => {
     _rtol,
   ] = contentMetadata.split(' ');
 
+  const SPECIAL_CHARS = ['@', '#', '$', '<'];
+
+  const cleanCharDescription = [
+    ...content.slice(0, Number(commentLineHeaderCount) + 1),
+    ...content
+      .slice(Number(commentLineHeaderCount) + 1)
+      .filter(line => SPECIAL_CHARS.some(sc => line.includes(sc))),
+  ];
+
   const chars = generateCharMapBasedOn({
     commentLineHeaderCount,
     charHeight,
-    content,
+    content: cleanCharDescription,
   });
 
   // console.log(chars.C59);
@@ -41,14 +50,21 @@ const processFile = fileName => {
   const removeSymbolsFromLines = (line, index, array) => {
     // Do not remove mindless $ and @ because some fonts may use theses chars
     let result = line;
-    const indeOfFirstOccurency = result.indexOf('$');
-    result = replaceAt(result, indeOfFirstOccurency, ' ');
-    const indeOfLastOccurency = result.lastIndexOf('$');
-    result = replaceAt(result, indeOfLastOccurency, ' ');
-    result = result.replace('@', ' '); // Baseline has 2@
+    result = replaceAt(result, result.indexOf('$'), ' ');
+    result = replaceAt(result, result.lastIndexOf('$'), ' ');
+    if (result.match(/#$/)) {
+      result = replaceAt(result, result.lastIndexOf('#'), ' ');
+    } else {
+      result = replaceAt(result, result.lastIndexOf('@'), ' ');
+    }
 
     if (array.length - 1 === index) {
-      result = result.replace('@', ' '); // Baseline has 2@
+      // Baseline has 2@ or 2#
+      if (result.match(/# $/)) {
+        result = replaceAt(result, result.lastIndexOf('#'), ' ');
+      } else {
+        result = replaceAt(result, result.lastIndexOf('@'), ' ');
+      }
     }
 
     return result;

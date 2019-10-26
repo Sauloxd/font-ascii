@@ -35,7 +35,7 @@ const groupedFontNamePromises = splittedFontNames.reduce(
                 r =>
                   console.log(r.data) ||
                   fs.writeFileSync(
-                    path.resolve(__dirname, `flf/${fontName}`),
+                    path.resolve(__dirname, `fonts/new/${fontName}`),
                     r.data,
                     'utf-8',
                   ),

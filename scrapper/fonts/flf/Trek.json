@@ -1,0 +1,821 @@
+{
+  "buffer": [
+    "  "
+  ],
+  "C1": [
+    "      $  ",
+    "     $   ",
+    "    $    ",
+    "   $     ",
+    "  $      ",
+    " $        "
+  ],
+  "C2": [
+    "       dBP ",
+    "      dBP  ",
+    "     dBP   ",
+    "    dBP    ",
+    "           ",
+    "  dBP       "
+  ],
+  "C3": [
+    "          ",
+    "   dP dP ",
+    "  dP dP  ",
+    "          ",
+    "          ",
+    "           "
+  ],
+  "C4": [
+    "       d88P   ",
+    "   d88888888P ",
+    "  d8B88888BP  ",
+    "    d88P      ",
+    "               ",
+    "       _        "
+  ],
+  "C5": [
+    "    .===. ",
+    "    : |   ",
+    "    `===. ",
+    "      | : ",
+    "    `===' ",
+    "      \"    "
+  ],
+  "C6": [
+    "   dP  dP ",
+    "      dP  ",
+    "     dP   ",
+    "    dP    ",
+    "   dP  dP ",
+    "            "
+  ],
+  "C7": [
+    "    .BBb'   ",
+    "    B..     ",
+    "    >BP     ",
+    "   .B       ",
+    "  ..`BB'    ",
+    "             "
+  ],
+  "C8": [
+    "      ",
+    "  dBP ",
+    "  BP  ",
+    "       ",
+    "       ",
+    "        "
+  ],
+  "C9": [
+    "      .BBb. ",
+    "     dBP    ",
+    "    dBP     ",
+    "   dBP      ",
+    "  dBP       ",
+    "  `BBb       "
+  ],
+  "C10": [
+    "       dBB. ",
+    "        dBP ",
+    "       dBP  ",
+    "      dBP   ",
+    "     dBP    ",
+    "  `BBB'      "
+  ],
+  "C11": [
+    "      ..  ",
+    "    .::dP ",
+    "    dBBP: ",
+    "    :dBBb ",
+    "    dP::' ",
+    "           "
+  ],
+  "C12": [
+    "          ",
+    "          ",
+    "     dBP  ",
+    "  dBBBBBP ",
+    "   dBP    ",
+    "            "
+  ],
+  "C13": [
+    "       ",
+    "       ",
+    "       ",
+    "       ",
+    "  dBP ",
+    "  BP   "
+  ],
+  "C14": [
+    "    $$$  ",
+    "   $$$$  ",
+    "  $$$$$  ",
+    "  dBBBBBP ",
+    " $$$$$$  ",
+    "            "
+  ],
+  "C15": [
+    "       ",
+    "      ",
+    "      ",
+    "      ",
+    "  dBP ",
+    "        "
+  ],
+  "C16": [
+    "         __ ",
+    "       _dBP ",
+    "     _dBP   ",
+    "   _dBP     ",
+    "  dBP       ",
+    "              "
+  ],
+  "C17": [
+    "      dBBBBP ",
+    "     dB'.BP  ",
+    "    dB:.BP   ",
+    "   dB'.BP    ",
+    "  dBBBBP     ",
+    "               "
+  ],
+  "C18": [
+    "   dBBBb  ",
+    "           ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBP     ",
+    "            "
+  ],
+  "C19": [
+    "   dBBBBb ",
+    "          ",
+    "    dBBP  ",
+    "   dBP__  ",
+    "  dBBBBP  ",
+    "            "
+  ],
+  "C20": [
+    "    dBBBBb ",
+    "           ",
+    "     dBBBP ",
+    "      dBP  ",
+    "  dBBBBP   ",
+    "             "
+  ],
+  "C21": [
+    "    dBP dBP ",
+    "       dBP  ",
+    "  dBBBBBP   ",
+    "      dBP    ",
+    "     dBP     ",
+    "              "
+  ],
+  "C22": [
+    "      dBBBBBP ",
+    "              ",
+    "    dBBBBBP   ",
+    "       dBP    ",
+    "  dBBBBBP     ",
+    "                "
+  ],
+  "C23": [
+    "     dBBBBP ",
+    "    dP      ",
+    "   dP dBP   ",
+    "  dP  dP    ",
+    "  VBBBP     ",
+    "              "
+  ],
+  "C24": [
+    "  dBBBBb  ",
+    "           ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBP     ",
+    "            "
+  ],
+  "C25": [
+    "      dBBBb ",
+    "     dP  dP ",
+    "    dPBBBP  ",
+    "   dP  dP   ",
+    "   VBBBP    ",
+    "              "
+  ],
+  "C26": [
+    "     dBBBBb ",
+    "    dP  dBP ",
+    "    VBBBBP  ",
+    "       dP   ",
+    "   dBBBP    ",
+    "              "
+  ],
+  "C27": [
+    "        ",
+    "        ",
+    "    dBP ",
+    "        ",
+    "  dBP   ",
+    "          "
+  ],
+  "C28": [
+    "        ",
+    "        ",
+    "    dBP ",
+    "        ",
+    "   dBP  ",
+    "  dBP    "
+  ],
+  "C29": [
+    "        ",
+    "   dP  ",
+    "  dP   ",
+    "  Vb   ",
+    "   Vb  ",
+    "         "
+  ],
+  "C30": [
+    "           ",
+    "    dBBBP ",
+    "          ",
+    "  dBBBP   ",
+    "           ",
+    "            "
+  ],
+  "C31": [
+    "        ",
+    "  Vb   ",
+    "  `Bb  ",
+    "   dP  ",
+    "  dP   ",
+    "         "
+  ],
+  "C32": [
+    "  dBBBBb ",
+    "  Vb dBP ",
+    "     dBP  ",
+    "          ",
+    "  dBP    ",
+    "           "
+  ],
+  "C33": [
+    "             ",
+    "    dBBBBBBb ",
+    "   dBP _  dB ",
+    "  dBP  \" dB' ",
+    "  VBBBBBBB'  ",
+    "               "
+  ],
+  "C34": [
+    "   dBBBBBb  ",
+    "        BB  ",
+    "    dBP BB  ",
+    "   dBP  BB  ",
+    "  dBBBBBBB  ",
+    "              "
+  ],
+  "C35": [
+    "     dBBBBb ",
+    "        dBP ",
+    "    dBBBK'  ",
+    "   dB' db   ",
+    "  dBBBBP'   ",
+    "              "
+  ],
+  "C36": [
+    "      dBBBP ",
+    "            ",
+    "    dBP     ",
+    "   dBP      ",
+    "  dBBBBP    ",
+    "              "
+  ],
+  "C37": [
+    "      dBBBBb ",
+    "         dB' ",
+    "    dBP dB'  ",
+    "   dBP dB'   ",
+    "  dBBBBB'    ",
+    "               "
+  ],
+  "C38": [
+    "      dBBBP  ",
+    "             ",
+    "    dBBP     ",
+    "   dBP       ",
+    "  dBBBBP     ",
+    "               "
+  ],
+  "C39": [
+    "      dBBBBP ",
+    "             ",
+    "    dBBBP    ",
+    "   dBP       ",
+    "  dBP        ",
+    "               "
+  ],
+  "C40": [
+    "      dBBBBb ",
+    "             ",
+    "    dBBBB    ",
+    "   dB' BB    ",
+    "  dBBBBBB    ",
+    "               "
+  ],
+  "C41": [
+    "      dBP dBP ",
+    "               ",
+    "    dBBBBBP   ",
+    "   dBP dBP    ",
+    "  dBP dBP     ",
+    "                "
+  ],
+  "C42": [
+    "      dBP ",
+    "          ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBP     ",
+    "            "
+  ],
+  "C43": [
+    "          dBP ",
+    "              ",
+    "        dBP   ",
+    "   dB'dBP    ",
+    "  dBBBBP     ",
+    "               "
+  ],
+  "C44": [
+    "      dBP dBP ",
+    "      dBP.d8P  ",
+    "    dBBBBP'   ",
+    "   dBP BB     ",
+    "  dBP dB'     ",
+    "                "
+  ],
+  "C45": [
+    "      dBP ",
+    "          ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBBBBP  ",
+    "            "
+  ],
+  "C46": [
+    "       dBBBBBBb ",
+    "        '   dB' ",
+    "     dB'dB'dB'  ",
+    "    dB'dB'dB'   ",
+    "   dB'dB'dB'    ",
+    "                  "
+  ],
+  "C47": [
+    "      dBBBBb ",
+    "         dBP ",
+    "    dBP dBP  ",
+    "   dBP dBP   ",
+    "  dBP dBP    ",
+    "               "
+  ],
+  "C48": [
+    "      dBBBBP ",
+    "     dB'.BP  ",
+    "    dB'.BP   ",
+    "   dB'.BP    ",
+    "  dBBBBP     ",
+    "               "
+  ],
+  "C49": [
+    "    dBBBBBb ",
+    "        dB' ",
+    "    dBBBP'  ",
+    "   dBP      ",
+    "  dBP       ",
+    "              "
+  ],
+  "C50": [
+    "      dBBBBP ",
+    "     dB'.BP  ",
+    "    dB'.BP   ",
+    "   dB'.BB    ",
+    "  dBBBB'B    ",
+    "               "
+  ],
+  "C51": [
+    "    dBBBBBb ",
+    "        dBP ",
+    "    dBBBBK' ",
+    "   dBP  BB  ",
+    "  dBP  dB'  ",
+    "              "
+  ],
+  "C52": [
+    "    .dBBBBP ",
+    "    BP      ",
+    "    `BBBBb  ",
+    "       dBP  ",
+    "  dBBBBP'   ",
+    "             "
+  ],
+  "C53": [
+    "   dBBBBBBP ",
+    "             ",
+    "    dBP     ",
+    "   dBP      ",
+    "  dBP       ",
+    "              "
+  ],
+  "C54": [
+    "      dBP dBP ",
+    "              ",
+    "    dBP dBP   ",
+    "   dBP_dBP    ",
+    "  dBBBBBP     ",
+    "                "
+  ],
+  "C55": [
+    "    dBP dP ",
+    "           ",
+    "  dB .BP  ",
+    "   BB.BP   ",
+    "   BBBP    ",
+    "            "
+  ],
+  "C56": [
+    "      dBPdBPdBP ",
+    "                ",
+    "    dBPdBPdBP   ",
+    "   dBPdBPdBP    ",
+    "  dBBBBBBBP     ",
+    "                  "
+  ],
+  "C57": [
+    "  `Bb  .BP ",
+    "      .BP  ",
+    "    dBBK   ",
+    "   dB'     ",
+    "  dB' dBP  ",
+    "             "
+  ],
+  "C58": [
+    "  dBP dBP ",
+    "     dBP  ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBP     ",
+    "            "
+  ],
+  "C59": [
+    "  dBBBBBP ",
+    "           ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBBBBP  ",
+    "            "
+  ],
+  "C60": [
+    "      dBBb   ",
+    "     dBP     ",
+    "    dBP      ",
+    "   dBP       ",
+    "  dBP        ",
+    " dBBBP        "
+  ],
+  "C61": [
+    "          ",
+    "  `Bb     ",
+    "   `Bb    ",
+    "    `Bb   ",
+    "    `Bb  ",
+    "           "
+  ],
+  "C62": [
+    "      dBBP  ",
+    "      dBP   ",
+    "     dBP    ",
+    "    dBP     ",
+    "   dBP      ",
+    " VBBP        "
+  ],
+  "C63": [
+    "   dBb  ",
+    "  dP`Bb ",
+    "         ",
+    "         ",
+    "         ",
+    "          "
+  ],
+  "C64": [
+    "      $  ",
+    "     $$  ",
+    "    $$$  ",
+    "   $$$$  ",
+    "  $$$$$  ",
+    "  dBBBBBP  "
+  ],
+  "C65": [
+    "       ",
+    "  dBb ",
+    "  `BP ",
+    "   '  ",
+    "       ",
+    "        "
+  ],
+  "C66": [
+    "   dBBBBBb ",
+    "         BB ",
+    "    dBP BB ",
+    "   dBP  BB ",
+    "  dBBBBBBB ",
+    "             "
+  ],
+  "C67": [
+    "     dBBBBb ",
+    "        dBP ",
+    "    dBBBK'  ",
+    "   dB' db   ",
+    "  dBBBBP'   ",
+    "              "
+  ],
+  "C68": [
+    "      dBBBP ",
+    "            ",
+    "    dBP     ",
+    "   dBP      ",
+    "  dBBBBP    ",
+    "              "
+  ],
+  "C69": [
+    "      dBBBBb ",
+    "         dBP ",
+    "    dBP dBP  ",
+    "   dBP dBP   ",
+    "  dBBBBBP    ",
+    "               "
+  ],
+  "C70": [
+    "      dBBBP  ",
+    "             ",
+    "    dBBP     ",
+    "   dBP       ",
+    "  dBBBBP     ",
+    "               "
+  ],
+  "C71": [
+    "      dBBBBP ",
+    "             ",
+    "    dBBBP    ",
+    "   dBP       ",
+    "  dBP        ",
+    "               "
+  ],
+  "C72": [
+    "      dBBBBb ",
+    "             ",
+    "    dBBBB    ",
+    "   dB' BB    ",
+    "  dBBBBBB    ",
+    "               "
+  ],
+  "C73": [
+    "      dBP dBP ",
+    "              ",
+    "    dBBBBBP   ",
+    "   dBP dBP    ",
+    "  dBP dBP     ",
+    "                "
+  ],
+  "C74": [
+    "      dBP ",
+    "          ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBP     ",
+    "            "
+  ],
+  "C75": [
+    "          dBP ",
+    "              ",
+    "        dBP   ",
+    "   dB'dBP    ",
+    "  dBBBBP     ",
+    "               "
+  ],
+  "C76": [
+    "      dBP dBP ",
+    "     d8P.dBP  ",
+    "    dBBBBP    ",
+    "   dBP BB     ",
+    "  dBP dBP     ",
+    "                "
+  ],
+  "C77": [
+    "      dBP ",
+    "          ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBBBBP  ",
+    "            "
+  ],
+  "C78": [
+    "      dBBBBBBb ",
+    "           dBP ",
+    "    dBPdBPdBP  ",
+    "   dBPdBPdBP   ",
+    "  dBPdBPdBP    ",
+    "                 "
+  ],
+  "C79": [
+    "      dBBBBb ",
+    "         dBP ",
+    "    dBP dBP  ",
+    "   dBP dBP   ",
+    "  dBP dBP    ",
+    "               "
+  ],
+  "C80": [
+    "      dBBBBP ",
+    "     dBP.BP  ",
+    "    dBP.BP   ",
+    "   dBP.BP    ",
+    "  dBBBBP     ",
+    "               "
+  ],
+  "C81": [
+    "    dBBBBBb ",
+    "        dB' ",
+    "    dBBBP'  ",
+    "   dBP      ",
+    "  dBP       ",
+    "              "
+  ],
+  "C82": [
+    "      dBBBBP ",
+    "     dBP.BP  ",
+    "    dBP.BP   ",
+    "   dBP.BB    ",
+    "  dBBBB'B    ",
+    "               "
+  ],
+  "C83": [
+    "    dBBBBBb ",
+    "        dBP ",
+    "    dBBBBK  ",
+    "   dBP  BB  ",
+    "  dBP  dB'  ",
+    "              "
+  ],
+  "C84": [
+    "    .dBBBBP ",
+    "    BP      ",
+    "    `BBBBb  ",
+    "       dBP  ",
+    "  dBBBBP'   ",
+    "             "
+  ],
+  "C85": [
+    "   dBBBBBBP ",
+    "             ",
+    "    dBP     ",
+    "   dBP      ",
+    "  dBP       ",
+    "              "
+  ],
+  "C86": [
+    "      dBP dBP ",
+    "              ",
+    "    dBP dBP   ",
+    "   dBP_dBP    ",
+    "  dBBBBBP     ",
+    "                "
+  ],
+  "C87": [
+    "     dBP dP ",
+    "            ",
+    "  dB .BP   ",
+    "   BB.BP    ",
+    "   BBBP     ",
+    "             "
+  ],
+  "C88": [
+    "      dBPdBPdBP ",
+    "                ",
+    "    dBPdBPdBP   ",
+    "   dBPdBPdBP    ",
+    "  dBBBBBBBP     ",
+    "                  "
+  ],
+  "C89": [
+    "  `Bb  .BP ",
+    "      .BP  ",
+    "    dBBK   ",
+    "   dB'     ",
+    "  dB' dBP  ",
+    "            "
+  ],
+  "C90": [
+    "  dBP dBP ",
+    "      dBP  ",
+    "     dBP   ",
+    "    dBP    ",
+    "   dBP     ",
+    "            "
+  ],
+  "C91": [
+    "  dBBBBBP ",
+    "           ",
+    "    dBP   ",
+    "   dBP    ",
+    "  dBBBBP  ",
+    "            "
+  ],
+  "C92": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C93": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C94": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C95": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C96": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C97": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C98": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C99": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C100": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C101": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C102": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ]
+}

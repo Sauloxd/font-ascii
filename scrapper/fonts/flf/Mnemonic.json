@@ -1,0 +1,11093 @@
+{
+  "buffer": [
+    "  "
+  ],
+  "C1": [
+    "  &SP  "
+  ],
+  "C2": [
+    "  !  "
+  ],
+  "C3": [
+    "  \"  "
+  ],
+  "C4": [
+    "  &Nb  "
+  ],
+  "C5": [
+    "  &DO  "
+  ],
+  "C6": [
+    "  %  "
+  ],
+  "C7": [
+    "  &  "
+  ],
+  "C8": [
+    "  '  "
+  ],
+  "C9": [
+    "  (  "
+  ],
+  "C10": [
+    "  )  "
+  ],
+  "C11": [
+    "  *  "
+  ],
+  "C12": [
+    "  +  "
+  ],
+  "C13": [
+    "  ,  "
+  ],
+  "C14": [
+    "  -  "
+  ],
+  "C15": [
+    "  .  "
+  ],
+  "C16": [
+    "  /  "
+  ],
+  "C17": [
+    "  0  "
+  ],
+  "C18": [
+    "  1  "
+  ],
+  "C19": [
+    "  2  "
+  ],
+  "C20": [
+    "  3  "
+  ],
+  "C21": [
+    "  4  "
+  ],
+  "C22": [
+    "  5  "
+  ],
+  "C23": [
+    "  6  "
+  ],
+  "C24": [
+    "  7  "
+  ],
+  "C25": [
+    "  8  "
+  ],
+  "C26": [
+    "  9  "
+  ],
+  "C27": [
+    "  :  "
+  ],
+  "C28": [
+    "  ;  "
+  ],
+  "C29": [
+    "  <  "
+  ],
+  "C30": [
+    "  =  "
+  ],
+  "C31": [
+    "  >  "
+  ],
+  "C32": [
+    "  ?  "
+  ],
+  "C33": [
+    "  &At  "
+  ],
+  "C34": [
+    "  A  "
+  ],
+  "C35": [
+    "  B  "
+  ],
+  "C36": [
+    "  C  "
+  ],
+  "C37": [
+    "  D  "
+  ],
+  "C38": [
+    "  E  "
+  ],
+  "C39": [
+    "  F  "
+  ],
+  "C40": [
+    "  G  "
+  ],
+  "C41": [
+    "  H  "
+  ],
+  "C42": [
+    "  I  "
+  ],
+  "C43": [
+    "  J  "
+  ],
+  "C44": [
+    "  K  "
+  ],
+  "C45": [
+    "  L  "
+  ],
+  "C46": [
+    "  M  "
+  ],
+  "C47": [
+    "  N  "
+  ],
+  "C48": [
+    "  O  "
+  ],
+  "C49": [
+    "  P  "
+  ],
+  "C50": [
+    "  Q  "
+  ],
+  "C51": [
+    "  R  "
+  ],
+  "C52": [
+    "  S  "
+  ],
+  "C53": [
+    "  T  "
+  ],
+  "C54": [
+    "  U  "
+  ],
+  "C55": [
+    "  V  "
+  ],
+  "C56": [
+    "  W  "
+  ],
+  "C57": [
+    "  X  "
+  ],
+  "C58": [
+    "  Y  "
+  ],
+  "C59": [
+    "  Z  "
+  ],
+  "C60": [
+    "  &<(  "
+  ],
+  "C61": [
+    "  &//  "
+  ],
+  "C62": [
+    "  &)>  "
+  ],
+  "C63": [
+    "  &'>  "
+  ],
+  "C64": [
+    "  _  "
+  ],
+  "C65": [
+    "  &'!  "
+  ],
+  "C66": [
+    "  a  "
+  ],
+  "C67": [
+    "  b  "
+  ],
+  "C68": [
+    "  c  "
+  ],
+  "C69": [
+    "  d  "
+  ],
+  "C70": [
+    "  e  "
+  ],
+  "C71": [
+    "  f  "
+  ],
+  "C72": [
+    "  g  "
+  ],
+  "C73": [
+    "  h  "
+  ],
+  "C74": [
+    "  i  "
+  ],
+  "C75": [
+    "  j  "
+  ],
+  "C76": [
+    "  k  "
+  ],
+  "C77": [
+    "  l  "
+  ],
+  "C78": [
+    "  m  "
+  ],
+  "C79": [
+    "  n  "
+  ],
+  "C80": [
+    "  o  "
+  ],
+  "C81": [
+    "  p  "
+  ],
+  "C82": [
+    "  q  "
+  ],
+  "C83": [
+    "  r  "
+  ],
+  "C84": [
+    "  s  "
+  ],
+  "C85": [
+    "  t  "
+  ],
+  "C86": [
+    "  u  "
+  ],
+  "C87": [
+    "  v  "
+  ],
+  "C88": [
+    "  w  "
+  ],
+  "C89": [
+    "  x  "
+  ],
+  "C90": [
+    "  y  "
+  ],
+  "C91": [
+    "  z  "
+  ],
+  "C92": [
+    "  &(!  "
+  ],
+  "C93": [
+    "  &!!  "
+  ],
+  "C94": [
+    "  &!)  "
+  ],
+  "C95": [
+    "  &'?  "
+  ],
+  "C96": [
+    "  &A:  "
+  ],
+  "C97": [
+    "  &O:  "
+  ],
+  "C98": [
+    "  &U:  "
+  ],
+  "C99": [
+    "  &a:  "
+  ],
+  "C100": [
+    "  &o:  "
+  ],
+  "C101": [
+    "  &u:  "
+  ],
+  "C102": [
+    "  &ss  "
+  ],
+  "C103": [
+    "  0x0001    START OF HEADING (SOH)"
+  ],
+  "C104": [
+    "  &SH  "
+  ],
+  "C105": [
+    "  0x0002    START OF TEXT (STX)"
+  ],
+  "C106": [
+    "  &SX  "
+  ],
+  "C107": [
+    "  0x0003    END OF TEXT (ETX)"
+  ],
+  "C108": [
+    "  &EX  "
+  ],
+  "C109": [
+    "  0x0004    END OF TRANSMISSION (EOT)"
+  ],
+  "C110": [
+    "  &ET  "
+  ],
+  "C111": [
+    "  0x0005    ENQUIRY (ENQ)"
+  ],
+  "C112": [
+    "  &EQ  "
+  ],
+  "C113": [
+    "  0x0006    ACKNOWLEDGE (ACK)"
+  ],
+  "C114": [
+    "  &AK  "
+  ],
+  "C115": [
+    "  0x0007    BELL (BEL)"
+  ],
+  "C116": [
+    "  &BL  "
+  ],
+  "C117": [
+    "  0x0008    BACKSPACE (BS)"
+  ],
+  "C118": [
+    "  &BS  "
+  ],
+  "C119": [
+    "  0x0009    CHARACTER TABULATION (HT)"
+  ],
+  "C120": [
+    "  &HT  "
+  ],
+  "C121": [
+    "  0x000a    LINE FEED (LF)"
+  ],
+  "C122": [
+    "  &LF  "
+  ],
+  "C123": [
+    "  0x000b    LINE TABULATION (VT)"
+  ],
+  "C124": [
+    "  &VT  "
+  ],
+  "C125": [
+    "  0x000c    FORM FEED (FF)"
+  ],
+  "C126": [
+    "  &FF  "
+  ],
+  "C127": [
+    "  0x000d    CARRIAGE RETURN (CR)"
+  ],
+  "C128": [
+    "  &CR  "
+  ],
+  "C129": [
+    "  0x000e    SHIFT OUT (SO)"
+  ],
+  "C130": [
+    "  &SO  "
+  ],
+  "C131": [
+    "  0x000f    SHIFT IN (SI)"
+  ],
+  "C132": [
+    "  &SI  "
+  ],
+  "C133": [
+    "  0x0010    DATALINK ESCAPE (DLE)"
+  ],
+  "C134": [
+    "  &DL  "
+  ],
+  "C135": [
+    "  0x0011    DEVICE CONTROL ONE (DC1)"
+  ],
+  "C136": [
+    "  &D1  "
+  ],
+  "C137": [
+    "  0x0012    DEVICE CONTROL TWO (DC2)"
+  ],
+  "C138": [
+    "  &D2  "
+  ],
+  "C139": [
+    "  0x0013    DEVICE CONTROL THREE (DC3)"
+  ],
+  "C140": [
+    "  &D3  "
+  ],
+  "C141": [
+    "  0x0014    DEVICE CONTROL FOUR (DC4)"
+  ],
+  "C142": [
+    "  &D4  "
+  ],
+  "C143": [
+    "  0x0015    NEGATIVE ACKNOWLEDGE (NAK)"
+  ],
+  "C144": [
+    "  &NK  "
+  ],
+  "C145": [
+    "  0x0016    SYNCRONOUS IDLE (SYN)"
+  ],
+  "C146": [
+    "  &SY  "
+  ],
+  "C147": [
+    "  0x0017    END OF TRANSMISSION BLOCK (ETB)"
+  ],
+  "C148": [
+    "  &EB  "
+  ],
+  "C149": [
+    "  0x0018    CANCEL (CAN)"
+  ],
+  "C150": [
+    "  &CN  "
+  ],
+  "C151": [
+    "  0x0019    END OF MEDIUM (EM)"
+  ],
+  "C152": [
+    "  &EM  "
+  ],
+  "C153": [
+    "  0x001a    SUBSTITUTE (SUB)"
+  ],
+  "C154": [
+    "  &SB  "
+  ],
+  "C155": [
+    "  0x001b    ESCAPE (ESC)"
+  ],
+  "C156": [
+    "  &EC  "
+  ],
+  "C157": [
+    "  0x001c    FILE SEPARATOR (IS4)"
+  ],
+  "C158": [
+    "  &FS  "
+  ],
+  "C159": [
+    "  0x001d    GROUP SEPARATOR (IS3)"
+  ],
+  "C160": [
+    "  &GS  "
+  ],
+  "C161": [
+    "  0x001e    RECORD SEPARATOR (IS2)"
+  ],
+  "C162": [
+    "  &RS  "
+  ],
+  "C163": [
+    "  0x001f    UNIT SEPARATOR (IS1)"
+  ],
+  "C164": [
+    "  &US  "
+  ],
+  "C165": [
+    "  0x007f    DELETE (DEL)"
+  ],
+  "C166": [
+    "  &DT  "
+  ],
+  "C167": [
+    "  0x0080    PADDING CHARACTER (PAD)"
+  ],
+  "C168": [
+    "  &PA  "
+  ],
+  "C169": [
+    "  0x0081    HIGH OCTET PRESET (HOP)"
+  ],
+  "C170": [
+    "  &HO  "
+  ],
+  "C171": [
+    "  0x0082    BREAK PERMITTED HERE (BPH)"
+  ],
+  "C172": [
+    "  &BH  "
+  ],
+  "C173": [
+    "  0x0083    NO BREAK HERE (NBH)"
+  ],
+  "C174": [
+    "  &NH  "
+  ],
+  "C175": [
+    "  0x0084    INDEX (IND)"
+  ],
+  "C176": [
+    "  &IN  "
+  ],
+  "C177": [
+    "  0x0085    NEXT LINE (NEL)"
+  ],
+  "C178": [
+    "  &NL  "
+  ],
+  "C179": [
+    "  0x0086    START OF SELECTED AREA (SSA)"
+  ],
+  "C180": [
+    "  &SA  "
+  ],
+  "C181": [
+    "  0x0087    END OF SELECTED AREA (ESA)"
+  ],
+  "C182": [
+    "  &ES  "
+  ],
+  "C183": [
+    "  0x0088    CHARACTER TABULATION SET (HTS)"
+  ],
+  "C184": [
+    "  &HS  "
+  ],
+  "C185": [
+    "  0x0089    CHARACTER TABULATION WITH JUSTIFICATION (HTJ)"
+  ],
+  "C186": [
+    "  &HJ  "
+  ],
+  "C187": [
+    "  0x008a    LINE TABULATION SET (VTS)"
+  ],
+  "C188": [
+    "  &VS  "
+  ],
+  "C189": [
+    "  0x008b    PARTIAL LINE FORWARD (PLD)"
+  ],
+  "C190": [
+    "  &PD  "
+  ],
+  "C191": [
+    "  0x008c    PARTIAL LINE BACKWARD (PLU)"
+  ],
+  "C192": [
+    "  &PU  "
+  ],
+  "C193": [
+    "  0x008d    REVERSE LINE FEED (RI)"
+  ],
+  "C194": [
+    "  &RI  "
+  ],
+  "C195": [
+    "  0x008e    SINGLE-SHIFT TWO (SS2)"
+  ],
+  "C196": [
+    "  &S2  "
+  ],
+  "C197": [
+    "  0x008f    SINGLE-SHIFT THREE (SS3)"
+  ],
+  "C198": [
+    "  &S3  "
+  ],
+  "C199": [
+    "  0x0090    DEVICE CONTROL STRING (DCS)"
+  ],
+  "C200": [
+    "  &DC  "
+  ],
+  "C201": [
+    "  0x0091    PRIVATE USE ONE (PU1)"
+  ],
+  "C202": [
+    "  &P1  "
+  ],
+  "C203": [
+    "  0x0092    PRIVATE USE TWO (PU2)"
+  ],
+  "C204": [
+    "  &P2  "
+  ],
+  "C205": [
+    "  0x0093    SET TRANSMIT STATE (STS)"
+  ],
+  "C206": [
+    "  &TS  "
+  ],
+  "C207": [
+    "  0x0094    CANCEL CHARACTER (CCH)"
+  ],
+  "C208": [
+    "  &CC  "
+  ],
+  "C209": [
+    "  0x0095    MESSAGE WAITING (MW)"
+  ],
+  "C210": [
+    "  &MW  "
+  ],
+  "C211": [
+    "  0x0096    START OF GUARDED AREA (SPA)"
+  ],
+  "C212": [
+    "  &SG  "
+  ],
+  "C213": [
+    "  0x0097    END OF GUARDED AREA (EPA)"
+  ],
+  "C214": [
+    "  &EG  "
+  ],
+  "C215": [
+    "  0x0098    START OF STRING (SOS)"
+  ],
+  "C216": [
+    "  &SS  "
+  ],
+  "C217": [
+    "  0x0099    SINGLE GRAPHIC CHARACTER INTRODUCER (SGCI)"
+  ],
+  "C218": [
+    "  &GC  "
+  ],
+  "C219": [
+    "  0x009a    SINGLE CHARACTER INTRODUCER (SCI)"
+  ],
+  "C220": [
+    "  &SC  "
+  ],
+  "C221": [
+    "  0x009b    CONTROL SEQUENCE INTRODUCER (CSI)"
+  ],
+  "C222": [
+    "  &CI  "
+  ],
+  "C223": [
+    "  0x009c    STRING TERMINATOR (ST)"
+  ],
+  "C224": [
+    "  &ST  "
+  ],
+  "C225": [
+    "  0x009d    OPERATING SYSTEM COMMAND (OSC)"
+  ],
+  "C226": [
+    "  &OC  "
+  ],
+  "C227": [
+    "  0x009e    PRIVACY MESSAGE (PM)"
+  ],
+  "C228": [
+    "  &PM  "
+  ],
+  "C229": [
+    "  0x009f    APPLICATION PROGRAM COMMAND (APC)"
+  ],
+  "C230": [
+    "  &AC  "
+  ],
+  "C231": [
+    "  0x00a0    NO-BREAK SPACE"
+  ],
+  "C232": [
+    "  &NS  "
+  ],
+  "C233": [
+    "  0x00a1    INVERTED EXCLAMATION MARK"
+  ],
+  "C234": [
+    "  &!I  "
+  ],
+  "C235": [
+    "  0x00a2    CENT SIGN"
+  ],
+  "C236": [
+    "  &Ct  "
+  ],
+  "C237": [
+    "  0x00a3    POUND SIGN"
+  ],
+  "C238": [
+    "  &Pd  "
+  ],
+  "C239": [
+    "  0x00a4    CURRENCY SIGN"
+  ],
+  "C240": [
+    "  &Cu  "
+  ],
+  "C241": [
+    "  0x00a5    YEN SIGN"
+  ],
+  "C242": [
+    "  &Ye  "
+  ],
+  "C243": [
+    "  0x00a6    BROKEN BAR"
+  ],
+  "C244": [
+    "  &BB  "
+  ],
+  "C245": [
+    "  0x00a7    SECTION SIGN"
+  ],
+  "C246": [
+    "  &SE  "
+  ],
+  "C247": [
+    "  0x00a8    DIAERESIS"
+  ],
+  "C248": [
+    "  &':  "
+  ],
+  "C249": [
+    "  0x00a9    COPYRIGHT SIGN"
+  ],
+  "C250": [
+    "  &Co  "
+  ],
+  "C251": [
+    "  0x00aa    FEMININE ORDINAL INDICATOR"
+  ],
+  "C252": [
+    "  &-a  "
+  ],
+  "C253": [
+    "  0x00ab    LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+  ],
+  "C254": [
+    "  &<<  "
+  ],
+  "C255": [
+    "  0x00ac    NOT SIGN"
+  ],
+  "C256": [
+    "  &NO  "
+  ],
+  "C257": [
+    "  0x00ad    SOFT HYPHEN"
+  ],
+  "C258": [
+    "  &--  "
+  ],
+  "C259": [
+    "  0x00ae    REGISTERED SIGN"
+  ],
+  "C260": [
+    "  &Rg  "
+  ],
+  "C261": [
+    "  0x00af    MACRON"
+  ],
+  "C262": [
+    "  &'m  "
+  ],
+  "C263": [
+    "  0x00b0    DEGREE SIGN"
+  ],
+  "C264": [
+    "  &DG  "
+  ],
+  "C265": [
+    "  0x00b1    PLUS-MINUS SIGN"
+  ],
+  "C266": [
+    "  &+-  "
+  ],
+  "C267": [
+    "  0x00b2    SUPERSCRIPT TWO"
+  ],
+  "C268": [
+    "  &2S  "
+  ],
+  "C269": [
+    "  0x00b3    SUPERSCRIPT THREE"
+  ],
+  "C270": [
+    "  &3S  "
+  ],
+  "C271": [
+    "  0x00b4    ACUTE ACCENT"
+  ],
+  "C272": [
+    "  &''  "
+  ],
+  "C273": [
+    "  0x00b5    MICRO SIGN"
+  ],
+  "C274": [
+    "  &My  "
+  ],
+  "C275": [
+    "  0x00b6    PILCROW SIGN"
+  ],
+  "C276": [
+    "  &PI  "
+  ],
+  "C277": [
+    "  0x00b7    MIDDLE DOT"
+  ],
+  "C278": [
+    "  &.M  "
+  ],
+  "C279": [
+    "  0x00b8    CEDILLA"
+  ],
+  "C280": [
+    "  &',  "
+  ],
+  "C281": [
+    "  0x00b9    SUPERSCRIPT ONE"
+  ],
+  "C282": [
+    "  &1S  "
+  ],
+  "C283": [
+    "  0x00ba    MASCULINE ORDINAL INDICATOR"
+  ],
+  "C284": [
+    "  &-o  "
+  ],
+  "C285": [
+    "  0x00bb    RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+  ],
+  "C286": [
+    "  &>>  "
+  ],
+  "C287": [
+    "  0x00bc    VULGAR FRACTION ONE QUARTER"
+  ],
+  "C288": [
+    "  &14  "
+  ],
+  "C289": [
+    "  0x00bd    VULGAR FRACTION ONE HALF"
+  ],
+  "C290": [
+    "  &12  "
+  ],
+  "C291": [
+    "  0x00be    VULGAR FRACTION THREE QUARTERS"
+  ],
+  "C292": [
+    "  &34  "
+  ],
+  "C293": [
+    "  0x00bf    INVERTED QUESTION MARK"
+  ],
+  "C294": [
+    "  &?I  "
+  ],
+  "C295": [
+    "  0x00c0    LATIN CAPITAL LETTER A WITH GRAVE"
+  ],
+  "C296": [
+    "  &A!  "
+  ],
+  "C297": [
+    "  0x00c1    LATIN CAPITAL LETTER A WITH ACUTE"
+  ],
+  "C298": [
+    "  &A'  "
+  ],
+  "C299": [
+    "  0x00c2    LATIN CAPITAL LETTER A WITH CIRCUMFLEX"
+  ],
+  "C300": [
+    "  &A>  "
+  ],
+  "C301": [
+    "  0x00c3    LATIN CAPITAL LETTER A WITH TILDE"
+  ],
+  "C302": [
+    "  &A?  "
+  ],
+  "C303": [
+    "  0x00c4    LATIN CAPITAL LETTER A WITH DIAERESIS"
+  ],
+  "C304": [
+    "  &A:  "
+  ],
+  "C305": [
+    "  0x00c5    LATIN CAPITAL LETTER A WITH RING ABOVE"
+  ],
+  "C306": [
+    "  &AA  "
+  ],
+  "C307": [
+    "  0x00c6    LATIN CAPITAL LETTER AE"
+  ],
+  "C308": [
+    "  &AE  "
+  ],
+  "C309": [
+    "  0x00c7    LATIN CAPITAL LETTER C WITH CEDILLA"
+  ],
+  "C310": [
+    "  &C,  "
+  ],
+  "C311": [
+    "  0x00c8    LATIN CAPITAL LETTER E WITH GRAVE"
+  ],
+  "C312": [
+    "  &E!  "
+  ],
+  "C313": [
+    "  0x00c9    LATIN CAPITAL LETTER E WITH ACUTE"
+  ],
+  "C314": [
+    "  &E'  "
+  ],
+  "C315": [
+    "  0x00ca    LATIN CAPITAL LETTER E WITH CIRCUMFLEX"
+  ],
+  "C316": [
+    "  &E>  "
+  ],
+  "C317": [
+    "  0x00cb    LATIN CAPITAL LETTER E WITH DIAERESIS"
+  ],
+  "C318": [
+    "  &E:  "
+  ],
+  "C319": [
+    "  0x00cc    LATIN CAPITAL LETTER I WITH GRAVE"
+  ],
+  "C320": [
+    "  &I!  "
+  ],
+  "C321": [
+    "  0x00cd    LATIN CAPITAL LETTER I WITH ACUTE"
+  ],
+  "C322": [
+    "  &I'  "
+  ],
+  "C323": [
+    "  0x00ce    LATIN CAPITAL LETTER I WITH CIRCUMFLEX"
+  ],
+  "C324": [
+    "  &I>  "
+  ],
+  "C325": [
+    "  0x00cf    LATIN CAPITAL LETTER I WITH DIAERESIS"
+  ],
+  "C326": [
+    "  &I:  "
+  ],
+  "C327": [
+    "  0x00d0    LATIN CAPITAL LETTER ETH (Icelandic)"
+  ],
+  "C328": [
+    "  &D-  "
+  ],
+  "C329": [
+    "  0x00d1    LATIN CAPITAL LETTER N WITH TILDE"
+  ],
+  "C330": [
+    "  &N?  "
+  ],
+  "C331": [
+    "  0x00d2    LATIN CAPITAL LETTER O WITH GRAVE"
+  ],
+  "C332": [
+    "  &O!  "
+  ],
+  "C333": [
+    "  0x00d3    LATIN CAPITAL LETTER O WITH ACUTE"
+  ],
+  "C334": [
+    "  &O'  "
+  ],
+  "C335": [
+    "  0x00d4    LATIN CAPITAL LETTER O WITH CIRCUMFLEX"
+  ],
+  "C336": [
+    "  &O>  "
+  ],
+  "C337": [
+    "  0x00d5    LATIN CAPITAL LETTER O WITH TILDE"
+  ],
+  "C338": [
+    "  &O?  "
+  ],
+  "C339": [
+    "  0x00d6    LATIN CAPITAL LETTER O WITH DIAERESIS"
+  ],
+  "C340": [
+    "  &O:  "
+  ],
+  "C341": [
+    "  0x00d7    MULTIPLICATION SIGN"
+  ],
+  "C342": [
+    "  &*X  "
+  ],
+  "C343": [
+    "  0x00d8    LATIN CAPITAL LETTER O WITH STROKE"
+  ],
+  "C344": [
+    "  &O/  "
+  ],
+  "C345": [
+    "  0x00d9    LATIN CAPITAL LETTER U WITH GRAVE"
+  ],
+  "C346": [
+    "  &U!  "
+  ],
+  "C347": [
+    "  0x00da    LATIN CAPITAL LETTER U WITH ACUTE"
+  ],
+  "C348": [
+    "  &U'  "
+  ],
+  "C349": [
+    "  0x00db    LATIN CAPITAL LETTER U WITH CIRCUMFLEX"
+  ],
+  "C350": [
+    "  &U>  "
+  ],
+  "C351": [
+    "  0x00dc    LATIN CAPITAL LETTER U WITH DIAERESIS"
+  ],
+  "C352": [
+    "  &U:  "
+  ],
+  "C353": [
+    "  0x00dd    LATIN CAPITAL LETTER Y WITH ACUTE"
+  ],
+  "C354": [
+    "  &Y'  "
+  ],
+  "C355": [
+    "  0x00de    LATIN CAPITAL LETTER THORN (Icelandic)"
+  ],
+  "C356": [
+    "  &TH  "
+  ],
+  "C357": [
+    "  0x00df    LATIN SMALL LETTER SHARP S (German)"
+  ],
+  "C358": [
+    "  &ss  "
+  ],
+  "C359": [
+    "  0x00e0    LATIN SMALL LETTER A WITH GRAVE"
+  ],
+  "C360": [
+    "  &a!  "
+  ],
+  "C361": [
+    "  0x00e1    LATIN SMALL LETTER A WITH ACUTE"
+  ],
+  "C362": [
+    "  &a'  "
+  ],
+  "C363": [
+    "  0x00e2    LATIN SMALL LETTER A WITH CIRCUMFLEX"
+  ],
+  "C364": [
+    "  &a>  "
+  ],
+  "C365": [
+    "  0x00e3    LATIN SMALL LETTER A WITH TILDE"
+  ],
+  "C366": [
+    "  &a?  "
+  ],
+  "C367": [
+    "  0x00e4    LATIN SMALL LETTER A WITH DIAERESIS"
+  ],
+  "C368": [
+    "  &a:  "
+  ],
+  "C369": [
+    "  0x00e5    LATIN SMALL LETTER A WITH RING ABOVE"
+  ],
+  "C370": [
+    "  &aa  "
+  ],
+  "C371": [
+    "  0x00e6    LATIN SMALL LETTER AE"
+  ],
+  "C372": [
+    "  &ae  "
+  ],
+  "C373": [
+    "  0x00e7    LATIN SMALL LETTER C WITH CEDILLA"
+  ],
+  "C374": [
+    "  &c,  "
+  ],
+  "C375": [
+    "  0x00e8    LATIN SMALL LETTER E WITH GRAVE"
+  ],
+  "C376": [
+    "  &e!  "
+  ],
+  "C377": [
+    "  0x00e9    LATIN SMALL LETTER E WITH ACUTE"
+  ],
+  "C378": [
+    "  &e'  "
+  ],
+  "C379": [
+    "  0x00ea    LATIN SMALL LETTER E WITH CIRCUMFLEX"
+  ],
+  "C380": [
+    "  &e>  "
+  ],
+  "C381": [
+    "  0x00eb    LATIN SMALL LETTER E WITH DIAERESIS"
+  ],
+  "C382": [
+    "  &e:  "
+  ],
+  "C383": [
+    "  0x00ec    LATIN SMALL LETTER I WITH GRAVE"
+  ],
+  "C384": [
+    "  &i!  "
+  ],
+  "C385": [
+    "  0x00ed    LATIN SMALL LETTER I WITH ACUTE"
+  ],
+  "C386": [
+    "  &i'  "
+  ],
+  "C387": [
+    "  0x00ee    LATIN SMALL LETTER I WITH CIRCUMFLEX"
+  ],
+  "C388": [
+    "  &i>  "
+  ],
+  "C389": [
+    "  0x00ef    LATIN SMALL LETTER I WITH DIAERESIS"
+  ],
+  "C390": [
+    "  &i:  "
+  ],
+  "C391": [
+    "  0x00f0    LATIN SMALL LETTER ETH (Icelandic)"
+  ],
+  "C392": [
+    "  &d-  "
+  ],
+  "C393": [
+    "  0x00f1    LATIN SMALL LETTER N WITH TILDE"
+  ],
+  "C394": [
+    "  &n?  "
+  ],
+  "C395": [
+    "  0x00f2    LATIN SMALL LETTER O WITH GRAVE"
+  ],
+  "C396": [
+    "  &o!  "
+  ],
+  "C397": [
+    "  0x00f3    LATIN SMALL LETTER O WITH ACUTE"
+  ],
+  "C398": [
+    "  &o'  "
+  ],
+  "C399": [
+    "  0x00f4    LATIN SMALL LETTER O WITH CIRCUMFLEX"
+  ],
+  "C400": [
+    "  &o>  "
+  ],
+  "C401": [
+    "  0x00f5    LATIN SMALL LETTER O WITH TILDE"
+  ],
+  "C402": [
+    "  &o?  "
+  ],
+  "C403": [
+    "  0x00f6    LATIN SMALL LETTER O WITH DIAERESIS"
+  ],
+  "C404": [
+    "  &o:  "
+  ],
+  "C405": [
+    "  0x00f7    DIVISION SIGN"
+  ],
+  "C406": [
+    "  &-:  "
+  ],
+  "C407": [
+    "  0x00f8    LATIN SMALL LETTER O WITH STROKE"
+  ],
+  "C408": [
+    "  &o/  "
+  ],
+  "C409": [
+    "  0x00f9    LATIN SMALL LETTER U WITH GRAVE"
+  ],
+  "C410": [
+    "  &u!  "
+  ],
+  "C411": [
+    "  0x00fa    LATIN SMALL LETTER U WITH ACUTE"
+  ],
+  "C412": [
+    "  &u'  "
+  ],
+  "C413": [
+    "  0x00fb    LATIN SMALL LETTER U WITH CIRCUMFLEX"
+  ],
+  "C414": [
+    "  &u>  "
+  ],
+  "C415": [
+    "  0x00fc    LATIN SMALL LETTER U WITH DIAERESIS"
+  ],
+  "C416": [
+    "  &u:  "
+  ],
+  "C417": [
+    "  0x00fd    LATIN SMALL LETTER Y WITH ACUTE"
+  ],
+  "C418": [
+    "  &y'  "
+  ],
+  "C419": [
+    "  0x00fe    LATIN SMALL LETTER THORN (Icelandic)"
+  ],
+  "C420": [
+    "  &th  "
+  ],
+  "C421": [
+    "  0x00ff    LATIN SMALL LETTER Y WITH DIAERESIS"
+  ],
+  "C422": [
+    "  &y:  "
+  ],
+  "C423": [
+    "  0x0100    LATIN CAPITAL LETTER A WITH MACRON"
+  ],
+  "C424": [
+    "  &A-  "
+  ],
+  "C425": [
+    "  0x0101    LATIN SMALL LETTER A WITH MACRON"
+  ],
+  "C426": [
+    "  &a-  "
+  ],
+  "C427": [
+    "  0x0102    LATIN CAPITAL LETTER A WITH BREVE"
+  ],
+  "C428": [
+    "  &A(  "
+  ],
+  "C429": [
+    "  0x0103    LATIN SMALL LETTER A WITH BREVE"
+  ],
+  "C430": [
+    "  &a(  "
+  ],
+  "C431": [
+    "  0x0104    LATIN CAPITAL LETTER A WITH OGONEK"
+  ],
+  "C432": [
+    "  &A;  "
+  ],
+  "C433": [
+    "  0x0105    LATIN SMALL LETTER A WITH OGONEK"
+  ],
+  "C434": [
+    "  &a;  "
+  ],
+  "C435": [
+    "  0x0106    LATIN CAPITAL LETTER C WITH ACUTE"
+  ],
+  "C436": [
+    "  &C'  "
+  ],
+  "C437": [
+    "  0x0107    LATIN SMALL LETTER C WITH ACUTE"
+  ],
+  "C438": [
+    "  &c'  "
+  ],
+  "C439": [
+    "  0x0108    LATIN CAPITAL LETTER C WITH CIRCUMFLEX"
+  ],
+  "C440": [
+    "  &C>  "
+  ],
+  "C441": [
+    "  0x0109    LATIN SMALL LETTER C WITH CIRCUMFLEX"
+  ],
+  "C442": [
+    "  &c>  "
+  ],
+  "C443": [
+    "  0x010a    LATIN CAPITAL LETTER C WITH DOT ABOVE"
+  ],
+  "C444": [
+    "  &C.  "
+  ],
+  "C445": [
+    "  0x010b    LATIN SMALL LETTER C WITH DOT ABOVE"
+  ],
+  "C446": [
+    "  &c.  "
+  ],
+  "C447": [
+    "  0x010c    LATIN CAPITAL LETTER C WITH CARON"
+  ],
+  "C448": [
+    "  &C<  "
+  ],
+  "C449": [
+    "  0x010d    LATIN SMALL LETTER C WITH CARON"
+  ],
+  "C450": [
+    "  &c<  "
+  ],
+  "C451": [
+    "  0x010e    LATIN CAPITAL LETTER D WITH CARON"
+  ],
+  "C452": [
+    "  &D<  "
+  ],
+  "C453": [
+    "  0x010f    LATIN SMALL LETTER D WITH CARON"
+  ],
+  "C454": [
+    "  &d<  "
+  ],
+  "C455": [
+    "  0x0110    LATIN CAPITAL LETTER D WITH STROKE"
+  ],
+  "C456": [
+    "  &D/  "
+  ],
+  "C457": [
+    "  0x0111    LATIN SMALL LETTER D WITH STROKE"
+  ],
+  "C458": [
+    "  &d/  "
+  ],
+  "C459": [
+    "  0x0112    LATIN CAPITAL LETTER E WITH MACRON"
+  ],
+  "C460": [
+    "  &E-  "
+  ],
+  "C461": [
+    "  0x0113    LATIN SMALL LETTER E WITH MACRON"
+  ],
+  "C462": [
+    "  &e-  "
+  ],
+  "C463": [
+    "  0x0114    LATIN CAPITAL LETTER E WITH BREVE"
+  ],
+  "C464": [
+    "  &E(  "
+  ],
+  "C465": [
+    "  0x0115    LATIN SMALL LETTER E WITH BREVE"
+  ],
+  "C466": [
+    "  &e(  "
+  ],
+  "C467": [
+    "  0x0116    LATIN CAPITAL LETTER E WITH DOT ABOVE"
+  ],
+  "C468": [
+    "  &E.  "
+  ],
+  "C469": [
+    "  0x0117    LATIN SMALL LETTER E WITH DOT ABOVE"
+  ],
+  "C470": [
+    "  &e.  "
+  ],
+  "C471": [
+    "  0x0118    LATIN CAPITAL LETTER E WITH OGONEK"
+  ],
+  "C472": [
+    "  &E;  "
+  ],
+  "C473": [
+    "  0x0119    LATIN SMALL LETTER E WITH OGONEK"
+  ],
+  "C474": [
+    "  &e;  "
+  ],
+  "C475": [
+    "  0x011a    LATIN CAPITAL LETTER E WITH CARON"
+  ],
+  "C476": [
+    "  &E<  "
+  ],
+  "C477": [
+    "  0x011b    LATIN SMALL LETTER E WITH CARON"
+  ],
+  "C478": [
+    "  &e<  "
+  ],
+  "C479": [
+    "  0x011c    LATIN CAPITAL LETTER G WITH CIRCUMFLEX"
+  ],
+  "C480": [
+    "  &G>  "
+  ],
+  "C481": [
+    "  0x011d    LATIN SMALL LETTER G WITH CIRCUMFLEX"
+  ],
+  "C482": [
+    "  &g>  "
+  ],
+  "C483": [
+    "  0x011e    LATIN CAPITAL LETTER G WITH BREVE"
+  ],
+  "C484": [
+    "  &G(  "
+  ],
+  "C485": [
+    "  0x011f    LATIN SMALL LETTER G WITH BREVE"
+  ],
+  "C486": [
+    "  &g(  "
+  ],
+  "C487": [
+    "  0x0120    LATIN CAPITAL LETTER G WITH DOT ABOVE"
+  ],
+  "C488": [
+    "  &G.  "
+  ],
+  "C489": [
+    "  0x0121    LATIN SMALL LETTER G WITH DOT ABOVE"
+  ],
+  "C490": [
+    "  &g.  "
+  ],
+  "C491": [
+    "  0x0122    LATIN CAPITAL LETTER G WITH CEDILLA"
+  ],
+  "C492": [
+    "  &G,  "
+  ],
+  "C493": [
+    "  0x0123    LATIN SMALL LETTER G WITH CEDILLA"
+  ],
+  "C494": [
+    "  &g,  "
+  ],
+  "C495": [
+    "  0x0124    LATIN CAPITAL LETTER H WITH CIRCUMFLEX"
+  ],
+  "C496": [
+    "  &H>  "
+  ],
+  "C497": [
+    "  0x0125    LATIN SMALL LETTER H WITH CIRCUMFLEX"
+  ],
+  "C498": [
+    "  &h>  "
+  ],
+  "C499": [
+    "  0x0126    LATIN CAPITAL LETTER H WITH STROKE"
+  ],
+  "C500": [
+    "  &H/  "
+  ],
+  "C501": [
+    "  0x0127    LATIN SMALL LETTER H WITH STROKE"
+  ],
+  "C502": [
+    "  &h/  "
+  ],
+  "C503": [
+    "  0x0128    LATIN CAPITAL LETTER I WITH TILDE"
+  ],
+  "C504": [
+    "  &I?  "
+  ],
+  "C505": [
+    "  0x0129    LATIN SMALL LETTER I WITH TILDE"
+  ],
+  "C506": [
+    "  &i?  "
+  ],
+  "C507": [
+    "  0x012a    LATIN CAPITAL LETTER I WITH MACRON"
+  ],
+  "C508": [
+    "  &I-  "
+  ],
+  "C509": [
+    "  0x012b    LATIN SMALL LETTER I WITH MACRON"
+  ],
+  "C510": [
+    "  &i-  "
+  ],
+  "C511": [
+    "  0x012c    LATIN CAPITAL LETTER I WITH BREVE"
+  ],
+  "C512": [
+    "  &I(  "
+  ],
+  "C513": [
+    "  0x012d    LATIN SMALL LETTER I WITH BREVE"
+  ],
+  "C514": [
+    "  &i(  "
+  ],
+  "C515": [
+    "  0x012e    LATIN CAPITAL LETTER I WITH OGONEK"
+  ],
+  "C516": [
+    "  &I;  "
+  ],
+  "C517": [
+    "  0x012f    LATIN SMALL LETTER I WITH OGONEK"
+  ],
+  "C518": [
+    "  &i;  "
+  ],
+  "C519": [
+    "  0x0130    LATIN CAPITAL LETTER I WITH DOT ABOVE"
+  ],
+  "C520": [
+    "  &I.  "
+  ],
+  "C521": [
+    "  0x0131    LATIN SMALL LETTER I DOTLESS"
+  ],
+  "C522": [
+    "  &i.  "
+  ],
+  "C523": [
+    "  0x0132    LATIN CAPITAL LIGATURE IJ"
+  ],
+  "C524": [
+    "  &IJ  "
+  ],
+  "C525": [
+    "  0x0133    LATIN SMALL LIGATURE IJ"
+  ],
+  "C526": [
+    "  &ij  "
+  ],
+  "C527": [
+    "  0x0134    LATIN CAPITAL LETTER J WITH CIRCUMFLEX"
+  ],
+  "C528": [
+    "  &J>  "
+  ],
+  "C529": [
+    "  0x0135    LATIN SMALL LETTER J WITH CIRCUMFLEX"
+  ],
+  "C530": [
+    "  &j>  "
+  ],
+  "C531": [
+    "  0x0136    LATIN CAPITAL LETTER K WITH CEDILLA"
+  ],
+  "C532": [
+    "  &K,  "
+  ],
+  "C533": [
+    "  0x0137    LATIN SMALL LETTER K WITH CEDILLA"
+  ],
+  "C534": [
+    "  &k,  "
+  ],
+  "C535": [
+    "  0x0138    LATIN SMALL LETTER KRA (Greenlandic)"
+  ],
+  "C536": [
+    "  &kk  "
+  ],
+  "C537": [
+    "  0x0139    LATIN CAPITAL LETTER L WITH ACUTE"
+  ],
+  "C538": [
+    "  &L'  "
+  ],
+  "C539": [
+    "  0x013a    LATIN SMALL LETTER L WITH ACUTE"
+  ],
+  "C540": [
+    "  &l'  "
+  ],
+  "C541": [
+    "  0x013b    LATIN CAPITAL LETTER L WITH CEDILLA"
+  ],
+  "C542": [
+    "  &L,  "
+  ],
+  "C543": [
+    "  0x013c    LATIN SMALL LETTER L WITH CEDILLA"
+  ],
+  "C544": [
+    "  &l,  "
+  ],
+  "C545": [
+    "  0x013d    LATIN CAPITAL LETTER L WITH CARON"
+  ],
+  "C546": [
+    "  &L<  "
+  ],
+  "C547": [
+    "  0x013e    LATIN SMALL LETTER L WITH CARON"
+  ],
+  "C548": [
+    "  &l<  "
+  ],
+  "C549": [
+    "  0x013f    LATIN CAPITAL LETTER L WITH MIDDLE DOT"
+  ],
+  "C550": [
+    "  &L.  "
+  ],
+  "C551": [
+    "  0x0140    LATIN SMALL LETTER L WITH MIDDLE DOT"
+  ],
+  "C552": [
+    "  &l.  "
+  ],
+  "C553": [
+    "  0x0141    LATIN CAPITAL LETTER L WITH STROKE"
+  ],
+  "C554": [
+    "  &L/  "
+  ],
+  "C555": [
+    "  0x0142    LATIN SMALL LETTER L WITH STROKE"
+  ],
+  "C556": [
+    "  &l/  "
+  ],
+  "C557": [
+    "  0x0143    LATIN CAPITAL LETTER N WITH ACUTE"
+  ],
+  "C558": [
+    "  &N'  "
+  ],
+  "C559": [
+    "  0x0144    LATIN SMALL LETTER N WITH ACUTE"
+  ],
+  "C560": [
+    "  &n'  "
+  ],
+  "C561": [
+    "  0x0145    LATIN CAPITAL LETTER N WITH CEDILLA"
+  ],
+  "C562": [
+    "  &N,  "
+  ],
+  "C563": [
+    "  0x0146    LATIN SMALL LETTER N WITH CEDILLA"
+  ],
+  "C564": [
+    "  &n,  "
+  ],
+  "C565": [
+    "  0x0147    LATIN CAPITAL LETTER N WITH CARON"
+  ],
+  "C566": [
+    "  &N<  "
+  ],
+  "C567": [
+    "  0x0148    LATIN SMALL LETTER N WITH CARON"
+  ],
+  "C568": [
+    "  &n<  "
+  ],
+  "C569": [
+    "  0x0149    LATIN SMALL LETTER N PRECEDED BY APOSTROPHE"
+  ],
+  "C570": [
+    "  &'n  "
+  ],
+  "C571": [
+    "  0x014a    LATIN CAPITAL LETTER ENG (Lappish)"
+  ],
+  "C572": [
+    "  &NG  "
+  ],
+  "C573": [
+    "  0x014b    LATIN SMALL LETTER ENG (Lappish)"
+  ],
+  "C574": [
+    "  &ng  "
+  ],
+  "C575": [
+    "  0x014c    LATIN CAPITAL LETTER O WITH MACRON"
+  ],
+  "C576": [
+    "  &O-  "
+  ],
+  "C577": [
+    "  0x014d    LATIN SMALL LETTER O WITH MACRON"
+  ],
+  "C578": [
+    "  &o-  "
+  ],
+  "C579": [
+    "  0x014e    LATIN CAPITAL LETTER O WITH BREVE"
+  ],
+  "C580": [
+    "  &O(  "
+  ],
+  "C581": [
+    "  0x014f    LATIN SMALL LETTER O WITH BREVE"
+  ],
+  "C582": [
+    "  &o(  "
+  ],
+  "C583": [
+    "  0x0150    LATIN CAPITAL LETTER O WITH DOUBLE ACUTE"
+  ],
+  "C584": [
+    "  &O\"  "
+  ],
+  "C585": [
+    "  0x0151    LATIN SMALL LETTER O WITH DOUBLE ACUTE"
+  ],
+  "C586": [
+    "  &o\"  "
+  ],
+  "C587": [
+    "  0x0152    LATIN CAPITAL LIGATURE OE"
+  ],
+  "C588": [
+    "  &OE  "
+  ],
+  "C589": [
+    "  0x0153    LATIN SMALL LIGATURE OE"
+  ],
+  "C590": [
+    "  &oe  "
+  ],
+  "C591": [
+    "  0x0154    LATIN CAPITAL LETTER R WITH ACUTE"
+  ],
+  "C592": [
+    "  &R'  "
+  ],
+  "C593": [
+    "  0x0155    LATIN SMALL LETTER R WITH ACUTE"
+  ],
+  "C594": [
+    "  &r'  "
+  ],
+  "C595": [
+    "  0x0156    LATIN CAPITAL LETTER R WITH CEDILLA"
+  ],
+  "C596": [
+    "  &R,  "
+  ],
+  "C597": [
+    "  0x0157    LATIN SMALL LETTER R WITH CEDILLA"
+  ],
+  "C598": [
+    "  &r,  "
+  ],
+  "C599": [
+    "  0x0158    LATIN CAPITAL LETTER R WITH CARON"
+  ],
+  "C600": [
+    "  &R<  "
+  ],
+  "C601": [
+    "  0x0159    LATIN SMALL LETTER R WITH CARON"
+  ],
+  "C602": [
+    "  &r<  "
+  ],
+  "C603": [
+    "  0x015a    LATIN CAPITAL LETTER S WITH ACUTE"
+  ],
+  "C604": [
+    "  &S'  "
+  ],
+  "C605": [
+    "  0x015b    LATIN SMALL LETTER S WITH ACUTE"
+  ],
+  "C606": [
+    "  &s'  "
+  ],
+  "C607": [
+    "  0x015c    LATIN CAPITAL LETTER S WITH CIRCUMFLEX"
+  ],
+  "C608": [
+    "  &S>  "
+  ],
+  "C609": [
+    "  0x015d    LATIN SMALL LETTER S WITH CIRCUMFLEX"
+  ],
+  "C610": [
+    "  &s>  "
+  ],
+  "C611": [
+    "  0x015e    LATIN CAPITAL LETTER S WITH CEDILLA"
+  ],
+  "C612": [
+    "  &S,  "
+  ],
+  "C613": [
+    "  0x015f    LATIN SMALL LETTER S WITH CEDILLA"
+  ],
+  "C614": [
+    "  &s,  "
+  ],
+  "C615": [
+    "  0x0160    LATIN CAPITAL LETTER S WITH CARON"
+  ],
+  "C616": [
+    "  &S<  "
+  ],
+  "C617": [
+    "  0x0161    LATIN SMALL LETTER S WITH CARON"
+  ],
+  "C618": [
+    "  &s<  "
+  ],
+  "C619": [
+    "  0x0162    LATIN CAPITAL LETTER T WITH CEDILLA"
+  ],
+  "C620": [
+    "  &T,  "
+  ],
+  "C621": [
+    "  0x0163    LATIN SMALL LETTER T WITH CEDILLA"
+  ],
+  "C622": [
+    "  &t,  "
+  ],
+  "C623": [
+    "  0x0164    LATIN CAPITAL LETTER T WITH CARON"
+  ],
+  "C624": [
+    "  &T<  "
+  ],
+  "C625": [
+    "  0x0165    LATIN SMALL LETTER T WITH CARON"
+  ],
+  "C626": [
+    "  &t<  "
+  ],
+  "C627": [
+    "  0x0166    LATIN CAPITAL LETTER T WITH STROKE"
+  ],
+  "C628": [
+    "  &T/  "
+  ],
+  "C629": [
+    "  0x0167    LATIN SMALL LETTER T WITH STROKE"
+  ],
+  "C630": [
+    "  &t/  "
+  ],
+  "C631": [
+    "  0x0168    LATIN CAPITAL LETTER U WITH TILDE"
+  ],
+  "C632": [
+    "  &U?  "
+  ],
+  "C633": [
+    "  0x0169    LATIN SMALL LETTER U WITH TILDE"
+  ],
+  "C634": [
+    "  &u?  "
+  ],
+  "C635": [
+    "  0x016a    LATIN CAPITAL LETTER U WITH MACRON"
+  ],
+  "C636": [
+    "  &U-  "
+  ],
+  "C637": [
+    "  0x016b    LATIN SMALL LETTER U WITH MACRON"
+  ],
+  "C638": [
+    "  &u-  "
+  ],
+  "C639": [
+    "  0x016c    LATIN CAPITAL LETTER U WITH BREVE"
+  ],
+  "C640": [
+    "  &U(  "
+  ],
+  "C641": [
+    "  0x016d    LATIN SMALL LETTER U WITH BREVE"
+  ],
+  "C642": [
+    "  &u(  "
+  ],
+  "C643": [
+    "  0x016e    LATIN CAPITAL LETTER U WITH RING ABOVE"
+  ],
+  "C644": [
+    "  &U0  "
+  ],
+  "C645": [
+    "  0x016f    LATIN SMALL LETTER U WITH RING ABOVE"
+  ],
+  "C646": [
+    "  &u0  "
+  ],
+  "C647": [
+    "  0x0170    LATIN CAPITAL LETTER U WITH DOUBLE ACUTE"
+  ],
+  "C648": [
+    "  &U\"  "
+  ],
+  "C649": [
+    "  0x0171    LATIN SMALL LETTER U WITH DOUBLE ACUTE"
+  ],
+  "C650": [
+    "  &u\"  "
+  ],
+  "C651": [
+    "  0x0172    LATIN CAPITAL LETTER U WITH OGONEK"
+  ],
+  "C652": [
+    "  &U;  "
+  ],
+  "C653": [
+    "  0x0173    LATIN SMALL LETTER U WITH OGONEK"
+  ],
+  "C654": [
+    "  &u;  "
+  ],
+  "C655": [
+    "  0x0174    LATIN CAPITAL LETTER W WITH CIRCUMFLEX"
+  ],
+  "C656": [
+    "  &W>  "
+  ],
+  "C657": [
+    "  0x0175    LATIN SMALL LETTER W WITH CIRCUMFLEX"
+  ],
+  "C658": [
+    "  &w>  "
+  ],
+  "C659": [
+    "  0x0176    LATIN CAPITAL LETTER Y WITH CIRCUMFLEX"
+  ],
+  "C660": [
+    "  &Y>  "
+  ],
+  "C661": [
+    "  0x0177    LATIN SMALL LETTER Y WITH CIRCUMFLEX"
+  ],
+  "C662": [
+    "  &y>  "
+  ],
+  "C663": [
+    "  0x0178    LATIN CAPITAL LETTER Y WITH DIAERESIS"
+  ],
+  "C664": [
+    "  &Y:  "
+  ],
+  "C665": [
+    "  0x0179    LATIN CAPITAL LETTER Z WITH ACUTE"
+  ],
+  "C666": [
+    "  &Z'  "
+  ],
+  "C667": [
+    "  0x017a    LATIN SMALL LETTER Z WITH ACUTE"
+  ],
+  "C668": [
+    "  &z'  "
+  ],
+  "C669": [
+    "  0x017b    LATIN CAPITAL LETTER Z WITH DOT ABOVE"
+  ],
+  "C670": [
+    "  &Z.  "
+  ],
+  "C671": [
+    "  0x017c    LATIN SMALL LETTER Z WITH DOT ABOVE"
+  ],
+  "C672": [
+    "  &z.  "
+  ],
+  "C673": [
+    "  0x017d    LATIN CAPITAL LETTER Z WITH CARON"
+  ],
+  "C674": [
+    "  &Z<  "
+  ],
+  "C675": [
+    "  0x017e    LATIN SMALL LETTER Z WITH CARON"
+  ],
+  "C676": [
+    "  &z<  "
+  ],
+  "C677": [
+    "  0x01a0    LATIN CAPITAL LETTER O WITH HORN"
+  ],
+  "C678": [
+    "  &O9  "
+  ],
+  "C679": [
+    "  0x01a1    LATIN SMALL LETTER O WITH HORN"
+  ],
+  "C680": [
+    "  &o9  "
+  ],
+  "C681": [
+    "  0x01a2    LATIN CAPITAL LETTER OI"
+  ],
+  "C682": [
+    "  &OI  "
+  ],
+  "C683": [
+    "  0x01a3    LATIN SMALL LETTER OI"
+  ],
+  "C684": [
+    "  &oi  "
+  ],
+  "C685": [
+    "  0x01a6    LATIN LETTER YR"
+  ],
+  "C686": [
+    "  &yr  "
+  ],
+  "C687": [
+    "  0x01af    LATIN CAPITAL LETTER U WITH HORN"
+  ],
+  "C688": [
+    "  &U9  "
+  ],
+  "C689": [
+    "  0x01b0    LATIN SMALL LETTER U WITH HORN"
+  ],
+  "C690": [
+    "  &u9  "
+  ],
+  "C691": [
+    "  0x01b5    LATIN CAPITAL LETTER Z WITH STROKE"
+  ],
+  "C692": [
+    "  &Z/  "
+  ],
+  "C693": [
+    "  0x01b6    LATIN SMALL LETTER Z WITH STROKE"
+  ],
+  "C694": [
+    "  &z/  "
+  ],
+  "C695": [
+    "  0x01b7    LATIN CAPITAL LETTER EZH"
+  ],
+  "C696": [
+    "  &ED  "
+  ],
+  "C697": [
+    "  0x01cd    LATIN CAPITAL LETTER A WITH CARON"
+  ],
+  "C698": [
+    "  &A<  "
+  ],
+  "C699": [
+    "  0x01ce    LATIN SMALL LETTER A WITH CARON"
+  ],
+  "C700": [
+    "  &a<  "
+  ],
+  "C701": [
+    "  0x01cf    LATIN CAPITAL LETTER I WITH CARON"
+  ],
+  "C702": [
+    "  &I<  "
+  ],
+  "C703": [
+    "  0x01d0    LATIN SMALL LETTER I WITH CARON"
+  ],
+  "C704": [
+    "  &i<  "
+  ],
+  "C705": [
+    "  0x01d1    LATIN CAPITAL LETTER O WITH CARON"
+  ],
+  "C706": [
+    "  &O<  "
+  ],
+  "C707": [
+    "  0x01d2    LATIN SMALL LETTER O WITH CARON"
+  ],
+  "C708": [
+    "  &o<  "
+  ],
+  "C709": [
+    "  0x01d3    LATIN CAPITAL LETTER U WITH CARON"
+  ],
+  "C710": [
+    "  &U<  "
+  ],
+  "C711": [
+    "  0x01d4    LATIN SMALL LETTER U WITH CARON"
+  ],
+  "C712": [
+    "  &u<  "
+  ],
+  "C713": [
+    "  0x01d5    LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON"
+  ],
+  "C714": [
+    "  &_U:-_  "
+  ],
+  "C715": [
+    "  0x01d6    LATIN SMALL LETTER U WITH DIAERESIS AND MACRON"
+  ],
+  "C716": [
+    "  &_u:-_  "
+  ],
+  "C717": [
+    "  0x01d7    LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE"
+  ],
+  "C718": [
+    "  &_U:'_  "
+  ],
+  "C719": [
+    "  0x01d8    LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE"
+  ],
+  "C720": [
+    "  &_u:'_  "
+  ],
+  "C721": [
+    "  0x01d9    LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON"
+  ],
+  "C722": [
+    "  &_U:<_  "
+  ],
+  "C723": [
+    "  0x01da    LATIN SMALL LETTER U WITH DIAERESIS AND CARON"
+  ],
+  "C724": [
+    "  &_u:<_  "
+  ],
+  "C725": [
+    "  0x01db    LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE"
+  ],
+  "C726": [
+    "  &_U:!_  "
+  ],
+  "C727": [
+    "  0x01dc    LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE"
+  ],
+  "C728": [
+    "  &_u:!_  "
+  ],
+  "C729": [
+    "  0x01de    LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON"
+  ],
+  "C730": [
+    "  &A1  "
+  ],
+  "C731": [
+    "  0x01df    LATIN SMALL LETTER A WITH DIAERESIS AND MACRON"
+  ],
+  "C732": [
+    "  &a1  "
+  ],
+  "C733": [
+    "  0x01e0    LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON"
+  ],
+  "C734": [
+    "  &A7  "
+  ],
+  "C735": [
+    "  0x01e1    LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON"
+  ],
+  "C736": [
+    "  &a7  "
+  ],
+  "C737": [
+    "  0x01e2    LATIN CAPITAL LETTER AE WITH MACRON"
+  ],
+  "C738": [
+    "  &A3  "
+  ],
+  "C739": [
+    "  0x01e3    LATIN SMALL LETTER AE WITH MACRON"
+  ],
+  "C740": [
+    "  &a3  "
+  ],
+  "C741": [
+    "  0x01e4    LATIN CAPITAL LETTER G WITH STROKE"
+  ],
+  "C742": [
+    "  &G/  "
+  ],
+  "C743": [
+    "  0x01e5    LATIN SMALL LETTER G WITH STROKE"
+  ],
+  "C744": [
+    "  &g/  "
+  ],
+  "C745": [
+    "  0x01e6    LATIN CAPITAL LETTER G WITH CARON"
+  ],
+  "C746": [
+    "  &G<  "
+  ],
+  "C747": [
+    "  0x01e7    LATIN SMALL LETTER G WITH CARON"
+  ],
+  "C748": [
+    "  &g<  "
+  ],
+  "C749": [
+    "  0x01e8    LATIN CAPITAL LETTER K WITH CARON"
+  ],
+  "C750": [
+    "  &K<  "
+  ],
+  "C751": [
+    "  0x01e9    LATIN SMALL LETTER K WITH CARON"
+  ],
+  "C752": [
+    "  &k<  "
+  ],
+  "C753": [
+    "  0x01ea    LATIN CAPITAL LETTER O WITH OGONEK"
+  ],
+  "C754": [
+    "  &O;  "
+  ],
+  "C755": [
+    "  0x01eb    LATIN SMALL LETTER O WITH OGONEK"
+  ],
+  "C756": [
+    "  &o;  "
+  ],
+  "C757": [
+    "  0x01ec    LATIN CAPITAL LETTER O WITH OGONEK AND MACRON"
+  ],
+  "C758": [
+    "  &O1  "
+  ],
+  "C759": [
+    "  0x01ed    LATIN SMALL LETTER O WITH OGONEK AND MACRON"
+  ],
+  "C760": [
+    "  &o1  "
+  ],
+  "C761": [
+    "  0x01ee    LATIN CAPITAL LETTER EZH WITH CARON"
+  ],
+  "C762": [
+    "  &EZ  "
+  ],
+  "C763": [
+    "  0x01ef    LATIN SMALL LETTER EZH WITH CARON"
+  ],
+  "C764": [
+    "  &ez  "
+  ],
+  "C765": [
+    "  0x01f0    LATIN SMALL LETTER J WITH CARON"
+  ],
+  "C766": [
+    "  &j<  "
+  ],
+  "C767": [
+    "  0x01f4    LATIN CAPITAL LETTER G WITH ACUTE"
+  ],
+  "C768": [
+    "  &G'  "
+  ],
+  "C769": [
+    "  0x01f5    LATIN SMALL LETTER G WITH ACUTE"
+  ],
+  "C770": [
+    "  &g'  "
+  ],
+  "C771": [
+    "  0x01fa    LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE"
+  ],
+  "C772": [
+    "  &_AA'_  "
+  ],
+  "C773": [
+    "  0x01fb    LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE"
+  ],
+  "C774": [
+    "  &_aa'_  "
+  ],
+  "C775": [
+    "  0x01fc    LATIN CAPITAL LETTER AE WITH ACUTE"
+  ],
+  "C776": [
+    "  &_AE'_  "
+  ],
+  "C777": [
+    "  0x01fd    LATIN SMALL LETTER AE WITH ACUTE"
+  ],
+  "C778": [
+    "  &_ae'_  "
+  ],
+  "C779": [
+    "  0x01fe    LATIN CAPITAL LETTER O WITH STROKE AND ACUTE"
+  ],
+  "C780": [
+    "  &_O/'_  "
+  ],
+  "C781": [
+    "  0x01ff    LATIN SMALL LETTER O WITH STROKE AND ACUTE"
+  ],
+  "C782": [
+    "  &_o/'_  "
+  ],
+  "C783": [
+    "  0x02bf    MODIFIER LETTER LEFT HALF RING"
+  ],
+  "C784": [
+    "  &;S  "
+  ],
+  "C785": [
+    "  0x02c7    CARON"
+  ],
+  "C786": [
+    "  &'<  "
+  ],
+  "C787": [
+    "  0x02d8    BREVE"
+  ],
+  "C788": [
+    "  &'(  "
+  ],
+  "C789": [
+    "  0x02d9    DOT ABOVE"
+  ],
+  "C790": [
+    "  &'.  "
+  ],
+  "C791": [
+    "  0x02da    RING ABOVE"
+  ],
+  "C792": [
+    "  &'0  "
+  ],
+  "C793": [
+    "  0x02db    OGONEK"
+  ],
+  "C794": [
+    "  &';  "
+  ],
+  "C795": [
+    "  0x02dd    DOUBLE ACUTE ACCENT"
+  ],
+  "C796": [
+    "  &'\"  "
+  ],
+  "C797": [
+    "  0x0386    GREEK CAPITAL LETTER ALPHA WITH ACUTE"
+  ],
+  "C798": [
+    "  &A%  "
+  ],
+  "C799": [
+    "  0x0388    GREEK CAPITAL LETTER EPSILON WITH ACUTE"
+  ],
+  "C800": [
+    "  &E%  "
+  ],
+  "C801": [
+    "  0x0389    GREEK CAPITAL LETTER ETA WITH ACUTE"
+  ],
+  "C802": [
+    "  &Y%  "
+  ],
+  "C803": [
+    "  0x038a    GREEK CAPITAL LETTER IOTA WITH ACUTE"
+  ],
+  "C804": [
+    "  &I%  "
+  ],
+  "C805": [
+    "  0x038c    GREEK CAPITAL LETTER OMICRON WITH ACUTE"
+  ],
+  "C806": [
+    "  &O%  "
+  ],
+  "C807": [
+    "  0x038e    GREEK CAPITAL LETTER UPSILON WITH ACUTE"
+  ],
+  "C808": [
+    "  &U%  "
+  ],
+  "C809": [
+    "  0x038f    GREEK CAPITAL LETTER OMEGA WITH ACUTE"
+  ],
+  "C810": [
+    "  &W%  "
+  ],
+  "C811": [
+    "  0x0390    GREEK SMALL LETTER IOTA WITH ACUTE AND DIAERESIS"
+  ],
+  "C812": [
+    "  &i3  "
+  ],
+  "C813": [
+    "  0x0391    GREEK CAPITAL LETTER ALPHA"
+  ],
+  "C814": [
+    "  &A*  "
+  ],
+  "C815": [
+    "  0x0392    GREEK CAPITAL LETTER BETA"
+  ],
+  "C816": [
+    "  &B*  "
+  ],
+  "C817": [
+    "  0x0393    GREEK CAPITAL LETTER GAMMA"
+  ],
+  "C818": [
+    "  &G*  "
+  ],
+  "C819": [
+    "  0x0394    GREEK CAPITAL LETTER DELTA"
+  ],
+  "C820": [
+    "  &D*  "
+  ],
+  "C821": [
+    "  0x0395    GREEK CAPITAL LETTER EPSILON"
+  ],
+  "C822": [
+    "  &E*  "
+  ],
+  "C823": [
+    "  0x0396    GREEK CAPITAL LETTER ZETA"
+  ],
+  "C824": [
+    "  &Z*  "
+  ],
+  "C825": [
+    "  0x0397    GREEK CAPITAL LETTER ETA"
+  ],
+  "C826": [
+    "  &Y*  "
+  ],
+  "C827": [
+    "  0x0398    GREEK CAPITAL LETTER THETA"
+  ],
+  "C828": [
+    "  &H*  "
+  ],
+  "C829": [
+    "  0x0399    GREEK CAPITAL LETTER IOTA"
+  ],
+  "C830": [
+    "  &I*  "
+  ],
+  "C831": [
+    "  0x039a    GREEK CAPITAL LETTER KAPPA"
+  ],
+  "C832": [
+    "  &K*  "
+  ],
+  "C833": [
+    "  0x039b    GREEK CAPITAL LETTER LAMDA"
+  ],
+  "C834": [
+    "  &L*  "
+  ],
+  "C835": [
+    "  0x039c    GREEK CAPITAL LETTER MU"
+  ],
+  "C836": [
+    "  &M*  "
+  ],
+  "C837": [
+    "  0x039d    GREEK CAPITAL LETTER NU"
+  ],
+  "C838": [
+    "  &N*  "
+  ],
+  "C839": [
+    "  0x039e    GREEK CAPITAL LETTER XI"
+  ],
+  "C840": [
+    "  &C*  "
+  ],
+  "C841": [
+    "  0x039f    GREEK CAPITAL LETTER OMICRON"
+  ],
+  "C842": [
+    "  &O*  "
+  ],
+  "C843": [
+    "  0x03a0    GREEK CAPITAL LETTER PI"
+  ],
+  "C844": [
+    "  &P*  "
+  ],
+  "C845": [
+    "  0x03a1    GREEK CAPITAL LETTER RHO"
+  ],
+  "C846": [
+    "  &R*  "
+  ],
+  "C847": [
+    "  0x03a3    GREEK CAPITAL LETTER SIGMA"
+  ],
+  "C848": [
+    "  &S*  "
+  ],
+  "C849": [
+    "  0x03a4    GREEK CAPITAL LETTER TAU"
+  ],
+  "C850": [
+    "  &T*  "
+  ],
+  "C851": [
+    "  0x03a5    GREEK CAPITAL LETTER UPSILON"
+  ],
+  "C852": [
+    "  &U*  "
+  ],
+  "C853": [
+    "  0x03a6    GREEK CAPITAL LETTER PHI"
+  ],
+  "C854": [
+    "  &F*  "
+  ],
+  "C855": [
+    "  0x03a7    GREEK CAPITAL LETTER CHI"
+  ],
+  "C856": [
+    "  &X*  "
+  ],
+  "C857": [
+    "  0x03a8    GREEK CAPITAL LETTER PSI"
+  ],
+  "C858": [
+    "  &Q*  "
+  ],
+  "C859": [
+    "  0x03a9    GREEK CAPITAL LETTER OMEGA"
+  ],
+  "C860": [
+    "  &W*  "
+  ],
+  "C861": [
+    "  0x03aa    GREEK CAPITAL LETTER IOTA WITH DIAERESIS"
+  ],
+  "C862": [
+    "  &J*  "
+  ],
+  "C863": [
+    "  0x03ab    GREEK CAPITAL LETTER UPSILON WITH DIAERESIS"
+  ],
+  "C864": [
+    "  &V*  "
+  ],
+  "C865": [
+    "  0x03ac    GREEK SMALL LETTER ALPHA WITH ACUTE"
+  ],
+  "C866": [
+    "  &a%  "
+  ],
+  "C867": [
+    "  0x03ad    GREEK SMALL LETTER EPSILON WITH ACUTE"
+  ],
+  "C868": [
+    "  &e%  "
+  ],
+  "C869": [
+    "  0x03ae    GREEK SMALL LETTER ETA WITH ACUTE"
+  ],
+  "C870": [
+    "  &y%  "
+  ],
+  "C871": [
+    "  0x03af    GREEK SMALL LETTER IOTA WITH ACUTE"
+  ],
+  "C872": [
+    "  &i%  "
+  ],
+  "C873": [
+    "  0x03b0    GREEK SMALL LETTER UPSILON WITH ACUTE AND DIAERESIS"
+  ],
+  "C874": [
+    "  &u3  "
+  ],
+  "C875": [
+    "  0x03b1    GREEK SMALL LETTER ALPHA"
+  ],
+  "C876": [
+    "  &a*  "
+  ],
+  "C877": [
+    "  0x03b2    GREEK SMALL LETTER BETA"
+  ],
+  "C878": [
+    "  &b*  "
+  ],
+  "C879": [
+    "  0x03b3    GREEK SMALL LETTER GAMMA"
+  ],
+  "C880": [
+    "  &g*  "
+  ],
+  "C881": [
+    "  0x03b4    GREEK SMALL LETTER DELTA"
+  ],
+  "C882": [
+    "  &d*  "
+  ],
+  "C883": [
+    "  0x03b5    GREEK SMALL LETTER EPSILON"
+  ],
+  "C884": [
+    "  &e*  "
+  ],
+  "C885": [
+    "  0x03b6    GREEK SMALL LETTER ZETA"
+  ],
+  "C886": [
+    "  &z*  "
+  ],
+  "C887": [
+    "  0x03b7    GREEK SMALL LETTER ETA"
+  ],
+  "C888": [
+    "  &y*  "
+  ],
+  "C889": [
+    "  0x03b8    GREEK SMALL LETTER THETA"
+  ],
+  "C890": [
+    "  &h*  "
+  ],
+  "C891": [
+    "  0x03b9    GREEK SMALL LETTER IOTA"
+  ],
+  "C892": [
+    "  &i*  "
+  ],
+  "C893": [
+    "  0x03ba    GREEK SMALL LETTER KAPPA"
+  ],
+  "C894": [
+    "  &k*  "
+  ],
+  "C895": [
+    "  0x03bb    GREEK SMALL LETTER LAMDA"
+  ],
+  "C896": [
+    "  &l*  "
+  ],
+  "C897": [
+    "  0x03bc    GREEK SMALL LETTER MU"
+  ],
+  "C898": [
+    "  &m*  "
+  ],
+  "C899": [
+    "  0x03bd    GREEK SMALL LETTER NU"
+  ],
+  "C900": [
+    "  &n*  "
+  ],
+  "C901": [
+    "  0x03be    GREEK SMALL LETTER XI"
+  ],
+  "C902": [
+    "  &c*  "
+  ],
+  "C903": [
+    "  0x03bf    GREEK SMALL LETTER OMICRON"
+  ],
+  "C904": [
+    "  &o*  "
+  ],
+  "C905": [
+    "  0x03c0    GREEK SMALL LETTER PI"
+  ],
+  "C906": [
+    "  &p*  "
+  ],
+  "C907": [
+    "  0x03c1    GREEK SMALL LETTER RHO"
+  ],
+  "C908": [
+    "  &r*  "
+  ],
+  "C909": [
+    "  0x03c2    GREEK SMALL LETTER FINAL SIGMA"
+  ],
+  "C910": [
+    "  &*s  "
+  ],
+  "C911": [
+    "  0x03c3    GREEK SMALL LETTER SIGMA"
+  ],
+  "C912": [
+    "  &s*  "
+  ],
+  "C913": [
+    "  0x03c4    GREEK SMALL LETTER TAU"
+  ],
+  "C914": [
+    "  &t*  "
+  ],
+  "C915": [
+    "  0x03c5    GREEK SMALL LETTER UPSILON"
+  ],
+  "C916": [
+    "  &u*  "
+  ],
+  "C917": [
+    "  0x03c6    GREEK SMALL LETTER PHI"
+  ],
+  "C918": [
+    "  &f*  "
+  ],
+  "C919": [
+    "  0x03c7    GREEK SMALL LETTER CHI"
+  ],
+  "C920": [
+    "  &x*  "
+  ],
+  "C921": [
+    "  0x03c8    GREEK SMALL LETTER PSI"
+  ],
+  "C922": [
+    "  &q*  "
+  ],
+  "C923": [
+    "  0x03c9    GREEK SMALL LETTER OMEGA"
+  ],
+  "C924": [
+    "  &w*  "
+  ],
+  "C925": [
+    "  0x03ca    GREEK SMALL LETTER IOTA WITH DIAERESIS"
+  ],
+  "C926": [
+    "  &j*  "
+  ],
+  "C927": [
+    "  0x03cb    GREEK SMALL LETTER UPSILON WITH DIAERESIS"
+  ],
+  "C928": [
+    "  &v*  "
+  ],
+  "C929": [
+    "  0x03cc    GREEK SMALL LETTER OMICRON WITH ACUTE"
+  ],
+  "C930": [
+    "  &o%  "
+  ],
+  "C931": [
+    "  0x03cd    GREEK SMALL LETTER UPSILON WITH ACUTE"
+  ],
+  "C932": [
+    "  &u%  "
+  ],
+  "C933": [
+    "  0x03ce    GREEK SMALL LETTER OMEGA WITH ACUTE"
+  ],
+  "C934": [
+    "  &w%  "
+  ],
+  "C935": [
+    "  0x03d8    GREEK NUMERAL SIGN"
+  ],
+  "C936": [
+    "  &'G  "
+  ],
+  "C937": [
+    "  0x03d9    GREEK LOWER NUMERAL SIGN"
+  ],
+  "C938": [
+    "  &,G  "
+  ],
+  "C939": [
+    "  0x03da    GREEK CAPITAL LETTER STIGMA"
+  ],
+  "C940": [
+    "  &T3  "
+  ],
+  "C941": [
+    "  0x03db    GREEK SMALL LETTER STIGMA"
+  ],
+  "C942": [
+    "  &t3  "
+  ],
+  "C943": [
+    "  0x03dc    GREEK CAPITAL LETTER DIGAMMA"
+  ],
+  "C944": [
+    "  &M3  "
+  ],
+  "C945": [
+    "  0x03dd    GREEK SMALL LETTER DIGAMMA"
+  ],
+  "C946": [
+    "  &m3  "
+  ],
+  "C947": [
+    "  0x03de    GREEK CAPITAL LETTER KOPPA"
+  ],
+  "C948": [
+    "  &K3  "
+  ],
+  "C949": [
+    "  0x03df    GREEK SMALL LETTER KOPPA"
+  ],
+  "C950": [
+    "  &k3  "
+  ],
+  "C951": [
+    "  0x03e0    GREEK CAPITAL LETTER SAMPI"
+  ],
+  "C952": [
+    "  &P3  "
+  ],
+  "C953": [
+    "  0x03e1    GREEK SMALL LETTER SAMPI"
+  ],
+  "C954": [
+    "  &p3  "
+  ],
+  "C955": [
+    "  0x03f4    ACUTE ACCENT AND DIAERESIS (Tonos and Dialytika)"
+  ],
+  "C956": [
+    "  &'%  "
+  ],
+  "C957": [
+    "  0x03f5    GREEK IOTA BELOW"
+  ],
+  "C958": [
+    "  &j3  "
+  ],
+  "C959": [
+    "  0x0401    CYRILLIC CAPITAL LETTER IO"
+  ],
+  "C960": [
+    "  &IO  "
+  ],
+  "C961": [
+    "  0x0402    CYRILLIC CAPITAL LETTER DJE (Serbocroatian)"
+  ],
+  "C962": [
+    "  &D%  "
+  ],
+  "C963": [
+    "  0x0403    CYRILLIC CAPITAL LETTER GJE (Macedonian)"
+  ],
+  "C964": [
+    "  &G%  "
+  ],
+  "C965": [
+    "  0x0404    CYRILLIC CAPITAL LETTER UKRAINIAN IE"
+  ],
+  "C966": [
+    "  &IE  "
+  ],
+  "C967": [
+    "  0x0405    CYRILLIC CAPITAL LETTER DZE (Macedonian)"
+  ],
+  "C968": [
+    "  &DS  "
+  ],
+  "C969": [
+    "  0x0406    CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I"
+  ],
+  "C970": [
+    "  &II  "
+  ],
+  "C971": [
+    "  0x0407    CYRILLIC CAPITAL LETTER YI (Ukrainian)"
+  ],
+  "C972": [
+    "  &YI  "
+  ],
+  "C973": [
+    "  0x0408    CYRILLIC CAPITAL LETTER JE"
+  ],
+  "C974": [
+    "  &J%  "
+  ],
+  "C975": [
+    "  0x0409    CYRILLIC CAPITAL LETTER LJE"
+  ],
+  "C976": [
+    "  &LJ  "
+  ],
+  "C977": [
+    "  0x040a    CYRILLIC CAPITAL LETTER NJE"
+  ],
+  "C978": [
+    "  &NJ  "
+  ],
+  "C979": [
+    "  0x040b    CYRILLIC CAPITAL LETTER TSHE (Serbocroatian)"
+  ],
+  "C980": [
+    "  &Ts  "
+  ],
+  "C981": [
+    "  0x040c    CYRILLIC CAPITAL LETTER KJE (Macedonian)"
+  ],
+  "C982": [
+    "  &KJ  "
+  ],
+  "C983": [
+    "  0x040e    CYRILLIC CAPITAL LETTER SHORT U (Byelorussian)"
+  ],
+  "C984": [
+    "  &V%  "
+  ],
+  "C985": [
+    "  0x040f    CYRILLIC CAPITAL LETTER DZHE"
+  ],
+  "C986": [
+    "  &DZ  "
+  ],
+  "C987": [
+    "  0x0410    CYRILLIC CAPITAL LETTER A"
+  ],
+  "C988": [
+    "  &A=  "
+  ],
+  "C989": [
+    "  0x0411    CYRILLIC CAPITAL LETTER BE"
+  ],
+  "C990": [
+    "  &B=  "
+  ],
+  "C991": [
+    "  0x0412    CYRILLIC CAPITAL LETTER VE"
+  ],
+  "C992": [
+    "  &V=  "
+  ],
+  "C993": [
+    "  0x0413    CYRILLIC CAPITAL LETTER GHE"
+  ],
+  "C994": [
+    "  &G=  "
+  ],
+  "C995": [
+    "  0x0414    CYRILLIC CAPITAL LETTER DE"
+  ],
+  "C996": [
+    "  &D=  "
+  ],
+  "C997": [
+    "  0x0415    CYRILLIC CAPITAL LETTER IE"
+  ],
+  "C998": [
+    "  &E=  "
+  ],
+  "C999": [
+    "  0x0416    CYRILLIC CAPITAL LETTER ZHE"
+  ],
+  "C1000": [
+    "  &Z%  "
+  ],
+  "C1001": [
+    "  0x0417    CYRILLIC CAPITAL LETTER ZE"
+  ],
+  "C1002": [
+    "  &Z=  "
+  ],
+  "C1003": [
+    "  0x0418    CYRILLIC CAPITAL LETTER I"
+  ],
+  "C1004": [
+    "  &I=  "
+  ],
+  "C1005": [
+    "  0x0419    CYRILLIC CAPITAL LETTER SHORT I"
+  ],
+  "C1006": [
+    "  &J=  "
+  ],
+  "C1007": [
+    "  0x041a    CYRILLIC CAPITAL LETTER KA"
+  ],
+  "C1008": [
+    "  &K=  "
+  ],
+  "C1009": [
+    "  0x041b    CYRILLIC CAPITAL LETTER EL"
+  ],
+  "C1010": [
+    "  &L=  "
+  ],
+  "C1011": [
+    "  0x041c    CYRILLIC CAPITAL LETTER EM"
+  ],
+  "C1012": [
+    "  &M=  "
+  ],
+  "C1013": [
+    "  0x041d    CYRILLIC CAPITAL LETTER EN"
+  ],
+  "C1014": [
+    "  &N=  "
+  ],
+  "C1015": [
+    "  0x041e    CYRILLIC CAPITAL LETTER O"
+  ],
+  "C1016": [
+    "  &O=  "
+  ],
+  "C1017": [
+    "  0x041f    CYRILLIC CAPITAL LETTER PE"
+  ],
+  "C1018": [
+    "  &P=  "
+  ],
+  "C1019": [
+    "  0x0420    CYRILLIC CAPITAL LETTER ER"
+  ],
+  "C1020": [
+    "  &R=  "
+  ],
+  "C1021": [
+    "  0x0421    CYRILLIC CAPITAL LETTER ES"
+  ],
+  "C1022": [
+    "  &S=  "
+  ],
+  "C1023": [
+    "  0x0422    CYRILLIC CAPITAL LETTER TE"
+  ],
+  "C1024": [
+    "  &T=  "
+  ],
+  "C1025": [
+    "  0x0423    CYRILLIC CAPITAL LETTER U"
+  ],
+  "C1026": [
+    "  &U=  "
+  ],
+  "C1027": [
+    "  0x0424    CYRILLIC CAPITAL LETTER EF"
+  ],
+  "C1028": [
+    "  &F=  "
+  ],
+  "C1029": [
+    "  0x0425    CYRILLIC CAPITAL LETTER HA"
+  ],
+  "C1030": [
+    "  &H=  "
+  ],
+  "C1031": [
+    "  0x0426    CYRILLIC CAPITAL LETTER TSE"
+  ],
+  "C1032": [
+    "  &C=  "
+  ],
+  "C1033": [
+    "  0x0427    CYRILLIC CAPITAL LETTER CHE"
+  ],
+  "C1034": [
+    "  &C%  "
+  ],
+  "C1035": [
+    "  0x0428    CYRILLIC CAPITAL LETTER SHA"
+  ],
+  "C1036": [
+    "  &S%  "
+  ],
+  "C1037": [
+    "  0x0429    CYRILLIC CAPITAL LETTER SHCHA"
+  ],
+  "C1038": [
+    "  &Sc  "
+  ],
+  "C1039": [
+    "  0x042a    CYRILLIC CAPITAL LETTER HARD SIGN"
+  ],
+  "C1040": [
+    "  &=\"  "
+  ],
+  "C1041": [
+    "  0x042b    CYRILLIC CAPITAL LETTER YERU"
+  ],
+  "C1042": [
+    "  &Y=  "
+  ],
+  "C1043": [
+    "  0x042c    CYRILLIC CAPITAL LETTER SOFT SIGN"
+  ],
+  "C1044": [
+    "  &%\"  "
+  ],
+  "C1045": [
+    "  0x042d    CYRILLIC CAPITAL LETTER E"
+  ],
+  "C1046": [
+    "  &JE  "
+  ],
+  "C1047": [
+    "  0x042e    CYRILLIC CAPITAL LETTER YU"
+  ],
+  "C1048": [
+    "  &JU  "
+  ],
+  "C1049": [
+    "  0x042f    CYRILLIC CAPITAL LETTER YA"
+  ],
+  "C1050": [
+    "  &JA  "
+  ],
+  "C1051": [
+    "  0x0430    CYRILLIC SMALL LETTER A"
+  ],
+  "C1052": [
+    "  &a=  "
+  ],
+  "C1053": [
+    "  0x0431    CYRILLIC SMALL LETTER BE"
+  ],
+  "C1054": [
+    "  &b=  "
+  ],
+  "C1055": [
+    "  0x0432    CYRILLIC SMALL LETTER VE"
+  ],
+  "C1056": [
+    "  &v=  "
+  ],
+  "C1057": [
+    "  0x0433    CYRILLIC SMALL LETTER GHE"
+  ],
+  "C1058": [
+    "  &g=  "
+  ],
+  "C1059": [
+    "  0x0434    CYRILLIC SMALL LETTER DE"
+  ],
+  "C1060": [
+    "  &d=  "
+  ],
+  "C1061": [
+    "  0x0435    CYRILLIC SMALL LETTER IE"
+  ],
+  "C1062": [
+    "  &e=  "
+  ],
+  "C1063": [
+    "  0x0436    CYRILLIC SMALL LETTER ZHE"
+  ],
+  "C1064": [
+    "  &z%  "
+  ],
+  "C1065": [
+    "  0x0437    CYRILLIC SMALL LETTER ZE"
+  ],
+  "C1066": [
+    "  &z=  "
+  ],
+  "C1067": [
+    "  0x0438    CYRILLIC SMALL LETTER I"
+  ],
+  "C1068": [
+    "  &i=  "
+  ],
+  "C1069": [
+    "  0x0439    CYRILLIC SMALL LETTER SHORT I"
+  ],
+  "C1070": [
+    "  &j=  "
+  ],
+  "C1071": [
+    "  0x043a    CYRILLIC SMALL LETTER KA"
+  ],
+  "C1072": [
+    "  &k=  "
+  ],
+  "C1073": [
+    "  0x043b    CYRILLIC SMALL LETTER EL"
+  ],
+  "C1074": [
+    "  &l=  "
+  ],
+  "C1075": [
+    "  0x043c    CYRILLIC SMALL LETTER EM"
+  ],
+  "C1076": [
+    "  &m=  "
+  ],
+  "C1077": [
+    "  0x043d    CYRILLIC SMALL LETTER EN"
+  ],
+  "C1078": [
+    "  &n=  "
+  ],
+  "C1079": [
+    "  0x043e    CYRILLIC SMALL LETTER O"
+  ],
+  "C1080": [
+    "  &o=  "
+  ],
+  "C1081": [
+    "  0x043f    CYRILLIC SMALL LETTER PE"
+  ],
+  "C1082": [
+    "  &p=  "
+  ],
+  "C1083": [
+    "  0x0440    CYRILLIC SMALL LETTER ER"
+  ],
+  "C1084": [
+    "  &r=  "
+  ],
+  "C1085": [
+    "  0x0441    CYRILLIC SMALL LETTER ES"
+  ],
+  "C1086": [
+    "  &s=  "
+  ],
+  "C1087": [
+    "  0x0442    CYRILLIC SMALL LETTER TE"
+  ],
+  "C1088": [
+    "  &t=  "
+  ],
+  "C1089": [
+    "  0x0443    CYRILLIC SMALL LETTER U"
+  ],
+  "C1090": [
+    "  &u=  "
+  ],
+  "C1091": [
+    "  0x0444    CYRILLIC SMALL LETTER EF"
+  ],
+  "C1092": [
+    "  &f=  "
+  ],
+  "C1093": [
+    "  0x0445    CYRILLIC SMALL LETTER HA"
+  ],
+  "C1094": [
+    "  &h=  "
+  ],
+  "C1095": [
+    "  0x0446    CYRILLIC SMALL LETTER TSE"
+  ],
+  "C1096": [
+    "  &c=  "
+  ],
+  "C1097": [
+    "  0x0447    CYRILLIC SMALL LETTER CHE"
+  ],
+  "C1098": [
+    "  &c%  "
+  ],
+  "C1099": [
+    "  0x0448    CYRILLIC SMALL LETTER SHA"
+  ],
+  "C1100": [
+    "  &s%  "
+  ],
+  "C1101": [
+    "  0x0449    CYRILLIC SMALL LETTER SHCHA"
+  ],
+  "C1102": [
+    "  &sc  "
+  ],
+  "C1103": [
+    "  0x044a    CYRILLIC SMALL LETTER HARD SIGN"
+  ],
+  "C1104": [
+    "  &='  "
+  ],
+  "C1105": [
+    "  0x044b    CYRILLIC SMALL LETTER YERU"
+  ],
+  "C1106": [
+    "  &y=  "
+  ],
+  "C1107": [
+    "  0x044c    CYRILLIC SMALL LETTER SOFT SIGN"
+  ],
+  "C1108": [
+    "  &%'  "
+  ],
+  "C1109": [
+    "  0x044d    CYRILLIC SMALL LETTER E"
+  ],
+  "C1110": [
+    "  &je  "
+  ],
+  "C1111": [
+    "  0x044e    CYRILLIC SMALL LETTER YU"
+  ],
+  "C1112": [
+    "  &ju  "
+  ],
+  "C1113": [
+    "  0x044f    CYRILLIC SMALL LETTER YA"
+  ],
+  "C1114": [
+    "  &ja  "
+  ],
+  "C1115": [
+    "  0x0451    CYRILLIC SMALL LETTER IO"
+  ],
+  "C1116": [
+    "  &io  "
+  ],
+  "C1117": [
+    "  0x0452    CYRILLIC SMALL LETTER DJE (Serbocroatian)"
+  ],
+  "C1118": [
+    "  &d%  "
+  ],
+  "C1119": [
+    "  0x0453    CYRILLIC SMALL LETTER GJE (Macedonian)"
+  ],
+  "C1120": [
+    "  &g%  "
+  ],
+  "C1121": [
+    "  0x0454    CYRILLIC SMALL LETTER UKRAINIAN IE"
+  ],
+  "C1122": [
+    "  &ie  "
+  ],
+  "C1123": [
+    "  0x0455    CYRILLIC SMALL LETTER DZE (Macedonian)"
+  ],
+  "C1124": [
+    "  &ds  "
+  ],
+  "C1125": [
+    "  0x0456    CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I"
+  ],
+  "C1126": [
+    "  &ii  "
+  ],
+  "C1127": [
+    "  0x0457    CYRILLIC SMALL LETTER YI (Ukrainian)"
+  ],
+  "C1128": [
+    "  &yi  "
+  ],
+  "C1129": [
+    "  0x0458    CYRILLIC SMALL LETTER JE"
+  ],
+  "C1130": [
+    "  &j%  "
+  ],
+  "C1131": [
+    "  0x0459    CYRILLIC SMALL LETTER LJE"
+  ],
+  "C1132": [
+    "  &lj  "
+  ],
+  "C1133": [
+    "  0x045a    CYRILLIC SMALL LETTER NJE"
+  ],
+  "C1134": [
+    "  &nj  "
+  ],
+  "C1135": [
+    "  0x045b    CYRILLIC SMALL LETTER TSHE (Serbocroatian)"
+  ],
+  "C1136": [
+    "  &ts  "
+  ],
+  "C1137": [
+    "  0x045c    CYRILLIC SMALL LETTER KJE (Macedonian)"
+  ],
+  "C1138": [
+    "  &kj  "
+  ],
+  "C1139": [
+    "  0x045e    CYRILLIC SMALL LETTER SHORT U (Byelorussian)"
+  ],
+  "C1140": [
+    "  &v%  "
+  ],
+  "C1141": [
+    "  0x045f    CYRILLIC SMALL LETTER DZHE"
+  ],
+  "C1142": [
+    "  &dz  "
+  ],
+  "C1143": [
+    "  0x0462    CYRILLIC CAPITAL LETTER YAT"
+  ],
+  "C1144": [
+    "  &Y3  "
+  ],
+  "C1145": [
+    "  0x0463    CYRILLIC SMALL LETTER YAT"
+  ],
+  "C1146": [
+    "  &y3  "
+  ],
+  "C1147": [
+    "  0x046a    CYRILLIC CAPITAL LETTER BIG YUS"
+  ],
+  "C1148": [
+    "  &O3  "
+  ],
+  "C1149": [
+    "  0x046b    CYRILLIC SMALL LETTER BIG YUS"
+  ],
+  "C1150": [
+    "  &o3  "
+  ],
+  "C1151": [
+    "  0x0472    CYRILLIC CAPITAL LETTER FITA"
+  ],
+  "C1152": [
+    "  &F3  "
+  ],
+  "C1153": [
+    "  0x0473    CYRILLIC SMALL LETTER FITA"
+  ],
+  "C1154": [
+    "  &f3  "
+  ],
+  "C1155": [
+    "  0x0474    CYRILLIC CAPITAL LETTER IZHITSA"
+  ],
+  "C1156": [
+    "  &V3  "
+  ],
+  "C1157": [
+    "  0x0475    CYRILLIC SMALL LETTER IZHITSA"
+  ],
+  "C1158": [
+    "  &v3  "
+  ],
+  "C1159": [
+    "  0x0480    CYRILLIC CAPITAL LETTER KOPPA"
+  ],
+  "C1160": [
+    "  &C3  "
+  ],
+  "C1161": [
+    "  0x0481    CYRILLIC SMALL LETTER KOPPA"
+  ],
+  "C1162": [
+    "  &c3  "
+  ],
+  "C1163": [
+    "  0x0490    CYRILLIC CAPITAL LETTER GHE WITH UPTURN"
+  ],
+  "C1164": [
+    "  &G3  "
+  ],
+  "C1165": [
+    "  0x0491    CYRILLIC SMALL LETTER GHE WITH UPTURN"
+  ],
+  "C1166": [
+    "  &g3  "
+  ],
+  "C1167": [
+    "  0x05d0    HEBREW LETTER ALEF"
+  ],
+  "C1168": [
+    "  &A+  "
+  ],
+  "C1169": [
+    "  0x05d1    HEBREW LETTER BET"
+  ],
+  "C1170": [
+    "  &B+  "
+  ],
+  "C1171": [
+    "  0x05d2    HEBREW LETTER GIMEL"
+  ],
+  "C1172": [
+    "  &G+  "
+  ],
+  "C1173": [
+    "  0x05d3    HEBREW LETTER DALET"
+  ],
+  "C1174": [
+    "  &D+  "
+  ],
+  "C1175": [
+    "  0x05d4    HEBREW LETTER HE"
+  ],
+  "C1176": [
+    "  &H+  "
+  ],
+  "C1177": [
+    "  0x05d5    HEBREW LETTER VAV"
+  ],
+  "C1178": [
+    "  &W+  "
+  ],
+  "C1179": [
+    "  0x05d6    HEBREW LETTER ZAYIN"
+  ],
+  "C1180": [
+    "  &Z+  "
+  ],
+  "C1181": [
+    "  0x05d7    HEBREW LETTER HET"
+  ],
+  "C1182": [
+    "  &X+  "
+  ],
+  "C1183": [
+    "  0x05d8    HEBREW LETTER TET"
+  ],
+  "C1184": [
+    "  &Tj  "
+  ],
+  "C1185": [
+    "  0x05d9    HEBREW LETTER YOD"
+  ],
+  "C1186": [
+    "  &J+  "
+  ],
+  "C1187": [
+    "  0x05da    HEBREW LETTER FINAL KAF"
+  ],
+  "C1188": [
+    "  &K%  "
+  ],
+  "C1189": [
+    "  0x05db    HEBREW LETTER KAF"
+  ],
+  "C1190": [
+    "  &K+  "
+  ],
+  "C1191": [
+    "  0x05dc    HEBREW LETTER LAMED"
+  ],
+  "C1192": [
+    "  &L+  "
+  ],
+  "C1193": [
+    "  0x05dd    HEBREW LETTER FINAL MEM"
+  ],
+  "C1194": [
+    "  &M%  "
+  ],
+  "C1195": [
+    "  0x05de    HEBREW LETTER MEM"
+  ],
+  "C1196": [
+    "  &M+  "
+  ],
+  "C1197": [
+    "  0x05df    HEBREW LETTER FINAL NUN"
+  ],
+  "C1198": [
+    "  &N%  "
+  ],
+  "C1199": [
+    "  0x05e0    HEBREW LETTER NUN"
+  ],
+  "C1200": [
+    "  &N+  "
+  ],
+  "C1201": [
+    "  0x05e1    HEBREW LETTER SAMEKH"
+  ],
+  "C1202": [
+    "  &S+  "
+  ],
+  "C1203": [
+    "  0x05e2    HEBREW LETTER AYIN"
+  ],
+  "C1204": [
+    "  &E+  "
+  ],
+  "C1205": [
+    "  0x05e3    HEBREW LETTER FINAL PE"
+  ],
+  "C1206": [
+    "  &P%  "
+  ],
+  "C1207": [
+    "  0x05e4    HEBREW LETTER PE"
+  ],
+  "C1208": [
+    "  &P+  "
+  ],
+  "C1209": [
+    "  0x05e5    HEBREW LETTER FINAL TSADI"
+  ],
+  "C1210": [
+    "  &Zj  "
+  ],
+  "C1211": [
+    "  0x05e6    HEBREW LETTER TSADI"
+  ],
+  "C1212": [
+    "  &ZJ  "
+  ],
+  "C1213": [
+    "  0x05e7    HEBREW LETTER QOF"
+  ],
+  "C1214": [
+    "  &Q+  "
+  ],
+  "C1215": [
+    "  0x05e8    HEBREW LETTER RESH"
+  ],
+  "C1216": [
+    "  &R+  "
+  ],
+  "C1217": [
+    "  0x05e9    HEBREW LETTER SHIN"
+  ],
+  "C1218": [
+    "  &Sh  "
+  ],
+  "C1219": [
+    "  0x05ea    HEBREW LETTER TAV"
+  ],
+  "C1220": [
+    "  &T+  "
+  ],
+  "C1221": [
+    "  0x060c    ARABIC COMMA"
+  ],
+  "C1222": [
+    "  &,+  "
+  ],
+  "C1223": [
+    "  0x061b    ARABIC SEMICOLON"
+  ],
+  "C1224": [
+    "  &;+  "
+  ],
+  "C1225": [
+    "  0x061f    ARABIC QUESTION MARK"
+  ],
+  "C1226": [
+    "  &?+  "
+  ],
+  "C1227": [
+    "  0x0621    ARABIC LETTER HAMZA"
+  ],
+  "C1228": [
+    "  &H'  "
+  ],
+  "C1229": [
+    "  0x0622    ARABIC LETTER ALEF WITH MADDA ABOVE"
+  ],
+  "C1230": [
+    "  &aM  "
+  ],
+  "C1231": [
+    "  0x0623    ARABIC LETTER ALEF WITH HAMZA ABOVE"
+  ],
+  "C1232": [
+    "  &aH  "
+  ],
+  "C1233": [
+    "  0x0624    ARABIC LETTER WAW WITH HAMZA ABOVE"
+  ],
+  "C1234": [
+    "  &wH  "
+  ],
+  "C1235": [
+    "  0x0625    ARABIC LETTER ALEF WITH HAMZA BELOW"
+  ],
+  "C1236": [
+    "  &ah  "
+  ],
+  "C1237": [
+    "  0x0626    ARABIC LETTER YEH WITH HAMZA ABOVE"
+  ],
+  "C1238": [
+    "  &yH  "
+  ],
+  "C1239": [
+    "  0x0627    ARABIC LETTER ALEF"
+  ],
+  "C1240": [
+    "  &a+  "
+  ],
+  "C1241": [
+    "  0x0628    ARABIC LETTER BEH"
+  ],
+  "C1242": [
+    "  &b+  "
+  ],
+  "C1243": [
+    "  0x0629    ARABIC LETTER TEH MARBUTA"
+  ],
+  "C1244": [
+    "  &tm  "
+  ],
+  "C1245": [
+    "  0x062a    ARABIC LETTER TEH"
+  ],
+  "C1246": [
+    "  &t+  "
+  ],
+  "C1247": [
+    "  0x062b    ARABIC LETTER THEH"
+  ],
+  "C1248": [
+    "  &tk  "
+  ],
+  "C1249": [
+    "  0x062c    ARABIC LETTER JEEM"
+  ],
+  "C1250": [
+    "  &g+  "
+  ],
+  "C1251": [
+    "  0x062d    ARABIC LETTER HAH"
+  ],
+  "C1252": [
+    "  &hk  "
+  ],
+  "C1253": [
+    "  0x062e    ARABIC LETTER KHAH"
+  ],
+  "C1254": [
+    "  &x+  "
+  ],
+  "C1255": [
+    "  0x062f    ARABIC LETTER DAL"
+  ],
+  "C1256": [
+    "  &d+  "
+  ],
+  "C1257": [
+    "  0x0630    ARABIC LETTER THAL"
+  ],
+  "C1258": [
+    "  &dk  "
+  ],
+  "C1259": [
+    "  0x0631    ARABIC LETTER REH"
+  ],
+  "C1260": [
+    "  &r+  "
+  ],
+  "C1261": [
+    "  0x0632    ARABIC LETTER ZAIN"
+  ],
+  "C1262": [
+    "  &z+  "
+  ],
+  "C1263": [
+    "  0x0633    ARABIC LETTER SEEN"
+  ],
+  "C1264": [
+    "  &s+  "
+  ],
+  "C1265": [
+    "  0x0634    ARABIC LETTER SHEEN"
+  ],
+  "C1266": [
+    "  &sn  "
+  ],
+  "C1267": [
+    "  0x0635    ARABIC LETTER SAD"
+  ],
+  "C1268": [
+    "  &c+  "
+  ],
+  "C1269": [
+    "  0x0636    ARABIC LETTER DAD"
+  ],
+  "C1270": [
+    "  &dd  "
+  ],
+  "C1271": [
+    "  0x0637    ARABIC LETTER TAH"
+  ],
+  "C1272": [
+    "  &tj  "
+  ],
+  "C1273": [
+    "  0x0638    ARABIC LETTER ZAH"
+  ],
+  "C1274": [
+    "  &zH  "
+  ],
+  "C1275": [
+    "  0x0639    ARABIC LETTER AIN"
+  ],
+  "C1276": [
+    "  &e+  "
+  ],
+  "C1277": [
+    "  0x063a    ARABIC LETTER GHAIN"
+  ],
+  "C1278": [
+    "  &i+  "
+  ],
+  "C1279": [
+    "  0x0640    ARABIC TATWEEL"
+  ],
+  "C1280": [
+    "  &++  "
+  ],
+  "C1281": [
+    "  0x0641    ARABIC LETTER FEH"
+  ],
+  "C1282": [
+    "  &f+  "
+  ],
+  "C1283": [
+    "  0x0642    ARABIC LETTER QAF"
+  ],
+  "C1284": [
+    "  &q+  "
+  ],
+  "C1285": [
+    "  0x0643    ARABIC LETTER KAF"
+  ],
+  "C1286": [
+    "  &k+  "
+  ],
+  "C1287": [
+    "  0x0644    ARABIC LETTER LAM"
+  ],
+  "C1288": [
+    "  &l+  "
+  ],
+  "C1289": [
+    "  0x0645    ARABIC LETTER MEEM"
+  ],
+  "C1290": [
+    "  &m+  "
+  ],
+  "C1291": [
+    "  0x0646    ARABIC LETTER NOON"
+  ],
+  "C1292": [
+    "  &n+  "
+  ],
+  "C1293": [
+    "  0x0647    ARABIC LETTER HEH"
+  ],
+  "C1294": [
+    "  &h+  "
+  ],
+  "C1295": [
+    "  0x0648    ARABIC LETTER WAW"
+  ],
+  "C1296": [
+    "  &w+  "
+  ],
+  "C1297": [
+    "  0x0649    ARABIC LETTER ALEF MAKSURA"
+  ],
+  "C1298": [
+    "  &j+  "
+  ],
+  "C1299": [
+    "  0x064a    ARABIC LETTER YEH"
+  ],
+  "C1300": [
+    "  &y+  "
+  ],
+  "C1301": [
+    "  0x064b    ARABIC FATHATAN"
+  ],
+  "C1302": [
+    "  &:+  "
+  ],
+  "C1303": [
+    "  0x064c    ARABIC DAMMATAN"
+  ],
+  "C1304": [
+    "  &\"+  "
+  ],
+  "C1305": [
+    "  0x064d    ARABIC KASRATAN"
+  ],
+  "C1306": [
+    "  &=+  "
+  ],
+  "C1307": [
+    "  0x064e    ARABIC FATHA"
+  ],
+  "C1308": [
+    "  &/+  "
+  ],
+  "C1309": [
+    "  0x064f    ARABIC DAMMA"
+  ],
+  "C1310": [
+    "  &'+  "
+  ],
+  "C1311": [
+    "  0x0650    ARABIC KASRA"
+  ],
+  "C1312": [
+    "  &1+  "
+  ],
+  "C1313": [
+    "  0x0651    ARABIC SHADDA"
+  ],
+  "C1314": [
+    "  &3+  "
+  ],
+  "C1315": [
+    "  0x0652    ARABIC SUKUN"
+  ],
+  "C1316": [
+    "  &0+  "
+  ],
+  "C1317": [
+    "  0x0670    SUPERSCRIPT ARABIC LETTER ALEF"
+  ],
+  "C1318": [
+    "  &aS  "
+  ],
+  "C1319": [
+    "  0x067e    ARABIC LETTER PEH"
+  ],
+  "C1320": [
+    "  &p+  "
+  ],
+  "C1321": [
+    "  0x06a4    ARABIC LETTER VEH"
+  ],
+  "C1322": [
+    "  &v+  "
+  ],
+  "C1323": [
+    "  0x06af    ARABIC LETTER GAF"
+  ],
+  "C1324": [
+    "  &gf  "
+  ],
+  "C1325": [
+    "  0x06f0    EASTERN ARABIC-INDIC DIGIT ZERO"
+  ],
+  "C1326": [
+    "  &0a  "
+  ],
+  "C1327": [
+    "  0x06f1    EASTERN ARABIC-INDIC DIGIT ONE"
+  ],
+  "C1328": [
+    "  &1a  "
+  ],
+  "C1329": [
+    "  0x06f2    EASTERN ARABIC-INDIC DIGIT TWO"
+  ],
+  "C1330": [
+    "  &2a  "
+  ],
+  "C1331": [
+    "  0x06f3    EASTERN ARABIC-INDIC DIGIT THREE"
+  ],
+  "C1332": [
+    "  &3a  "
+  ],
+  "C1333": [
+    "  0x06f4    EASTERN ARABIC-INDIC DIGIT FOUR"
+  ],
+  "C1334": [
+    "  &4a  "
+  ],
+  "C1335": [
+    "  0x06f5    EASTERN ARABIC-INDIC DIGIT FIVE"
+  ],
+  "C1336": [
+    "  &5a  "
+  ],
+  "C1337": [
+    "  0x06f6    EASTERN ARABIC-INDIC DIGIT SIX"
+  ],
+  "C1338": [
+    "  &6a  "
+  ],
+  "C1339": [
+    "  0x06f7    EASTERN ARABIC-INDIC DIGIT SEVEN"
+  ],
+  "C1340": [
+    "  &7a  "
+  ],
+  "C1341": [
+    "  0x06f8    EASTERN ARABIC-INDIC DIGIT EIGHT"
+  ],
+  "C1342": [
+    "  &8a  "
+  ],
+  "C1343": [
+    "  0x06f9    EASTERN ARABIC-INDIC DIGIT NINE"
+  ],
+  "C1344": [
+    "  &9a  "
+  ],
+  "C1345": [
+    "  0x1e00    LATIN CAPITAL LETTER A WITH RING BELOW"
+  ],
+  "C1346": [
+    "  &_A-0_  "
+  ],
+  "C1347": [
+    "  0x1e01    LATIN SMALL LETTER A WITH RING BELOW"
+  ],
+  "C1348": [
+    "  &_a-0_  "
+  ],
+  "C1349": [
+    "  0x1e02    LATIN CAPITAL LETTER B WITH DOT ABOVE"
+  ],
+  "C1350": [
+    "  &B.  "
+  ],
+  "C1351": [
+    "  0x1e03    LATIN SMALL LETTER B WITH DOT ABOVE"
+  ],
+  "C1352": [
+    "  &b.  "
+  ],
+  "C1353": [
+    "  0x1e04    LATIN CAPITAL LETTER B WITH DOT BELOW"
+  ],
+  "C1354": [
+    "  &_B-._  "
+  ],
+  "C1355": [
+    "  0x1e05    LATIN SMALL LETTER B WITH DOT BELOW"
+  ],
+  "C1356": [
+    "  &_b-._  "
+  ],
+  "C1357": [
+    "  0x1e06    LATIN CAPITAL LETTER B WITH LINE BELOW"
+  ],
+  "C1358": [
+    "  &B_  "
+  ],
+  "C1359": [
+    "  0x1e07    LATIN SMALL LETTER B WITH LINE BELOW"
+  ],
+  "C1360": [
+    "  &b_  "
+  ],
+  "C1361": [
+    "  0x1e08    LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE"
+  ],
+  "C1362": [
+    "  &_C,'_  "
+  ],
+  "C1363": [
+    "  0x1e09    LATIN SMALL LETTER C WITH CEDILLA AND ACUTE"
+  ],
+  "C1364": [
+    "  &_c,'_  "
+  ],
+  "C1365": [
+    "  0x1e0a    LATIN CAPITAL LETTER D WITH DOT ABOVE"
+  ],
+  "C1366": [
+    "  &D.  "
+  ],
+  "C1367": [
+    "  0x1e0b    LATIN SMALL LETTER D WITH DOT ABOVE"
+  ],
+  "C1368": [
+    "  &d.  "
+  ],
+  "C1369": [
+    "  0x1e0c    LATIN CAPITAL LETTER D WITH DOT BELOW"
+  ],
+  "C1370": [
+    "  &_D-._  "
+  ],
+  "C1371": [
+    "  0x1e0d    LATIN SMALL LETTER D WITH DOT BELOW"
+  ],
+  "C1372": [
+    "  &_d-._  "
+  ],
+  "C1373": [
+    "  0x1e0e    LATIN CAPITAL LETTER D WITH LINE BELOW"
+  ],
+  "C1374": [
+    "  &D_  "
+  ],
+  "C1375": [
+    "  0x1e0f    LATIN SMALL LETTER D WITH LINE BELOW"
+  ],
+  "C1376": [
+    "  &d_  "
+  ],
+  "C1377": [
+    "  0x1e10    LATIN CAPITAL LETTER D WITH CEDILLA"
+  ],
+  "C1378": [
+    "  &D,  "
+  ],
+  "C1379": [
+    "  0x1e11    LATIN SMALL LETTER D WITH CEDILLA"
+  ],
+  "C1380": [
+    "  &d,  "
+  ],
+  "C1381": [
+    "  0x1e12    LATIN CAPITAL LETTER D WITH CIRCUMFLEX BELOW"
+  ],
+  "C1382": [
+    "  &_D->_  "
+  ],
+  "C1383": [
+    "  0x1e13    LATIN SMALL LETTER D WITH CIRCUMFLEX BELOW"
+  ],
+  "C1384": [
+    "  &_d->_  "
+  ],
+  "C1385": [
+    "  0x1e14    LATIN CAPITAL LETTER E WITH MACRON AND GRAVE"
+  ],
+  "C1386": [
+    "  &_E-!_  "
+  ],
+  "C1387": [
+    "  0x1e15    LATIN SMALL LETTER E WITH MACRON AND GRAVE"
+  ],
+  "C1388": [
+    "  &_e-!_  "
+  ],
+  "C1389": [
+    "  0x1e16    LATIN CAPITAL LETTER E WITH MACRON AND ACUTE"
+  ],
+  "C1390": [
+    "  &_E-'_  "
+  ],
+  "C1391": [
+    "  0x1e17    LATIN SMALL LETTER E WITH MACRON AND ACUTE"
+  ],
+  "C1392": [
+    "  &_e-'_  "
+  ],
+  "C1393": [
+    "  0x1e18    LATIN CAPITAL LETTER E WITH CIRCUMFLEX BELOW"
+  ],
+  "C1394": [
+    "  &_E->_  "
+  ],
+  "C1395": [
+    "  0x1e19    LATIN SMALL LETTER E WITH CIRCUMFLEX BELOW"
+  ],
+  "C1396": [
+    "  &_e->_  "
+  ],
+  "C1397": [
+    "  0x1e1a    LATIN CAPITAL LETTER E WITH TILDE BELOW"
+  ],
+  "C1398": [
+    "  &_E-?_  "
+  ],
+  "C1399": [
+    "  0x1e1b    LATIN SMALL LETTER E WITH TILDE BELOW"
+  ],
+  "C1400": [
+    "  &_e-?_  "
+  ],
+  "C1401": [
+    "  0x1e1c    LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE"
+  ],
+  "C1402": [
+    "  &_E,(_  "
+  ],
+  "C1403": [
+    "  0x1e1d    LATIN SMALL LETTER E WITH CEDILLA AND BREVE"
+  ],
+  "C1404": [
+    "  &_e,(_  "
+  ],
+  "C1405": [
+    "  0x1e1e    LATIN CAPITAL LETTER F WITH DOT ABOVE"
+  ],
+  "C1406": [
+    "  &F.  "
+  ],
+  "C1407": [
+    "  0x1e1f    LATIN SMALL LETTER F WITH DOT ABOVE"
+  ],
+  "C1408": [
+    "  &f.  "
+  ],
+  "C1409": [
+    "  0x1e20    LATIN CAPITAL LETTER G WITH MACRON"
+  ],
+  "C1410": [
+    "  &G-  "
+  ],
+  "C1411": [
+    "  0x1e21    LATIN SMALL LETTER G WITH MACRON"
+  ],
+  "C1412": [
+    "  &g-  "
+  ],
+  "C1413": [
+    "  0x1e22    LATIN CAPITAL LETTER H WITH DOT ABOVE"
+  ],
+  "C1414": [
+    "  &H.  "
+  ],
+  "C1415": [
+    "  0x1e23    LATIN SMALL LETTER H WITH DOT ABOVE"
+  ],
+  "C1416": [
+    "  &h.  "
+  ],
+  "C1417": [
+    "  0x1e24    LATIN CAPITAL LETTER H WITH DOT BELOW"
+  ],
+  "C1418": [
+    "  &_H-._  "
+  ],
+  "C1419": [
+    "  0x1e25    LATIN SMALL LETTER H WITH DOT BELOW"
+  ],
+  "C1420": [
+    "  &_h-._  "
+  ],
+  "C1421": [
+    "  0x1e26    LATIN CAPITAL LETTER H WITH DIAERESIS"
+  ],
+  "C1422": [
+    "  &H:  "
+  ],
+  "C1423": [
+    "  0x1e27    LATIN SMALL LETTER H WITH DIAERESIS"
+  ],
+  "C1424": [
+    "  &h:  "
+  ],
+  "C1425": [
+    "  0x1e28    LATIN CAPITAL LETTER H WITH CEDILLA"
+  ],
+  "C1426": [
+    "  &H,  "
+  ],
+  "C1427": [
+    "  0x1e29    LATIN SMALL LETTER H WITH CEDILLA"
+  ],
+  "C1428": [
+    "  &h,  "
+  ],
+  "C1429": [
+    "  0x1e2a    LATIN CAPITAL LETTER H WITH BREVE BELOW"
+  ],
+  "C1430": [
+    "  &_H-(_  "
+  ],
+  "C1431": [
+    "  0x1e2b    LATIN SMALL LETTER H WITH BREVE BELOW"
+  ],
+  "C1432": [
+    "  &_h-(_  "
+  ],
+  "C1433": [
+    "  0x1e2c    LATIN CAPITAL LETTER I WITH TILDE BELOW"
+  ],
+  "C1434": [
+    "  &_I-?_  "
+  ],
+  "C1435": [
+    "  0x1e2d    LATIN SMALL LETTER I WITH TILDE BELOW"
+  ],
+  "C1436": [
+    "  &_i-?_  "
+  ],
+  "C1437": [
+    "  0x1e2e    LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE"
+  ],
+  "C1438": [
+    "  &_I:'_  "
+  ],
+  "C1439": [
+    "  0x1e2f    LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE"
+  ],
+  "C1440": [
+    "  &_i:'_  "
+  ],
+  "C1441": [
+    "  0x1e30    LATIN CAPITAL LETTER K WITH ACUTE"
+  ],
+  "C1442": [
+    "  &K'  "
+  ],
+  "C1443": [
+    "  0x1e31    LATIN SMALL LETTER K WITH ACUTE"
+  ],
+  "C1444": [
+    "  &k'  "
+  ],
+  "C1445": [
+    "  0x1e32    LATIN CAPITAL LETTER K WITH DOT BELOW"
+  ],
+  "C1446": [
+    "  &_K-._  "
+  ],
+  "C1447": [
+    "  0x1e33    LATIN SMALL LETTER K WITH DOT BELOW"
+  ],
+  "C1448": [
+    "  &_k-._  "
+  ],
+  "C1449": [
+    "  0x1e34    LATIN CAPITAL LETTER K WITH LINE BELOW"
+  ],
+  "C1450": [
+    "  &K_  "
+  ],
+  "C1451": [
+    "  0x1e35    LATIN SMALL LETTER K WITH LINE BELOW"
+  ],
+  "C1452": [
+    "  &k_  "
+  ],
+  "C1453": [
+    "  0x1e36    LATIN CAPITAL LETTER L WITH DOT BELOW"
+  ],
+  "C1454": [
+    "  &_L-._  "
+  ],
+  "C1455": [
+    "  0x1e37    LATIN SMALL LETTER L WITH DOT BELOW"
+  ],
+  "C1456": [
+    "  &_l-._  "
+  ],
+  "C1457": [
+    "  0x1e38    LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON"
+  ],
+  "C1458": [
+    "  &_L--._  "
+  ],
+  "C1459": [
+    "  0x1e39    LATIN SMALL LETTER L WITH DOT BELOW AND MACRON"
+  ],
+  "C1460": [
+    "  &_l--._  "
+  ],
+  "C1461": [
+    "  0x1e3a    LATIN CAPITAL LETTER L WITH LINE BELOW"
+  ],
+  "C1462": [
+    "  &L_  "
+  ],
+  "C1463": [
+    "  0x1e3b    LATIN SMALL LETTER L WITH LINE BELOW"
+  ],
+  "C1464": [
+    "  &l_  "
+  ],
+  "C1465": [
+    "  0x1e3c    LATIN CAPITAL LETTER L WITH CIRCUMFLEX BELOW"
+  ],
+  "C1466": [
+    "  &_L->_  "
+  ],
+  "C1467": [
+    "  0x1e3d    LATIN SMALL LETTER L WITH CIRCUMFLEX BELOW"
+  ],
+  "C1468": [
+    "  &_l->_  "
+  ],
+  "C1469": [
+    "  0x1e3e    LATIN CAPITAL LETTER M WITH ACUTE"
+  ],
+  "C1470": [
+    "  &M'  "
+  ],
+  "C1471": [
+    "  0x1e3f    LATIN SMALL LETTER M WITH ACUTE"
+  ],
+  "C1472": [
+    "  &m'  "
+  ],
+  "C1473": [
+    "  0x1e40    LATIN CAPITAL LETTER M WITH DOT ABOVE"
+  ],
+  "C1474": [
+    "  &M.  "
+  ],
+  "C1475": [
+    "  0x1e41    LATIN SMALL LETTER M WITH DOT ABOVE"
+  ],
+  "C1476": [
+    "  &m.  "
+  ],
+  "C1477": [
+    "  0x1e42    LATIN CAPITAL LETTER M WITH DOT BELOW"
+  ],
+  "C1478": [
+    "  &_M-._  "
+  ],
+  "C1479": [
+    "  0x1e43    LATIN SMALL LETTER M WITH DOT BELOW"
+  ],
+  "C1480": [
+    "  &_m-._  "
+  ],
+  "C1481": [
+    "  0x1e44    LATIN CAPITAL LETTER N WITH DOT ABOVE"
+  ],
+  "C1482": [
+    "  &N.  "
+  ],
+  "C1483": [
+    "  0x1e45    LATIN SMALL LETTER N WITH DOT ABOVE"
+  ],
+  "C1484": [
+    "  &n.  "
+  ],
+  "C1485": [
+    "  0x1e46    LATIN CAPITAL LETTER N WITH DOT BELOW"
+  ],
+  "C1486": [
+    "  &_N-._  "
+  ],
+  "C1487": [
+    "  0x1e47    LATIN SMALL LETTER N WITH DOT BELOW"
+  ],
+  "C1488": [
+    "  &_n-._  "
+  ],
+  "C1489": [
+    "  0x1e48    LATIN CAPITAL LETTER N WITH LINE BELOW"
+  ],
+  "C1490": [
+    "  &N_  "
+  ],
+  "C1491": [
+    "  0x1e49    LATIN SMALL LETTER N WITH LINE BELOW"
+  ],
+  "C1492": [
+    "  &n_  "
+  ],
+  "C1493": [
+    "  0x1e4a    LATIN CAPITAL LETTER N WITH CIRCUMFLEX BELOW"
+  ],
+  "C1494": [
+    "  &_N->_  "
+  ],
+  "C1495": [
+    "  0x1e4b    LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW"
+  ],
+  "C1496": [
+    "  &_N->_  "
+  ],
+  "C1497": [
+    "  0x1e4c    LATIN CAPITAL LETTER O WITH TILDE AND ACUTE"
+  ],
+  "C1498": [
+    "  &_O?'_  "
+  ],
+  "C1499": [
+    "  0x1e4d    LATIN SMALL LETTER O WITH TILDE AND ACUTE"
+  ],
+  "C1500": [
+    "  &_o?'_  "
+  ],
+  "C1501": [
+    "  0x1e4e    LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS"
+  ],
+  "C1502": [
+    "  &_O?:_  "
+  ],
+  "C1503": [
+    "  0x1e4f    LATIN SMALL LETTER O WITH TILDE AND DIAERESIS"
+  ],
+  "C1504": [
+    "  &_o?:_  "
+  ],
+  "C1505": [
+    "  0x1e50    LATIN CAPITAL LETTER O WITH MACRON AND GRAVE"
+  ],
+  "C1506": [
+    "  &_O-!_  "
+  ],
+  "C1507": [
+    "  0x1e51    LATIN SMALL LETTER O WITH MACRON AND GRAVE"
+  ],
+  "C1508": [
+    "  &_o-!_  "
+  ],
+  "C1509": [
+    "  0x1e52    LATIN CAPITAL LETTER O WITH MACRON AND ACUTE"
+  ],
+  "C1510": [
+    "  &_O-'_  "
+  ],
+  "C1511": [
+    "  0x1e53    LATIN SMALL LETTER O WITH MACRON AND ACUTE"
+  ],
+  "C1512": [
+    "  &_o-'_  "
+  ],
+  "C1513": [
+    "  0x1e54    LATIN CAPITAL LETTER P WITH ACUTE"
+  ],
+  "C1514": [
+    "  &P'  "
+  ],
+  "C1515": [
+    "  0x1e55    LATIN SMALL LETTER P WITH ACUTE"
+  ],
+  "C1516": [
+    "  &p'  "
+  ],
+  "C1517": [
+    "  0x1e56    LATIN CAPITAL LETTER P WITH DOT ABOVE"
+  ],
+  "C1518": [
+    "  &P.  "
+  ],
+  "C1519": [
+    "  0x1e57    LATIN SMALL LETTER P WITH DOT ABOVE"
+  ],
+  "C1520": [
+    "  &p.  "
+  ],
+  "C1521": [
+    "  0x1e58    LATIN CAPITAL LETTER R WITH DOT ABOVE"
+  ],
+  "C1522": [
+    "  &R.  "
+  ],
+  "C1523": [
+    "  0x1e59    LATIN SMALL LETTER R WITH DOT ABOVE"
+  ],
+  "C1524": [
+    "  &r.  "
+  ],
+  "C1525": [
+    "  0x1e5a    LATIN CAPITAL LETTER R WITH DOT BELOW"
+  ],
+  "C1526": [
+    "  &_R-._  "
+  ],
+  "C1527": [
+    "  0x1e5b    LATIN SMALL LETTER R WITH DOT BELOW"
+  ],
+  "C1528": [
+    "  &_r-._  "
+  ],
+  "C1529": [
+    "  0x1e5c    LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON"
+  ],
+  "C1530": [
+    "  &_R--._  "
+  ],
+  "C1531": [
+    "  0x1e5d    LATIN SMALL LETTER R WITH DOT BELOW AND MACRON"
+  ],
+  "C1532": [
+    "  &_r--._  "
+  ],
+  "C1533": [
+    "  0x1e5e    LATIN CAPITAL LETTER R WITH LINE BELOW"
+  ],
+  "C1534": [
+    "  &R_  "
+  ],
+  "C1535": [
+    "  0x1e5f    LATIN SMALL LETTER R WITH LINE BELOW"
+  ],
+  "C1536": [
+    "  &r_  "
+  ],
+  "C1537": [
+    "  0x1e60    LATIN CAPITAL LETTER S WITH DOT ABOVE"
+  ],
+  "C1538": [
+    "  &S.  "
+  ],
+  "C1539": [
+    "  0x1e61    LATIN SMALL LETTER S WITH DOT ABOVE"
+  ],
+  "C1540": [
+    "  &s.  "
+  ],
+  "C1541": [
+    "  0x1e62    LATIN CAPITAL LETTER S WITH DOT BELOW"
+  ],
+  "C1542": [
+    "  &_S-._  "
+  ],
+  "C1543": [
+    "  0x1e63    LATIN SMALL LETTER S WITH DOT BELOW"
+  ],
+  "C1544": [
+    "  &_s-._  "
+  ],
+  "C1545": [
+    "  0x1e64    LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE"
+  ],
+  "C1546": [
+    "  &_S'._  "
+  ],
+  "C1547": [
+    "  0x1e65    LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE"
+  ],
+  "C1548": [
+    "  &_s'._  "
+  ],
+  "C1549": [
+    "  0x1e66    LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE"
+  ],
+  "C1550": [
+    "  &_S<._  "
+  ],
+  "C1551": [
+    "  0x1e67    LATIN SMALL LETTER S WITH CARON AND DOT ABOVE"
+  ],
+  "C1552": [
+    "  &_s<._  "
+  ],
+  "C1553": [
+    "  0x1e68    LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE"
+  ],
+  "C1554": [
+    "  &_S.-._  "
+  ],
+  "C1555": [
+    "  0x1e69    LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE"
+  ],
+  "C1556": [
+    "  &_S.-._  "
+  ],
+  "C1557": [
+    "  0x1e6a    LATIN CAPITAL LETTER T WITH DOT ABOVE"
+  ],
+  "C1558": [
+    "  &T.  "
+  ],
+  "C1559": [
+    "  0x1e6b    LATIN SMALL LETTER T WITH DOT ABOVE"
+  ],
+  "C1560": [
+    "  &t.  "
+  ],
+  "C1561": [
+    "  0x1e6c    LATIN CAPITAL LETTER T WITH DOT BELOW"
+  ],
+  "C1562": [
+    "  &_T-._  "
+  ],
+  "C1563": [
+    "  0x1e6d    LATIN SMALL LETTER T WITH DOT BELOW"
+  ],
+  "C1564": [
+    "  &_t-._  "
+  ],
+  "C1565": [
+    "  0x1e6e    LATIN CAPITAL LETTER T WITH LINE BELOW"
+  ],
+  "C1566": [
+    "  &T_  "
+  ],
+  "C1567": [
+    "  0x1e6f    LATIN SMALL LETTER T WITH LINE BELOW"
+  ],
+  "C1568": [
+    "  &t_  "
+  ],
+  "C1569": [
+    "  0x1e70    LATIN CAPITAL LETTER T WITH CIRCUMFLEX BELOW"
+  ],
+  "C1570": [
+    "  &_T->_  "
+  ],
+  "C1571": [
+    "  0x1e71    LATIN SMALL LETTER T WITH CIRCUMFLEX BELOW"
+  ],
+  "C1572": [
+    "  &_t->_  "
+  ],
+  "C1573": [
+    "  0x1e72    LATIN CAPITAL LETTER U WITH DIAERESIS BELOW"
+  ],
+  "C1574": [
+    "  &_U--:_  "
+  ],
+  "C1575": [
+    "  0x1e73    LATIN SMALL LETTER U WITH DIAERESIS BELOW"
+  ],
+  "C1576": [
+    "  &_u--:_  "
+  ],
+  "C1577": [
+    "  0x1e74    LATIN CAPITAL LETTER U WITH TILDE BELOW"
+  ],
+  "C1578": [
+    "  &_U-?_  "
+  ],
+  "C1579": [
+    "  0x1e75    LATIN SMALL LETTER U WITH TILDE BELOW"
+  ],
+  "C1580": [
+    "  &_u-?_  "
+  ],
+  "C1581": [
+    "  0x1e76    LATIN CAPITAL LETTER U WITH CIRCUMFLEX BELOW"
+  ],
+  "C1582": [
+    "  &_U->_  "
+  ],
+  "C1583": [
+    "  0x1e77    LATIN SMALL LETTER U WITH CIRCUMFLEX BELOW"
+  ],
+  "C1584": [
+    "  &_u->_  "
+  ],
+  "C1585": [
+    "  0x1e78    LATIN CAPITAL LETTER U WITH TILDE AND ACUTE"
+  ],
+  "C1586": [
+    "  &_U?'_  "
+  ],
+  "C1587": [
+    "  0x1e79    LATIN SMALL LETTER U WITH TILDE AND ACUTE"
+  ],
+  "C1588": [
+    "  &_u?'_  "
+  ],
+  "C1589": [
+    "  0x1e7a    LATIN CAPITAL LETTER U WITH MACRON AND DIAERESIS"
+  ],
+  "C1590": [
+    "  &_U-:_  "
+  ],
+  "C1591": [
+    "  0x1e7b    LATIN SMALL LETTER U WITH MACRON AND DIAERESIS"
+  ],
+  "C1592": [
+    "  &_u-:_  "
+  ],
+  "C1593": [
+    "  0x1e7c    LATIN CAPITAL LETTER V WITH TILDE"
+  ],
+  "C1594": [
+    "  &V?  "
+  ],
+  "C1595": [
+    "  0x1e7d    LATIN SMALL LETTER V WITH TILDE"
+  ],
+  "C1596": [
+    "  &v?  "
+  ],
+  "C1597": [
+    "  0x1e7e    LATIN CAPITAL LETTER V WITH DOT BELOW"
+  ],
+  "C1598": [
+    "  &_V-._  "
+  ],
+  "C1599": [
+    "  0x1e7f    LATIN SMALL LETTER V WITH DOT BELOW"
+  ],
+  "C1600": [
+    "  &_v-._  "
+  ],
+  "C1601": [
+    "  0x1e80    LATIN CAPITAL LETTER W WITH GRAVE"
+  ],
+  "C1602": [
+    "  &W!  "
+  ],
+  "C1603": [
+    "  0x1e81    LATIN SMALL LETTER W WITH GRAVE"
+  ],
+  "C1604": [
+    "  &w!  "
+  ],
+  "C1605": [
+    "  0x1e82    LATIN CAPITAL LETTER W WITH ACUTE"
+  ],
+  "C1606": [
+    "  &W'  "
+  ],
+  "C1607": [
+    "  0x1e83    LATIN SMALL LETTER W WITH ACUTE"
+  ],
+  "C1608": [
+    "  &w'  "
+  ],
+  "C1609": [
+    "  0x1e84    LATIN CAPITAL LETTER W WITH DIAERESIS"
+  ],
+  "C1610": [
+    "  &W:  "
+  ],
+  "C1611": [
+    "  0x1e85    LATIN SMALL LETTER W WITH DIAERESIS"
+  ],
+  "C1612": [
+    "  &w:  "
+  ],
+  "C1613": [
+    "  0x1e86    LATIN CAPITAL LETTER W WITH DOT ABOVE"
+  ],
+  "C1614": [
+    "  &W.  "
+  ],
+  "C1615": [
+    "  0x1e87    LATIN SMALL LETTER W WITH DOT ABOVE"
+  ],
+  "C1616": [
+    "  &w.  "
+  ],
+  "C1617": [
+    "  0x1e88    LATIN CAPITAL LETTER W WITH DOT BELOW"
+  ],
+  "C1618": [
+    "  &_W-._  "
+  ],
+  "C1619": [
+    "  0x1e89    LATIN SMALL LETTER W WITH DOT BELOW"
+  ],
+  "C1620": [
+    "  &_w-._  "
+  ],
+  "C1621": [
+    "  0x1e8a    LATIN CAPITAL LETTER X WITH DOT ABOVE"
+  ],
+  "C1622": [
+    "  &X.  "
+  ],
+  "C1623": [
+    "  0x1e8b    LATIN SMALL LETTER X WITH DOT ABOVE"
+  ],
+  "C1624": [
+    "  &x.  "
+  ],
+  "C1625": [
+    "  0x1e8c    LATIN CAPITAL LETTER X WITH DIAERESIS"
+  ],
+  "C1626": [
+    "  &X:  "
+  ],
+  "C1627": [
+    "  0x1e8d    LATIN SMALL LETTER X WITH DIAERESIS"
+  ],
+  "C1628": [
+    "  &x:  "
+  ],
+  "C1629": [
+    "  0x1e8e    LATIN CAPITAL LETTER Y WITH DOT ABOVE"
+  ],
+  "C1630": [
+    "  &Y.  "
+  ],
+  "C1631": [
+    "  0x1e8f    LATIN SMALL LETTER Y WITH DOT ABOVE"
+  ],
+  "C1632": [
+    "  &y.  "
+  ],
+  "C1633": [
+    "  0x1e90    LATIN CAPITAL LETTER Z WITH CIRCUMFLEX"
+  ],
+  "C1634": [
+    "  &Z>  "
+  ],
+  "C1635": [
+    "  0x1e91    LATIN SMALL LETTER Z WITH CIRCUMFLEX"
+  ],
+  "C1636": [
+    "  &z>  "
+  ],
+  "C1637": [
+    "  0x1e92    LATIN CAPITAL LETTER Z WITH DOT BELOW"
+  ],
+  "C1638": [
+    "  &_Z-._  "
+  ],
+  "C1639": [
+    "  0x1e93    LATIN SMALL LETTER Z WITH DOT BELOW"
+  ],
+  "C1640": [
+    "  &_z-._  "
+  ],
+  "C1641": [
+    "  0x1e94    LATIN CAPITAL LETTER Z WITH LINE BELOW"
+  ],
+  "C1642": [
+    "  &Z_  "
+  ],
+  "C1643": [
+    "  0x1e95    LATIN SMALL LETTER Z WITH LINE BELOW"
+  ],
+  "C1644": [
+    "  &z_  "
+  ],
+  "C1645": [
+    "  0x1e96    LATIN SMALL LETTER H WITH LINE BELOW"
+  ],
+  "C1646": [
+    "  &h_  "
+  ],
+  "C1647": [
+    "  0x1e97    LATIN SMALL LETTER T WITH DIAERESIS"
+  ],
+  "C1648": [
+    "  &t:  "
+  ],
+  "C1649": [
+    "  0x1e98    LATIN SMALL LETTER W WITH RING ABOVE"
+  ],
+  "C1650": [
+    "  &w0  "
+  ],
+  "C1651": [
+    "  0x1e99    LATIN SMALL LETTER Y WITH RING ABOVE"
+  ],
+  "C1652": [
+    "  &y0  "
+  ],
+  "C1653": [
+    "  0x1ea0    LATIN CAPITAL LETTER A WITH DOT BELOW"
+  ],
+  "C1654": [
+    "  &_A-._  "
+  ],
+  "C1655": [
+    "  0x1ea1    LATIN SMALL LETTER A WITH DOT BELOW"
+  ],
+  "C1656": [
+    "  &_a-._  "
+  ],
+  "C1657": [
+    "  0x1ea2    LATIN CAPITAL LETTER A WITH HOOK ABOVE"
+  ],
+  "C1658": [
+    "  &A2  "
+  ],
+  "C1659": [
+    "  0x1ea3    LATIN SMALL LETTER A WITH HOOK ABOVE"
+  ],
+  "C1660": [
+    "  &a2  "
+  ],
+  "C1661": [
+    "  0x1ea4    LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE"
+  ],
+  "C1662": [
+    "  &_A>'_  "
+  ],
+  "C1663": [
+    "  0x1ea5    LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE"
+  ],
+  "C1664": [
+    "  &_a>'_  "
+  ],
+  "C1665": [
+    "  0x1ea6    LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE"
+  ],
+  "C1666": [
+    "  &_A>!_  "
+  ],
+  "C1667": [
+    "  0x1ea7    LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE"
+  ],
+  "C1668": [
+    "  &_a>!_  "
+  ],
+  "C1669": [
+    "  0x1ea8    LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+  ],
+  "C1670": [
+    "  &_A>2_  "
+  ],
+  "C1671": [
+    "  0x1ea9    LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+  ],
+  "C1672": [
+    "  &_a>2_  "
+  ],
+  "C1673": [
+    "  0x1eaa    LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE"
+  ],
+  "C1674": [
+    "  &_A>?_  "
+  ],
+  "C1675": [
+    "  0x1eab    LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE"
+  ],
+  "C1676": [
+    "  &_a>?_  "
+  ],
+  "C1677": [
+    "  0x1eac    LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+  ],
+  "C1678": [
+    "  &_A>-._  "
+  ],
+  "C1679": [
+    "  0x1ead    LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+  ],
+  "C1680": [
+    "  &_a>-._  "
+  ],
+  "C1681": [
+    "  0x1eae    LATIN CAPITAL LETTER A WITH BREVE AND ACUTE"
+  ],
+  "C1682": [
+    "  &_A('_  "
+  ],
+  "C1683": [
+    "  0x1eaf    LATIN SMALL LETTER A WITH BREVE AND ACUTE"
+  ],
+  "C1684": [
+    "  &_a('_  "
+  ],
+  "C1685": [
+    "  0x1eb0    LATIN CAPITAL LETTER A WITH BREVE AND GRAVE"
+  ],
+  "C1686": [
+    "  &_A(!_  "
+  ],
+  "C1687": [
+    "  0x1eb1    LATIN SMALL LETTER A WITH BREVE AND GRAVE"
+  ],
+  "C1688": [
+    "  &_a(!_  "
+  ],
+  "C1689": [
+    "  0x1eb2    LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE"
+  ],
+  "C1690": [
+    "  &_A(2_  "
+  ],
+  "C1691": [
+    "  0x1eb3    LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE"
+  ],
+  "C1692": [
+    "  &_a(2_  "
+  ],
+  "C1693": [
+    "  0x1eb4    LATIN CAPITAL LETTER A WITH BREVE AND TILDE"
+  ],
+  "C1694": [
+    "  &_A(?_  "
+  ],
+  "C1695": [
+    "  0x1eb5    LATIN SMALL LETTER A WITH BREVE AND TILDE"
+  ],
+  "C1696": [
+    "  &_a(?_  "
+  ],
+  "C1697": [
+    "  0x1eb6    LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW"
+  ],
+  "C1698": [
+    "  &_A(-._  "
+  ],
+  "C1699": [
+    "  0x1eb7    LATIN SMALL LETTER A WITH BREVE AND DOT BELOW"
+  ],
+  "C1700": [
+    "  &_a(-._  "
+  ],
+  "C1701": [
+    "  0x1eb8    LATIN CAPITAL LETTER E WITH DOT BELOW"
+  ],
+  "C1702": [
+    "  &_E-._  "
+  ],
+  "C1703": [
+    "  0x1eb9    LATIN SMALL LETTER E WITH DOT BELOW"
+  ],
+  "C1704": [
+    "  &_e-._  "
+  ],
+  "C1705": [
+    "  0x1eba    LATIN CAPITAL LETTER E WITH HOOK ABOVE"
+  ],
+  "C1706": [
+    "  &E2  "
+  ],
+  "C1707": [
+    "  0x1ebb    LATIN SMALL LETTER E WITH HOOK ABOVE"
+  ],
+  "C1708": [
+    "  &e2  "
+  ],
+  "C1709": [
+    "  0x1ebc    LATIN CAPITAL LETTER E WITH TILDE"
+  ],
+  "C1710": [
+    "  &E?  "
+  ],
+  "C1711": [
+    "  0x1ebd    LATIN SMALL LETTER E WITH TILDE"
+  ],
+  "C1712": [
+    "  &e?  "
+  ],
+  "C1713": [
+    "  0x1ebe    LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE"
+  ],
+  "C1714": [
+    "  &_E>'_  "
+  ],
+  "C1715": [
+    "  0x1ebf    LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE"
+  ],
+  "C1716": [
+    "  &_e>'_  "
+  ],
+  "C1717": [
+    "  0x1ec0    LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE"
+  ],
+  "C1718": [
+    "  &_E>!_  "
+  ],
+  "C1719": [
+    "  0x1ec1    LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE"
+  ],
+  "C1720": [
+    "  &_e>!_  "
+  ],
+  "C1721": [
+    "  0x1ec2    LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+  ],
+  "C1722": [
+    "  &_E>2_  "
+  ],
+  "C1723": [
+    "  0x1ec3    LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+  ],
+  "C1724": [
+    "  &_e>2_  "
+  ],
+  "C1725": [
+    "  0x1ec4    LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE"
+  ],
+  "C1726": [
+    "  &_E>?_  "
+  ],
+  "C1727": [
+    "  0x1ec5    LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE"
+  ],
+  "C1728": [
+    "  &_e>?_  "
+  ],
+  "C1729": [
+    "  0x1ec6    LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+  ],
+  "C1730": [
+    "  &_E>-._  "
+  ],
+  "C1731": [
+    "  0x1ec7    LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+  ],
+  "C1732": [
+    "  &_e>-._  "
+  ],
+  "C1733": [
+    "  0x1ec8    LATIN CAPITAL LETTER I WITH HOOK ABOVE"
+  ],
+  "C1734": [
+    "  &I2  "
+  ],
+  "C1735": [
+    "  0x1ec9    LATIN SMALL LETTER I WITH HOOK ABOVE"
+  ],
+  "C1736": [
+    "  &i2  "
+  ],
+  "C1737": [
+    "  0x1eca    LATIN CAPITAL LETTER I WITH DOT BELOW"
+  ],
+  "C1738": [
+    "  &_I-._  "
+  ],
+  "C1739": [
+    "  0x1ecb    LATIN SMALL LETTER I WITH DOT BELOW"
+  ],
+  "C1740": [
+    "  &_i-._  "
+  ],
+  "C1741": [
+    "  0x1ecc    LATIN CAPITAL LETTER O WITH DOT BELOW"
+  ],
+  "C1742": [
+    "  &_O-._  "
+  ],
+  "C1743": [
+    "  0x1ecd    LATIN SMALL LETTER O WITH DOT BELOW"
+  ],
+  "C1744": [
+    "  &_o-._  "
+  ],
+  "C1745": [
+    "  0x1ece    LATIN CAPITAL LETTER O WITH HOOK ABOVE"
+  ],
+  "C1746": [
+    "  &O2  "
+  ],
+  "C1747": [
+    "  0x1ecf    LATIN SMALL LETTER O WITH HOOK ABOVE"
+  ],
+  "C1748": [
+    "  &o2  "
+  ],
+  "C1749": [
+    "  0x1ed0    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE"
+  ],
+  "C1750": [
+    "  &_O>'_  "
+  ],
+  "C1751": [
+    "  0x1ed1    LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE"
+  ],
+  "C1752": [
+    "  &_o>'_  "
+  ],
+  "C1753": [
+    "  0x1ed2    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE"
+  ],
+  "C1754": [
+    "  &_O>!_  "
+  ],
+  "C1755": [
+    "  0x1ed3    LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE"
+  ],
+  "C1756": [
+    "  &_o>!_  "
+  ],
+  "C1757": [
+    "  0x1ed4    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+  ],
+  "C1758": [
+    "  &_O>2_  "
+  ],
+  "C1759": [
+    "  0x1ed5    LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+  ],
+  "C1760": [
+    "  &_o>2_  "
+  ],
+  "C1761": [
+    "  0x1ed6    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE"
+  ],
+  "C1762": [
+    "  &_O>?_  "
+  ],
+  "C1763": [
+    "  0x1ed7    LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE"
+  ],
+  "C1764": [
+    "  &_o>?_  "
+  ],
+  "C1765": [
+    "  0x1ed8    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+  ],
+  "C1766": [
+    "  &_O>-._  "
+  ],
+  "C1767": [
+    "  0x1ed9    LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+  ],
+  "C1768": [
+    "  &_o>-._  "
+  ],
+  "C1769": [
+    "  0x1eda    LATIN CAPITAL LETTER O WITH HORN AND ACUTE"
+  ],
+  "C1770": [
+    "  &_O9'_  "
+  ],
+  "C1771": [
+    "  0x1edb    LATIN SMALL LETTER O WITH HORN AND ACUTE"
+  ],
+  "C1772": [
+    "  &_o9'_  "
+  ],
+  "C1773": [
+    "  0x1edc    LATIN CAPITAL LETTER O WITH HORN AND GRAVE"
+  ],
+  "C1774": [
+    "  &_O9!_  "
+  ],
+  "C1775": [
+    "  0x1edd    LATIN SMALL LETTER O WITH HORN AND GRAVE"
+  ],
+  "C1776": [
+    "  &_o9!_  "
+  ],
+  "C1777": [
+    "  0x1ede    LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE"
+  ],
+  "C1778": [
+    "  &_O92_  "
+  ],
+  "C1779": [
+    "  0x1edf    LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE"
+  ],
+  "C1780": [
+    "  &_o92_  "
+  ],
+  "C1781": [
+    "  0x1ee0    LATIN CAPITAL LETTER O WITH HORN AND TILDE"
+  ],
+  "C1782": [
+    "  &_O9?_  "
+  ],
+  "C1783": [
+    "  0x1ee1    LATIN SMALL LETTER O WITH HORN AND TILDE"
+  ],
+  "C1784": [
+    "  &_o9?_  "
+  ],
+  "C1785": [
+    "  0x1ee2    LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW"
+  ],
+  "C1786": [
+    "  &_O9-._  "
+  ],
+  "C1787": [
+    "  0x1ee3    LATIN SMALL LETTER O WITH HORN AND DOT BELOW"
+  ],
+  "C1788": [
+    "  &_o9-._  "
+  ],
+  "C1789": [
+    "  0x1ee4    LATIN CAPITAL LETTER U WITH DOT BELOW"
+  ],
+  "C1790": [
+    "  &_U-._  "
+  ],
+  "C1791": [
+    "  0x1ee5    LATIN SMALL LETTER U WITH DOT BELOW"
+  ],
+  "C1792": [
+    "  &_u-._  "
+  ],
+  "C1793": [
+    "  0x1ee6    LATIN CAPITAL LETTER U WITH HOOK ABOVE"
+  ],
+  "C1794": [
+    "  &U2  "
+  ],
+  "C1795": [
+    "  0x1ee7    LATIN SMALL LETTER U WITH HOOK ABOVE"
+  ],
+  "C1796": [
+    "  &u2  "
+  ],
+  "C1797": [
+    "  0x1ee8    LATIN CAPITAL LETTER U WITH HORN AND ACUTE"
+  ],
+  "C1798": [
+    "  &_U9'_  "
+  ],
+  "C1799": [
+    "  0x1ee9    LATIN SMALL LETTER U WITH HORN AND ACUTE"
+  ],
+  "C1800": [
+    "  &_u9'_  "
+  ],
+  "C1801": [
+    "  0x1eea    LATIN CAPITAL LETTER U WITH HORN AND GRAVE"
+  ],
+  "C1802": [
+    "  &_U9!_  "
+  ],
+  "C1803": [
+    "  0x1eeb    LATIN SMALL LETTER U WITH HORN AND GRAVE"
+  ],
+  "C1804": [
+    "  &_u9!_  "
+  ],
+  "C1805": [
+    "  0x1eec    LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE"
+  ],
+  "C1806": [
+    "  &_U92_  "
+  ],
+  "C1807": [
+    "  0x1eed    LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE"
+  ],
+  "C1808": [
+    "  &_u92_  "
+  ],
+  "C1809": [
+    "  0x1eee    LATIN CAPITAL LETTER U WITH HORN AND TILDE"
+  ],
+  "C1810": [
+    "  &_U9?_  "
+  ],
+  "C1811": [
+    "  0x1eef    LATIN SMALL LETTER U WITH HORN AND TILDE"
+  ],
+  "C1812": [
+    "  &_u9?_  "
+  ],
+  "C1813": [
+    "  0x1ef0    LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW"
+  ],
+  "C1814": [
+    "  &_U9-._  "
+  ],
+  "C1815": [
+    "  0x1ef1    LATIN SMALL LETTER U WITH HORN AND DOT BELOW"
+  ],
+  "C1816": [
+    "  &_u9-._  "
+  ],
+  "C1817": [
+    "  0x1ef2    LATIN CAPITAL LETTER Y WITH GRAVE"
+  ],
+  "C1818": [
+    "  &Y!  "
+  ],
+  "C1819": [
+    "  0x1ef3    LATIN SMALL LETTER Y WITH GRAVE"
+  ],
+  "C1820": [
+    "  &y!  "
+  ],
+  "C1821": [
+    "  0x1ef4    LATIN CAPITAL LETTER Y WITH DOT BELOW"
+  ],
+  "C1822": [
+    "  &_Y-._  "
+  ],
+  "C1823": [
+    "  0x1ef5    LATIN SMALL LETTER Y WITH DOT BELOW"
+  ],
+  "C1824": [
+    "  &_y-._  "
+  ],
+  "C1825": [
+    "  0x1ef6    LATIN CAPITAL LETTER Y WITH HOOK ABOVE"
+  ],
+  "C1826": [
+    "  &Y2  "
+  ],
+  "C1827": [
+    "  0x1ef7    LATIN SMALL LETTER Y WITH HOOK ABOVE"
+  ],
+  "C1828": [
+    "  &y2  "
+  ],
+  "C1829": [
+    "  0x1ef8    LATIN CAPITAL LETTER Y WITH TILDE"
+  ],
+  "C1830": [
+    "  &Y?  "
+  ],
+  "C1831": [
+    "  0x1ef9    LATIN SMALL LETTER Y WITH TILDE"
+  ],
+  "C1832": [
+    "  &y?  "
+  ],
+  "C1833": [
+    "  0x1f00    GREEK DASIA AND ACUTE ACCENT"
+  ],
+  "C1834": [
+    "  &;'  "
+  ],
+  "C1835": [
+    "  0x1f01    GREEK PSILI AND ACUTE ACCENT"
+  ],
+  "C1836": [
+    "  &,'  "
+  ],
+  "C1837": [
+    "  0x1f02    GREEK DASIA AND VARIA"
+  ],
+  "C1838": [
+    "  &;!  "
+  ],
+  "C1839": [
+    "  0x1f03    GREEK PSILI AND VARIA"
+  ],
+  "C1840": [
+    "  &,!  "
+  ],
+  "C1841": [
+    "  0x1f04    GREEK DASIA AND PERISPOMENI"
+  ],
+  "C1842": [
+    "  &?;  "
+  ],
+  "C1843": [
+    "  0x1f05    GREEK PSILI AND PERISPOMENI"
+  ],
+  "C1844": [
+    "  &?,  "
+  ],
+  "C1845": [
+    "  0x1f06    GREEK DIAERESIS AND VARIA"
+  ],
+  "C1846": [
+    "  &!:  "
+  ],
+  "C1847": [
+    "  0x1f07    GREEK DIAERESIS AND PERISPOMENI"
+  ],
+  "C1848": [
+    "  &?:  "
+  ],
+  "C1849": [
+    "  0x2002    EN SPACE"
+  ],
+  "C1850": [
+    "  &1N  "
+  ],
+  "C1851": [
+    "  0x2003    EM SPACE"
+  ],
+  "C1852": [
+    "  &1M  "
+  ],
+  "C1853": [
+    "  0x2004    THREE-PER-EM SPACE"
+  ],
+  "C1854": [
+    "  &3M  "
+  ],
+  "C1855": [
+    "  0x2005    FOUR-PER-EM SPACE"
+  ],
+  "C1856": [
+    "  &4M  "
+  ],
+  "C1857": [
+    "  0x2006    SIX-PER-EM SPACE"
+  ],
+  "C1858": [
+    "  &6M  "
+  ],
+  "C1859": [
+    "  0x2009    THIN SPACE"
+  ],
+  "C1860": [
+    "  &1T  "
+  ],
+  "C1861": [
+    "  0x200a    HAIR SPACE"
+  ],
+  "C1862": [
+    "  &1H  "
+  ],
+  "C1863": [
+    "  0x2010    HYPHEN"
+  ],
+  "C1864": [
+    "  &-1  "
+  ],
+  "C1865": [
+    "  0x2013    EN DASH"
+  ],
+  "C1866": [
+    "  &-N  "
+  ],
+  "C1867": [
+    "  0x2014    EM DASH"
+  ],
+  "C1868": [
+    "  &-M  "
+  ],
+  "C1869": [
+    "  0x2015    HORIZONTAL BAR"
+  ],
+  "C1870": [
+    "  &-3  "
+  ],
+  "C1871": [
+    "  0x2016    DOUBLE VERTICAL LINE"
+  ],
+  "C1872": [
+    "  &!2  "
+  ],
+  "C1873": [
+    "  0x2017    DOUBLE LOW LINE"
+  ],
+  "C1874": [
+    "  &=2  "
+  ],
+  "C1875": [
+    "  0x2018    LEFT SINGLE QUOTATION MARK"
+  ],
+  "C1876": [
+    "  &'6  "
+  ],
+  "C1877": [
+    "  0x2019    RIGHT SINGLE QUOTATION MARK"
+  ],
+  "C1878": [
+    "  &'9  "
+  ],
+  "C1879": [
+    "  0x201a    SINGLE LOW-9 QUOTATION MARK"
+  ],
+  "C1880": [
+    "  &.9  "
+  ],
+  "C1881": [
+    "  0x201b    SINGLE HIGH-REVERSED-9 QUOTATION MARK"
+  ],
+  "C1882": [
+    "  &9'  "
+  ],
+  "C1883": [
+    "  0x201c    LEFT DOUBLE QUOTATION MARK"
+  ],
+  "C1884": [
+    "  &\"6  "
+  ],
+  "C1885": [
+    "  0x201d    RIGHT DOUBLE QUOTATION MARK"
+  ],
+  "C1886": [
+    "  &\"9  "
+  ],
+  "C1887": [
+    "  0x201e    DOUBLE LOW-9 QUOTATION MARK"
+  ],
+  "C1888": [
+    "  &:9  "
+  ],
+  "C1889": [
+    "  0x201f    DOUBLE HIGH-REVERSED-9 QUOTATION MARK"
+  ],
+  "C1890": [
+    "  &9\"  "
+  ],
+  "C1891": [
+    "  0x2020    DAGGER"
+  ],
+  "C1892": [
+    "  &/-  "
+  ],
+  "C1893": [
+    "  0x2021    DOUBLE DAGGER"
+  ],
+  "C1894": [
+    "  &/=  "
+  ],
+  "C1895": [
+    "  0x2025    TWO DOT LEADER"
+  ],
+  "C1896": [
+    "  &..  "
+  ],
+  "C1897": [
+    "  0x2030    PER MILLE SIGN"
+  ],
+  "C1898": [
+    "  &%0  "
+  ],
+  "C1899": [
+    "  0x2032    PRIME"
+  ],
+  "C1900": [
+    "  &1'  "
+  ],
+  "C1901": [
+    "  0x2033    DOUBLE PRIME"
+  ],
+  "C1902": [
+    "  &2'  "
+  ],
+  "C1903": [
+    "  0x2034    TRIPLE PRIME"
+  ],
+  "C1904": [
+    "  &3'  "
+  ],
+  "C1905": [
+    "  0x2035    REVERSED PRIME"
+  ],
+  "C1906": [
+    "  &1\"  "
+  ],
+  "C1907": [
+    "  0x2036    REVERSED DOUBLE PRIME"
+  ],
+  "C1908": [
+    "  &2\"  "
+  ],
+  "C1909": [
+    "  0x2037    REVERSED TRIPLE PRIME"
+  ],
+  "C1910": [
+    "  &3\"  "
+  ],
+  "C1911": [
+    "  0x2038    CARET"
+  ],
+  "C1912": [
+    "  &Ca  "
+  ],
+  "C1913": [
+    "  0x2039    SINGLE LEFT-POINTING ANGLE QUOTATION MARK"
+  ],
+  "C1914": [
+    "  &<1  "
+  ],
+  "C1915": [
+    "  0x203a    SINGLE RIGHT-POINTING ANGLE QUOTATION MARK"
+  ],
+  "C1916": [
+    "  &>1  "
+  ],
+  "C1917": [
+    "  0x203b    REFERENCE MARK"
+  ],
+  "C1918": [
+    "  &:X  "
+  ],
+  "C1919": [
+    "  0x203c    DOUBLE EXCLAMATION MARK"
+  ],
+  "C1920": [
+    "  &_!*2_  "
+  ],
+  "C1921": [
+    "  0x203e    OVERLINE"
+  ],
+  "C1922": [
+    "  &'-  "
+  ],
+  "C1923": [
+    "  0x2044    FRACTION SLASH"
+  ],
+  "C1924": [
+    "  &/f  "
+  ],
+  "C1925": [
+    "  0x2070    SUPERSCRIPT DIGIT ZERO"
+  ],
+  "C1926": [
+    "  &0S  "
+  ],
+  "C1927": [
+    "  0x2074    SUPERSCRIPT DIGIT FOUR"
+  ],
+  "C1928": [
+    "  &4S  "
+  ],
+  "C1929": [
+    "  0x2075    SUPERSCRIPT DIGIT FIVE"
+  ],
+  "C1930": [
+    "  &5S  "
+  ],
+  "C1931": [
+    "  0x2076    SUPERSCRIPT DIGIT SIX"
+  ],
+  "C1932": [
+    "  &6S  "
+  ],
+  "C1933": [
+    "  0x2077    SUPERSCRIPT DIGIT SEVEN"
+  ],
+  "C1934": [
+    "  &7S  "
+  ],
+  "C1935": [
+    "  0x2078    SUPERSCRIPT DIGIT EIGHT"
+  ],
+  "C1936": [
+    "  &8S  "
+  ],
+  "C1937": [
+    "  0x2079    SUPERSCRIPT DIGIT NINE"
+  ],
+  "C1938": [
+    "  &9S  "
+  ],
+  "C1939": [
+    "  0x207a    SUPERSCRIPT PLUS SIGN"
+  ],
+  "C1940": [
+    "  &+S  "
+  ],
+  "C1941": [
+    "  0x207b    SUPERSCRIPT MINUS"
+  ],
+  "C1942": [
+    "  &-S  "
+  ],
+  "C1943": [
+    "  0x207c    SUPERSCRIPT EQUALS SIGN"
+  ],
+  "C1944": [
+    "  &=S  "
+  ],
+  "C1945": [
+    "  0x207d    SUPERSCRIPT LEFT PARENTHESIS"
+  ],
+  "C1946": [
+    "  &(S  "
+  ],
+  "C1947": [
+    "  0x207e    SUPERSCRIPT RIGHT PARENTHESIS"
+  ],
+  "C1948": [
+    "  &)S  "
+  ],
+  "C1949": [
+    "  0x207f    SUPERSCRIPT LATIN SMALL LETTER N"
+  ],
+  "C1950": [
+    "  &nS  "
+  ],
+  "C1951": [
+    "  0x2080    SUBSCRIPT DIGIT ZERO"
+  ],
+  "C1952": [
+    "  &0s  "
+  ],
+  "C1953": [
+    "  0x2081    SUBSCRIPT DIGIT ONE"
+  ],
+  "C1954": [
+    "  &1s  "
+  ],
+  "C1955": [
+    "  0x2082    SUBSCRIPT DIGIT TWO"
+  ],
+  "C1956": [
+    "  &2s  "
+  ],
+  "C1957": [
+    "  0x2083    SUBSCRIPT DIGIT THREE"
+  ],
+  "C1958": [
+    "  &3s  "
+  ],
+  "C1959": [
+    "  0x2084    SUBSCRIPT DIGIT FOUR"
+  ],
+  "C1960": [
+    "  &4s  "
+  ],
+  "C1961": [
+    "  0x2085    SUBSCRIPT DIGIT FIVE"
+  ],
+  "C1962": [
+    "  &5s  "
+  ],
+  "C1963": [
+    "  0x2086    SUBSCRIPT DIGIT SIX"
+  ],
+  "C1964": [
+    "  &6s  "
+  ],
+  "C1965": [
+    "  0x2087    SUBSCRIPT DIGIT SEVEN"
+  ],
+  "C1966": [
+    "  &7s  "
+  ],
+  "C1967": [
+    "  0x2088    SUBSCRIPT DIGIT EIGHT"
+  ],
+  "C1968": [
+    "  &8s  "
+  ],
+  "C1969": [
+    "  0x2089    SUBSCRIPT DIGIT NINE"
+  ],
+  "C1970": [
+    "  &9s  "
+  ],
+  "C1971": [
+    "  0x208a    SUBSCRIPT PLUS SIGN"
+  ],
+  "C1972": [
+    "  &+s  "
+  ],
+  "C1973": [
+    "  0x208b    SUBSCRIPT MINUS"
+  ],
+  "C1974": [
+    "  &-s  "
+  ],
+  "C1975": [
+    "  0x208c    SUBSCRIPT EQUALS SIGN"
+  ],
+  "C1976": [
+    "  &=s  "
+  ],
+  "C1977": [
+    "  0x208d    SUBSCRIPT LEFT PARENTHESIS"
+  ],
+  "C1978": [
+    "  &(s  "
+  ],
+  "C1979": [
+    "  0x208e    SUBSCRIPT RIGHT PARENTHESIS"
+  ],
+  "C1980": [
+    "  &)s  "
+  ],
+  "C1981": [
+    "  0x20a4    LIRA SIGN"
+  ],
+  "C1982": [
+    "  &Li  "
+  ],
+  "C1983": [
+    "  0x20a7    PESETA SIGN"
+  ],
+  "C1984": [
+    "  &Pt  "
+  ],
+  "C1985": [
+    "  0x20a9    WON SIGN"
+  ],
+  "C1986": [
+    "  &W=  "
+  ],
+  "C1987": [
+    "  0x2103    DEGREE CENTIGRADE"
+  ],
+  "C1988": [
+    "  &oC  "
+  ],
+  "C1989": [
+    "  0x2105    CARE OF"
+  ],
+  "C1990": [
+    "  &co  "
+  ],
+  "C1991": [
+    "  0x2109    DEGREE FAHRENHEIT"
+  ],
+  "C1992": [
+    "  &oF  "
+  ],
+  "C1993": [
+    "  0x2116    NUMERO SIGN"
+  ],
+  "C1994": [
+    "  &N0  "
+  ],
+  "C1995": [
+    "  0x2117    SOUND RECORDING COPYRIGHT"
+  ],
+  "C1996": [
+    "  &PO  "
+  ],
+  "C1997": [
+    "  0x211e    PRESCRIPTION TAKE"
+  ],
+  "C1998": [
+    "  &Rx  "
+  ],
+  "C1999": [
+    "  0x2120    SERVICE MARK"
+  ],
+  "C2000": [
+    "  &SM  "
+  ],
+  "C2001": [
+    "  0x2122    TRADE MARK SIGN"
+  ],
+  "C2002": [
+    "  &TM  "
+  ],
+  "C2003": [
+    "  0x2126    OHM SIGN"
+  ],
+  "C2004": [
+    "  &Om  "
+  ],
+  "C2005": [
+    "  0x212b    ANGSTROEM SIGN"
+  ],
+  "C2006": [
+    "  &AO  "
+  ],
+  "C2007": [
+    "  0x2153    VULGAR FRACTION ONE THIRD"
+  ],
+  "C2008": [
+    "  &13  "
+  ],
+  "C2009": [
+    "  0x2154    VULGAR FRACTION TWO THIRDS"
+  ],
+  "C2010": [
+    "  &23  "
+  ],
+  "C2011": [
+    "  0x2155    VULGAR FRACTION ONE FIFTH"
+  ],
+  "C2012": [
+    "  &15  "
+  ],
+  "C2013": [
+    "  0x2156    VULGAR FRACTION TWO FIFTHS"
+  ],
+  "C2014": [
+    "  &25  "
+  ],
+  "C2015": [
+    "  0x2157    VULGAR FRACTION THREE FIFTHS"
+  ],
+  "C2016": [
+    "  &35  "
+  ],
+  "C2017": [
+    "  0x2158    VULGAR FRACTION FOUR FIFTHS"
+  ],
+  "C2018": [
+    "  &45  "
+  ],
+  "C2019": [
+    "  0x2159    VULGAR FRACTION ONE SIXTH"
+  ],
+  "C2020": [
+    "  &16  "
+  ],
+  "C2021": [
+    "  0x215a    VULGAR FRACTION FIVE SIXTHS"
+  ],
+  "C2022": [
+    "  &56  "
+  ],
+  "C2023": [
+    "  0x215b    VULGAR FRACTION ONE EIGHTH"
+  ],
+  "C2024": [
+    "  &18  "
+  ],
+  "C2025": [
+    "  0x215c    VULGAR FRACTION THREE EIGHTHS"
+  ],
+  "C2026": [
+    "  &38  "
+  ],
+  "C2027": [
+    "  0x215d    VULGAR FRACTION FIVE EIGHTHS"
+  ],
+  "C2028": [
+    "  &58  "
+  ],
+  "C2029": [
+    "  0x215e    VULGAR FRACTION SEVEN EIGHTHS"
+  ],
+  "C2030": [
+    "  &78  "
+  ],
+  "C2031": [
+    "  0x2160    ROMAN NUMERAL ONE"
+  ],
+  "C2032": [
+    "  &1R  "
+  ],
+  "C2033": [
+    "  0x2161    ROMAN NUMERAL TWO"
+  ],
+  "C2034": [
+    "  &2R  "
+  ],
+  "C2035": [
+    "  0x2162    ROMAN NUMERAL THREE"
+  ],
+  "C2036": [
+    "  &3R  "
+  ],
+  "C2037": [
+    "  0x2163    ROMAN NUMERAL FOUR"
+  ],
+  "C2038": [
+    "  &4R  "
+  ],
+  "C2039": [
+    "  0x2164    ROMAN NUMERAL FIVE"
+  ],
+  "C2040": [
+    "  &5R  "
+  ],
+  "C2041": [
+    "  0x2165    ROMAN NUMERAL SIX"
+  ],
+  "C2042": [
+    "  &6R  "
+  ],
+  "C2043": [
+    "  0x2166    ROMAN NUMERAL SEVEN"
+  ],
+  "C2044": [
+    "  &7R  "
+  ],
+  "C2045": [
+    "  0x2167    ROMAN NUMERAL EIGHT"
+  ],
+  "C2046": [
+    "  &8R  "
+  ],
+  "C2047": [
+    "  0x2168    ROMAN NUMERAL NINE"
+  ],
+  "C2048": [
+    "  &9R  "
+  ],
+  "C2049": [
+    "  0x2169    ROMAN NUMERAL TEN"
+  ],
+  "C2050": [
+    "  &aR  "
+  ],
+  "C2051": [
+    "  0x216a    ROMAN NUMERAL ELEVEN"
+  ],
+  "C2052": [
+    "  &bR  "
+  ],
+  "C2053": [
+    "  0x216b    ROMAN NUMERAL TWELVE"
+  ],
+  "C2054": [
+    "  &cR  "
+  ],
+  "C2055": [
+    "  0x216c    ROMAN NUMERAL FIFTY"
+  ],
+  "C2056": [
+    "  &_50R_  "
+  ],
+  "C2057": [
+    "  0x216d    ROMAN NUMERAL ONE HUNDRED"
+  ],
+  "C2058": [
+    "  &_100R_  "
+  ],
+  "C2059": [
+    "  0x216e    ROMAN NUMERAL FIVE HUNDRED"
+  ],
+  "C2060": [
+    "  &_500R_  "
+  ],
+  "C2061": [
+    "  0x216f    ROMAN NUMERAL ONE THOUSAND"
+  ],
+  "C2062": [
+    "  &_1000R_  "
+  ],
+  "C2063": [
+    "  0x2170    SMALL ROMAN NUMERAL ONE"
+  ],
+  "C2064": [
+    "  &1r  "
+  ],
+  "C2065": [
+    "  0x2171    SMALL ROMAN NUMERAL TWO"
+  ],
+  "C2066": [
+    "  &2r  "
+  ],
+  "C2067": [
+    "  0x2172    SMALL ROMAN NUMERAL THREE"
+  ],
+  "C2068": [
+    "  &3r  "
+  ],
+  "C2069": [
+    "  0x2173    SMALL ROMAN NUMERAL FOUR"
+  ],
+  "C2070": [
+    "  &4r  "
+  ],
+  "C2071": [
+    "  0x2174    SMALL ROMAN NUMERAL FIVE"
+  ],
+  "C2072": [
+    "  &5r  "
+  ],
+  "C2073": [
+    "  0x2175    SMALL ROMAN NUMERAL SIX"
+  ],
+  "C2074": [
+    "  &6r  "
+  ],
+  "C2075": [
+    "  0x2176    SMALL ROMAN NUMERAL SEVEN"
+  ],
+  "C2076": [
+    "  &7r  "
+  ],
+  "C2077": [
+    "  0x2177    SMALL ROMAN NUMERAL EIGHT"
+  ],
+  "C2078": [
+    "  &8r  "
+  ],
+  "C2079": [
+    "  0x2178    SMALL ROMAN NUMERAL NINE"
+  ],
+  "C2080": [
+    "  &9r  "
+  ],
+  "C2081": [
+    "  0x2179    SMALL ROMAN NUMERAL TEN"
+  ],
+  "C2082": [
+    "  &ar  "
+  ],
+  "C2083": [
+    "  0x217a    SMALL ROMAN NUMERAL ELEVEN"
+  ],
+  "C2084": [
+    "  &br  "
+  ],
+  "C2085": [
+    "  0x217b    SMALL ROMAN NUMERAL TWELVE"
+  ],
+  "C2086": [
+    "  &cr  "
+  ],
+  "C2087": [
+    "  0x217c    SMALL ROMAN NUMERAL FIFTY"
+  ],
+  "C2088": [
+    "  &_50r_  "
+  ],
+  "C2089": [
+    "  0x217d    SMALL ROMAN NUMERAL ONE HUNDRED"
+  ],
+  "C2090": [
+    "  &_100r_  "
+  ],
+  "C2091": [
+    "  0x217e    SMALL ROMAN NUMERAL FIVE HUNDRED"
+  ],
+  "C2092": [
+    "  &_500r_  "
+  ],
+  "C2093": [
+    "  0x217f    SMALL ROMAN NUMERAL ONE THOUSAND"
+  ],
+  "C2094": [
+    "  &_1000r_  "
+  ],
+  "C2095": [
+    "  0x2180    ROMAN NUMERAL ONE THOUSAND C D"
+  ],
+  "C2096": [
+    "  &_1000RCD_  "
+  ],
+  "C2097": [
+    "  0x2181    ROMAN NUMERAL FIVE THOUSAND"
+  ],
+  "C2098": [
+    "  &_5000R_  "
+  ],
+  "C2099": [
+    "  0x2182    ROMAN NUMERAL TEN THOUSAND"
+  ],
+  "C2100": [
+    "  &_10000R_  "
+  ],
+  "C2101": [
+    "  0x2190    LEFTWARDS ARROW"
+  ],
+  "C2102": [
+    "  &<-  "
+  ],
+  "C2103": [
+    "  0x2191    UPWARDS ARROW"
+  ],
+  "C2104": [
+    "  &-!  "
+  ],
+  "C2105": [
+    "  0x2192    RIGHTWARDS ARROW"
+  ],
+  "C2106": [
+    "  &->  "
+  ],
+  "C2107": [
+    "  0x2193    DOWNWARDS ARROW"
+  ],
+  "C2108": [
+    "  &-v  "
+  ],
+  "C2109": [
+    "  0x2194    LEFT RIGHT ARROW"
+  ],
+  "C2110": [
+    "  &<>  "
+  ],
+  "C2111": [
+    "  0x2195    UP DOWN ARROW"
+  ],
+  "C2112": [
+    "  &UD  "
+  ],
+  "C2113": [
+    "  0x2196    NORTH WEST ARROW"
+  ],
+  "C2114": [
+    "  &_<!!_  "
+  ],
+  "C2115": [
+    "  0x2197    NORTH EAST ARROW"
+  ],
+  "C2116": [
+    "  &_//>_  "
+  ],
+  "C2117": [
+    "  0x2198    SOUTH EAST ARROW"
+  ],
+  "C2118": [
+    "  &_!!>_  "
+  ],
+  "C2119": [
+    "  0x2199    SOUTH WEST ARROW"
+  ],
+  "C2120": [
+    "  &_<//_  "
+  ],
+  "C2121": [
+    "  0x21d0    LEFTWARDS DOUBLE ARROW"
+  ],
+  "C2122": [
+    "  &<=  "
+  ],
+  "C2123": [
+    "  0x21d2    RIGHTWARDS DOUBLE ARROW"
+  ],
+  "C2124": [
+    "  &=>  "
+  ],
+  "C2125": [
+    "  0x21d4    LEFT RIGHT DOUBLE ARROW"
+  ],
+  "C2126": [
+    "  &==  "
+  ],
+  "C2127": [
+    "  0x2200    FOR ALL"
+  ],
+  "C2128": [
+    "  &FA  "
+  ],
+  "C2129": [
+    "  0x2202    PARTIAL DIFFERENTIAL"
+  ],
+  "C2130": [
+    "  &dP  "
+  ],
+  "C2131": [
+    "  0x2203    THERE EXISTS"
+  ],
+  "C2132": [
+    "  &TE  "
+  ],
+  "C2133": [
+    "  0x2205    EMPTY SET"
+  ],
+  "C2134": [
+    "  &/0  "
+  ],
+  "C2135": [
+    "  0x2206    INCREMENT"
+  ],
+  "C2136": [
+    "  &DE  "
+  ],
+  "C2137": [
+    "  0x2207    NABLA"
+  ],
+  "C2138": [
+    "  &NB  "
+  ],
+  "C2139": [
+    "  0x2208    ELEMENT OF"
+  ],
+  "C2140": [
+    "  &(-  "
+  ],
+  "C2141": [
+    "  0x220b    CONTAINS AS MEMBER"
+  ],
+  "C2142": [
+    "  &-)  "
+  ],
+  "C2143": [
+    "  0x220f    N-ARY PRODUCT"
+  ],
+  "C2144": [
+    "  &*P  "
+  ],
+  "C2145": [
+    "  0x2211    N-ARY SUMMATION"
+  ],
+  "C2146": [
+    "  &+Z  "
+  ],
+  "C2147": [
+    "  0x2212    MINUS SIGN"
+  ],
+  "C2148": [
+    "  &-2  "
+  ],
+  "C2149": [
+    "  0x2213    MINUS-OR-PLUS SIGN"
+  ],
+  "C2150": [
+    "  &-+  "
+  ],
+  "C2151": [
+    "  0x2217    ASTERISK OPERATOR"
+  ],
+  "C2152": [
+    "  &*-  "
+  ],
+  "C2153": [
+    "  0x2218    RING OPERATOR"
+  ],
+  "C2154": [
+    "  &Ob  "
+  ],
+  "C2155": [
+    "  0x2219    BULLET OPERATOR"
+  ],
+  "C2156": [
+    "  &Sb  "
+  ],
+  "C2157": [
+    "  0x221a    SQUARE ROOT"
+  ],
+  "C2158": [
+    "  &RT  "
+  ],
+  "C2159": [
+    "  0x221d    PROPORTIONAL TO"
+  ],
+  "C2160": [
+    "  &0(  "
+  ],
+  "C2161": [
+    "  0x221e    INFINITY"
+  ],
+  "C2162": [
+    "  &00  "
+  ],
+  "C2163": [
+    "  0x221f    RIGHT ANGLE"
+  ],
+  "C2164": [
+    "  &-L  "
+  ],
+  "C2165": [
+    "  0x2220    ANGLE"
+  ],
+  "C2166": [
+    "  &-V  "
+  ],
+  "C2167": [
+    "  0x2225    PARALLEL TO"
+  ],
+  "C2168": [
+    "  &PP  "
+  ],
+  "C2169": [
+    "  0x2227    LOGICAL AND"
+  ],
+  "C2170": [
+    "  &AN  "
+  ],
+  "C2171": [
+    "  0x2228    LOGICAL OR"
+  ],
+  "C2172": [
+    "  &OR  "
+  ],
+  "C2173": [
+    "  0x2229    INTERSECTION"
+  ],
+  "C2174": [
+    "  &(U  "
+  ],
+  "C2175": [
+    "  0x222a    UNION"
+  ],
+  "C2176": [
+    "  &)U  "
+  ],
+  "C2177": [
+    "  0x222b    INTEGRAL"
+  ],
+  "C2178": [
+    "  &In  "
+  ],
+  "C2179": [
+    "  0x222c    DOUBLE INTEGRAL"
+  ],
+  "C2180": [
+    "  &DI  "
+  ],
+  "C2181": [
+    "  0x222e    CONTOUR INTEGRAL"
+  ],
+  "C2182": [
+    "  &Io  "
+  ],
+  "C2183": [
+    "  0x2234    THEREFORE"
+  ],
+  "C2184": [
+    "  &.:  "
+  ],
+  "C2185": [
+    "  0x2235    BECAUSE"
+  ],
+  "C2186": [
+    "  &:.  "
+  ],
+  "C2187": [
+    "  0x2236    RATIO"
+  ],
+  "C2188": [
+    "  &:R  "
+  ],
+  "C2189": [
+    "  0x2237    PROPORTION"
+  ],
+  "C2190": [
+    "  &::  "
+  ],
+  "C2191": [
+    "  0x223c    TILDE OPERATOR"
+  ],
+  "C2192": [
+    "  &?1  "
+  ],
+  "C2193": [
+    "  0x223e    INVERTED LAZY S"
+  ],
+  "C2194": [
+    "  &CG  "
+  ],
+  "C2195": [
+    "  0x2243    ASYMPTOTICALLY EQUAL TO"
+  ],
+  "C2196": [
+    "  &?-  "
+  ],
+  "C2197": [
+    "  0x2245    APPROXIMATELY EQUAL TO"
+  ],
+  "C2198": [
+    "  &?=  "
+  ],
+  "C2199": [
+    "  0x2248    ALMOST EQUAL TO"
+  ],
+  "C2200": [
+    "  &?2  "
+  ],
+  "C2201": [
+    "  0x224c    ALL EQUAL TO"
+  ],
+  "C2202": [
+    "  &=?  "
+  ],
+  "C2203": [
+    "  0x2253    IMAGE OF OR APPROXIMATELY EQUAL TO"
+  ],
+  "C2204": [
+    "  &HI  "
+  ],
+  "C2205": [
+    "  0x2260    NOT EQUAL TO"
+  ],
+  "C2206": [
+    "  &!=  "
+  ],
+  "C2207": [
+    "  0x2261    IDENTICAL TO"
+  ],
+  "C2208": [
+    "  &=3  "
+  ],
+  "C2209": [
+    "  0x2264    LESS-THAN OR EQUAL TO"
+  ],
+  "C2210": [
+    "  &=<  "
+  ],
+  "C2211": [
+    "  0x2265    GREATER-THAN OR EQUAL TO"
+  ],
+  "C2212": [
+    "  &>=  "
+  ],
+  "C2213": [
+    "  0x226a    MUCH LESS-THAN"
+  ],
+  "C2214": [
+    "  &<*  "
+  ],
+  "C2215": [
+    "  0x226b    MUCH GREATER-THAN"
+  ],
+  "C2216": [
+    "  &*>  "
+  ],
+  "C2217": [
+    "  0x226e    NOT LESS-THAN"
+  ],
+  "C2218": [
+    "  &!<  "
+  ],
+  "C2219": [
+    "  0x226f    NOT GREATER-THAN"
+  ],
+  "C2220": [
+    "  &!>  "
+  ],
+  "C2221": [
+    "  0x2282    SUBSET OF"
+  ],
+  "C2222": [
+    "  &(C  "
+  ],
+  "C2223": [
+    "  0x2283    SUPERSET OF"
+  ],
+  "C2224": [
+    "  &)C  "
+  ],
+  "C2225": [
+    "  0x2286    SUBSET OF OR EQUAL TO"
+  ],
+  "C2226": [
+    "  &(_  "
+  ],
+  "C2227": [
+    "  0x2287    SUPERSET OF OR EQUAL TO"
+  ],
+  "C2228": [
+    "  &)_  "
+  ],
+  "C2229": [
+    "  0x2299    CIRCLED DOT OPERATOR"
+  ],
+  "C2230": [
+    "  &0.  "
+  ],
+  "C2231": [
+    "  0x229a    CIRCLED RING OPERATOR"
+  ],
+  "C2232": [
+    "  &02  "
+  ],
+  "C2233": [
+    "  0x22a5    UP TACK"
+  ],
+  "C2234": [
+    "  &-T  "
+  ],
+  "C2235": [
+    "  0x22c5    DOT OPERATOR"
+  ],
+  "C2236": [
+    "  &.P  "
+  ],
+  "C2237": [
+    "  0x22ee    VERTICAL ELLIPSIS"
+  ],
+  "C2238": [
+    "  &:3  "
+  ],
+  "C2239": [
+    "  0x22ef    MIDLINE HORIZONTAL ELLIPSIS"
+  ],
+  "C2240": [
+    "  &.3  "
+  ],
+  "C2241": [
+    "  0x2302    HOUSE"
+  ],
+  "C2242": [
+    "  &Eh  "
+  ],
+  "C2243": [
+    "  0x2308    LEFT CEILING"
+  ],
+  "C2244": [
+    "  &<7  "
+  ],
+  "C2245": [
+    "  0x2309    RIGHT CEILING"
+  ],
+  "C2246": [
+    "  &>7  "
+  ],
+  "C2247": [
+    "  0x230a    LEFT FLOOR"
+  ],
+  "C2248": [
+    "  &7<  "
+  ],
+  "C2249": [
+    "  0x230b    RIGHT FLOOR"
+  ],
+  "C2250": [
+    "  &7>  "
+  ],
+  "C2251": [
+    "  0x2310    REVERSED NOT SIGN"
+  ],
+  "C2252": [
+    "  &NI  "
+  ],
+  "C2253": [
+    "  0x2312    ARC"
+  ],
+  "C2254": [
+    "  &(A  "
+  ],
+  "C2255": [
+    "  0x2315    TELEPHONE RECORDER"
+  ],
+  "C2256": [
+    "  &TR  "
+  ],
+  "C2257": [
+    "  0x2320    TOP HALF INTEGRAL"
+  ],
+  "C2258": [
+    "  &Iu  "
+  ],
+  "C2259": [
+    "  0x2321    BOTTOM HALF INTEGRAL"
+  ],
+  "C2260": [
+    "  &Il  "
+  ],
+  "C2261": [
+    "  0x2329    LEFT-POINTING ANGLE BRACKET"
+  ],
+  "C2262": [
+    "  &</  "
+  ],
+  "C2263": [
+    "  0x232a    RIGHT-POINTING ANGLE BRACKET"
+  ],
+  "C2264": [
+    "  &/>  "
+  ],
+  "C2265": [
+    "  0x2423    OPEN BOX"
+  ],
+  "C2266": [
+    "  &Vs  "
+  ],
+  "C2267": [
+    "  0x2440    OCR HOOK"
+  ],
+  "C2268": [
+    "  &1h  "
+  ],
+  "C2269": [
+    "  0x2441    OCR CHAIR"
+  ],
+  "C2270": [
+    "  &3h  "
+  ],
+  "C2271": [
+    "  0x2442    OCR FORK"
+  ],
+  "C2272": [
+    "  &2h  "
+  ],
+  "C2273": [
+    "  0x2443    OCR INVERTED FORK"
+  ],
+  "C2274": [
+    "  &4h  "
+  ],
+  "C2275": [
+    "  0x2446    OCR BRANCH BANK IDENTIFICATION"
+  ],
+  "C2276": [
+    "  &1j  "
+  ],
+  "C2277": [
+    "  0x2447    OCR AMOUNT OF CHECK"
+  ],
+  "C2278": [
+    "  &2j  "
+  ],
+  "C2279": [
+    "  0x2448    OCR DASH"
+  ],
+  "C2280": [
+    "  &3j  "
+  ],
+  "C2281": [
+    "  0x2449    OCR CUSTOMER ACCOUNT NUMBER"
+  ],
+  "C2282": [
+    "  &4j  "
+  ],
+  "C2283": [
+    "  0x2460    CIRCLED DIGIT ONE"
+  ],
+  "C2284": [
+    "  &_1-o_  "
+  ],
+  "C2285": [
+    "  0x2461    CIRCLED DIGIT TWO"
+  ],
+  "C2286": [
+    "  &_2-o_  "
+  ],
+  "C2287": [
+    "  0x2462    CIRCLED DIGIT THREE"
+  ],
+  "C2288": [
+    "  &_3-o_  "
+  ],
+  "C2289": [
+    "  0x2463    CIRCLED DIGIT FOUR"
+  ],
+  "C2290": [
+    "  &_4-o_  "
+  ],
+  "C2291": [
+    "  0x2464    CIRCLED DIGIT FIVE"
+  ],
+  "C2292": [
+    "  &_5-o_  "
+  ],
+  "C2293": [
+    "  0x2465    CIRCLED DIGIT SIX"
+  ],
+  "C2294": [
+    "  &_6-o_  "
+  ],
+  "C2295": [
+    "  0x2466    CIRCLED DIGIT SEVEN"
+  ],
+  "C2296": [
+    "  &_7-o_  "
+  ],
+  "C2297": [
+    "  0x2467    CIRCLED DIGIT EIGHT"
+  ],
+  "C2298": [
+    "  &_8-o_  "
+  ],
+  "C2299": [
+    "  0x2468    CIRCLED DIGIT NINE"
+  ],
+  "C2300": [
+    "  &_9-o_  "
+  ],
+  "C2301": [
+    "  0x2469    CIRCLED NUMBER TEN"
+  ],
+  "C2302": [
+    "  &_10-o_  "
+  ],
+  "C2303": [
+    "  0x246a    CIRCLED NUMBER ELEVEN"
+  ],
+  "C2304": [
+    "  &_11-o_  "
+  ],
+  "C2305": [
+    "  0x246b    CIRCLED NUMBER TWELVE"
+  ],
+  "C2306": [
+    "  &_12-o_  "
+  ],
+  "C2307": [
+    "  0x246c    CIRCLED NUMBER THIRTEEN"
+  ],
+  "C2308": [
+    "  &_13-o_  "
+  ],
+  "C2309": [
+    "  0x246d    CIRCLED NUMBER FOURTEEN"
+  ],
+  "C2310": [
+    "  &_14-o_  "
+  ],
+  "C2311": [
+    "  0x246e    CIRCLED NUMBER FIFTEEN"
+  ],
+  "C2312": [
+    "  &_15-o_  "
+  ],
+  "C2313": [
+    "  0x246f    CIRCLED NUMBER SIXTEEN"
+  ],
+  "C2314": [
+    "  &_16-o_  "
+  ],
+  "C2315": [
+    "  0x2470    CIRCLED NUMBER SEVENTEEN"
+  ],
+  "C2316": [
+    "  &_17-o_  "
+  ],
+  "C2317": [
+    "  0x2471    CIRCLED NUMBER EIGHTEEN"
+  ],
+  "C2318": [
+    "  &_18-o_  "
+  ],
+  "C2319": [
+    "  0x2472    CIRCLED NUMBER NINETEEN"
+  ],
+  "C2320": [
+    "  &_19-o_  "
+  ],
+  "C2321": [
+    "  0x2473    CIRCLED NUMBER TWENTY"
+  ],
+  "C2322": [
+    "  &_20-o_  "
+  ],
+  "C2323": [
+    "  0x2474    PARENTHESIZED DIGIT ONE"
+  ],
+  "C2324": [
+    "  &_(1)_  "
+  ],
+  "C2325": [
+    "  0x2475    PARENTHESIZED DIGIT TWO"
+  ],
+  "C2326": [
+    "  &_(2)_  "
+  ],
+  "C2327": [
+    "  0x2476    PARENTHESIZED DIGIT THREE"
+  ],
+  "C2328": [
+    "  &_(3)_  "
+  ],
+  "C2329": [
+    "  0x2477    PARENTHESIZED DIGIT FOUR"
+  ],
+  "C2330": [
+    "  &_(4)_  "
+  ],
+  "C2331": [
+    "  0x2478    PARENTHESIZED DIGIT FIVE"
+  ],
+  "C2332": [
+    "  &_(5)_  "
+  ],
+  "C2333": [
+    "  0x2479    PARENTHESIZED DIGIT SIX"
+  ],
+  "C2334": [
+    "  &_(6)_  "
+  ],
+  "C2335": [
+    "  0x247a    PARENTHESIZED DIGIT SEVEN"
+  ],
+  "C2336": [
+    "  &_(7)_  "
+  ],
+  "C2337": [
+    "  0x247b    PARENTHESIZED DIGIT EIGHT"
+  ],
+  "C2338": [
+    "  &_(8)_  "
+  ],
+  "C2339": [
+    "  0x247c    PARENTHESIZED DIGIT NINE"
+  ],
+  "C2340": [
+    "  &_(9)_  "
+  ],
+  "C2341": [
+    "  0x247d    PARENTHESIZED NUMBER TEN"
+  ],
+  "C2342": [
+    "  &_(10)_  "
+  ],
+  "C2343": [
+    "  0x247e    PARENTHESIZED NUMBER ELEVEN"
+  ],
+  "C2344": [
+    "  &_(11)_  "
+  ],
+  "C2345": [
+    "  0x247f    PARENTHESIZED NUMBER TWELVE"
+  ],
+  "C2346": [
+    "  &_(12)_  "
+  ],
+  "C2347": [
+    "  0x2480    PARENTHESIZED NUMBER THIRTEEN"
+  ],
+  "C2348": [
+    "  &_(13)_  "
+  ],
+  "C2349": [
+    "  0x2481    PARENTHESIZED NUMBER FOURTEEN"
+  ],
+  "C2350": [
+    "  &_(14)_  "
+  ],
+  "C2351": [
+    "  0x2482    PARENTHESIZED NUMBER FIFTEEN"
+  ],
+  "C2352": [
+    "  &_(15)_  "
+  ],
+  "C2353": [
+    "  0x2483    PARENTHESIZED NUMBER SIXTEEN"
+  ],
+  "C2354": [
+    "  &_(16)_  "
+  ],
+  "C2355": [
+    "  0x2484    PARENTHESIZED NUMBER SEVENTEEN"
+  ],
+  "C2356": [
+    "  &_(17)_  "
+  ],
+  "C2357": [
+    "  0x2485    PARENTHESIZED NUMBER EIGHTEEN"
+  ],
+  "C2358": [
+    "  &_(18)_  "
+  ],
+  "C2359": [
+    "  0x2486    PARENTHESIZED NUMBER NINETEEN"
+  ],
+  "C2360": [
+    "  &_(19)_  "
+  ],
+  "C2361": [
+    "  0x2487    PARENTHESIZED NUMBER TWENTY"
+  ],
+  "C2362": [
+    "  &_(20)_  "
+  ],
+  "C2363": [
+    "  0x2488    DIGIT ONE FULL STOP"
+  ],
+  "C2364": [
+    "  &1.  "
+  ],
+  "C2365": [
+    "  0x2489    DIGIT TWO FULL STOP"
+  ],
+  "C2366": [
+    "  &2.  "
+  ],
+  "C2367": [
+    "  0x248a    DIGIT THREE FULL STOP"
+  ],
+  "C2368": [
+    "  &3.  "
+  ],
+  "C2369": [
+    "  0x248b    DIGIT FOUR FULL STOP"
+  ],
+  "C2370": [
+    "  &4.  "
+  ],
+  "C2371": [
+    "  0x248c    DIGIT FIVE FULL STOP"
+  ],
+  "C2372": [
+    "  &5.  "
+  ],
+  "C2373": [
+    "  0x248d    DIGIT SIX FULL STOP"
+  ],
+  "C2374": [
+    "  &6.  "
+  ],
+  "C2375": [
+    "  0x248e    DIGIT SEVEN FULL STOP"
+  ],
+  "C2376": [
+    "  &7.  "
+  ],
+  "C2377": [
+    "  0x248f    DIGIT EIGHT FULL STOP"
+  ],
+  "C2378": [
+    "  &8.  "
+  ],
+  "C2379": [
+    "  0x2490    DIGIT NINE FULL STOP"
+  ],
+  "C2380": [
+    "  &9.  "
+  ],
+  "C2381": [
+    "  0x2491    NUMBER TEN FULL STOP"
+  ],
+  "C2382": [
+    "  &_10._  "
+  ],
+  "C2383": [
+    "  0x2492    NUMBER ELEVEN FULL STOP"
+  ],
+  "C2384": [
+    "  &_11._  "
+  ],
+  "C2385": [
+    "  0x2493    NUMBER TWELVE FULL STOP"
+  ],
+  "C2386": [
+    "  &_12._  "
+  ],
+  "C2387": [
+    "  0x2494    NUMBER THIRTEEN FULL STOP"
+  ],
+  "C2388": [
+    "  &_13._  "
+  ],
+  "C2389": [
+    "  0x2495    NUMBER FOURTEEN FULL STOP"
+  ],
+  "C2390": [
+    "  &_14._  "
+  ],
+  "C2391": [
+    "  0x2496    NUMBER FIFTEEN FULL STOP"
+  ],
+  "C2392": [
+    "  &_15._  "
+  ],
+  "C2393": [
+    "  0x2497    NUMBER SIXTEEN FULL STOP"
+  ],
+  "C2394": [
+    "  &_16._  "
+  ],
+  "C2395": [
+    "  0x2498    NUMBER SEVENTEEN FULL STOP"
+  ],
+  "C2396": [
+    "  &_17._  "
+  ],
+  "C2397": [
+    "  0x2499    NUMBER EIGHTEEN FULL STOP"
+  ],
+  "C2398": [
+    "  &_18._  "
+  ],
+  "C2399": [
+    "  0x249a    NUMBER NINETEEN FULL STOP"
+  ],
+  "C2400": [
+    "  &_19._  "
+  ],
+  "C2401": [
+    "  0x249b    NUMBER TWENTY FULL STOP"
+  ],
+  "C2402": [
+    "  &_20._  "
+  ],
+  "C2403": [
+    "  0x249c    PARENTHESIZED LATIN SMALL LETTER A"
+  ],
+  "C2404": [
+    "  &_(a)_  "
+  ],
+  "C2405": [
+    "  0x249d    PARENTHESIZED LATIN SMALL LETTER B"
+  ],
+  "C2406": [
+    "  &_(b)_  "
+  ],
+  "C2407": [
+    "  0x249e    PARENTHESIZED LATIN SMALL LETTER C"
+  ],
+  "C2408": [
+    "  &_(c)_  "
+  ],
+  "C2409": [
+    "  0x249f    PARENTHESIZED LATIN SMALL LETTER D"
+  ],
+  "C2410": [
+    "  &_(d)_  "
+  ],
+  "C2411": [
+    "  0x24a0    PARENTHESIZED LATIN SMALL LETTER E"
+  ],
+  "C2412": [
+    "  &_(e)_  "
+  ],
+  "C2413": [
+    "  0x24a1    PARENTHESIZED LATIN SMALL LETTER F"
+  ],
+  "C2414": [
+    "  &_(f)_  "
+  ],
+  "C2415": [
+    "  0x24a2    PARENTHESIZED LATIN SMALL LETTER G"
+  ],
+  "C2416": [
+    "  &_(g)_  "
+  ],
+  "C2417": [
+    "  0x24a3    PARENTHESIZED LATIN SMALL LETTER H"
+  ],
+  "C2418": [
+    "  &_(h)_  "
+  ],
+  "C2419": [
+    "  0x24a4    PARENTHESIZED LATIN SMALL LETTER I"
+  ],
+  "C2420": [
+    "  &_(i)_  "
+  ],
+  "C2421": [
+    "  0x24a5    PARENTHESIZED LATIN SMALL LETTER J"
+  ],
+  "C2422": [
+    "  &_(j)_  "
+  ],
+  "C2423": [
+    "  0x24a6    PARENTHESIZED LATIN SMALL LETTER K"
+  ],
+  "C2424": [
+    "  &_(k)_  "
+  ],
+  "C2425": [
+    "  0x24a7    PARENTHESIZED LATIN SMALL LETTER L"
+  ],
+  "C2426": [
+    "  &_(l)_  "
+  ],
+  "C2427": [
+    "  0x24a8    PARENTHESIZED LATIN SMALL LETTER M"
+  ],
+  "C2428": [
+    "  &_(m)_  "
+  ],
+  "C2429": [
+    "  0x24a9    PARENTHESIZED LATIN SMALL LETTER N"
+  ],
+  "C2430": [
+    "  &_(n)_  "
+  ],
+  "C2431": [
+    "  0x24aa    PARENTHESIZED LATIN SMALL LETTER O"
+  ],
+  "C2432": [
+    "  &_(o)_  "
+  ],
+  "C2433": [
+    "  0x24ab    PARENTHESIZED LATIN SMALL LETTER P"
+  ],
+  "C2434": [
+    "  &_(p)_  "
+  ],
+  "C2435": [
+    "  0x24ac    PARENTHESIZED LATIN SMALL LETTER Q"
+  ],
+  "C2436": [
+    "  &_(q)_  "
+  ],
+  "C2437": [
+    "  0x24ad    PARENTHESIZED LATIN SMALL LETTER R"
+  ],
+  "C2438": [
+    "  &_(r)_  "
+  ],
+  "C2439": [
+    "  0x24ae    PARENTHESIZED LATIN SMALL LETTER S"
+  ],
+  "C2440": [
+    "  &_(s)_  "
+  ],
+  "C2441": [
+    "  0x24af    PARENTHESIZED LATIN SMALL LETTER T"
+  ],
+  "C2442": [
+    "  &_(t)_  "
+  ],
+  "C2443": [
+    "  0x24b0    PARENTHESIZED LATIN SMALL LETTER U"
+  ],
+  "C2444": [
+    "  &_(u)_  "
+  ],
+  "C2445": [
+    "  0x24b1    PARENTHESIZED LATIN SMALL LETTER V"
+  ],
+  "C2446": [
+    "  &_(v)_  "
+  ],
+  "C2447": [
+    "  0x24b2    PARENTHESIZED LATIN SMALL LETTER W"
+  ],
+  "C2448": [
+    "  &_(w)_  "
+  ],
+  "C2449": [
+    "  0x24b3    PARENTHESIZED LATIN SMALL LETTER X"
+  ],
+  "C2450": [
+    "  &_(x)_  "
+  ],
+  "C2451": [
+    "  0x24b4    PARENTHESIZED LATIN SMALL LETTER Y"
+  ],
+  "C2452": [
+    "  &_(y)_  "
+  ],
+  "C2453": [
+    "  0x24b5    PARENTHESIZED LATIN SMALL LETTER Z"
+  ],
+  "C2454": [
+    "  &_(z)_  "
+  ],
+  "C2455": [
+    "  0x24b6    CIRCLED LATIN CAPITAL LETTER A"
+  ],
+  "C2456": [
+    "  &_A-o_  "
+  ],
+  "C2457": [
+    "  0x24b7    CIRCLED LATIN CAPITAL LETTER B"
+  ],
+  "C2458": [
+    "  &_B-o_  "
+  ],
+  "C2459": [
+    "  0x24b8    CIRCLED LATIN CAPITAL LETTER C"
+  ],
+  "C2460": [
+    "  &_C-o_  "
+  ],
+  "C2461": [
+    "  0x24b9    CIRCLED LATIN CAPITAL LETTER D"
+  ],
+  "C2462": [
+    "  &_D-o_  "
+  ],
+  "C2463": [
+    "  0x24ba    CIRCLED LATIN CAPITAL LETTER E"
+  ],
+  "C2464": [
+    "  &_E-o_  "
+  ],
+  "C2465": [
+    "  0x24bb    CIRCLED LATIN CAPITAL LETTER F"
+  ],
+  "C2466": [
+    "  &_F-o_  "
+  ],
+  "C2467": [
+    "  0x24bc    CIRCLED LATIN CAPITAL LETTER G"
+  ],
+  "C2468": [
+    "  &_G-o_  "
+  ],
+  "C2469": [
+    "  0x24bd    CIRCLED LATIN CAPITAL LETTER H"
+  ],
+  "C2470": [
+    "  &_H-o_  "
+  ],
+  "C2471": [
+    "  0x24be    CIRCLED LATIN CAPITAL LETTER I"
+  ],
+  "C2472": [
+    "  &_I-o_  "
+  ],
+  "C2473": [
+    "  0x24bf    CIRCLED LATIN CAPITAL LETTER J"
+  ],
+  "C2474": [
+    "  &_J-o_  "
+  ],
+  "C2475": [
+    "  0x24c0    CIRCLED LATIN CAPITAL LETTER K"
+  ],
+  "C2476": [
+    "  &_K-o_  "
+  ],
+  "C2477": [
+    "  0x24c1    CIRCLED LATIN CAPITAL LETTER L"
+  ],
+  "C2478": [
+    "  &_L-o_  "
+  ],
+  "C2479": [
+    "  0x24c2    CIRCLED LATIN CAPITAL LETTER M"
+  ],
+  "C2480": [
+    "  &_M-o_  "
+  ],
+  "C2481": [
+    "  0x24c3    CIRCLED LATIN CAPITAL LETTER N"
+  ],
+  "C2482": [
+    "  &_N-o_  "
+  ],
+  "C2483": [
+    "  0x24c4    CIRCLED LATIN CAPITAL LETTER O"
+  ],
+  "C2484": [
+    "  &_O-o_  "
+  ],
+  "C2485": [
+    "  0x24c5    CIRCLED LATIN CAPITAL LETTER P"
+  ],
+  "C2486": [
+    "  &_P-o_  "
+  ],
+  "C2487": [
+    "  0x24c6    CIRCLED LATIN CAPITAL LETTER Q"
+  ],
+  "C2488": [
+    "  &_Q-o_  "
+  ],
+  "C2489": [
+    "  0x24c7    CIRCLED LATIN CAPITAL LETTER R"
+  ],
+  "C2490": [
+    "  &_R-o_  "
+  ],
+  "C2491": [
+    "  0x24c8    CIRCLED LATIN CAPITAL LETTER S"
+  ],
+  "C2492": [
+    "  &_S-o_  "
+  ],
+  "C2493": [
+    "  0x24c9    CIRCLED LATIN CAPITAL LETTER T"
+  ],
+  "C2494": [
+    "  &_T-o_  "
+  ],
+  "C2495": [
+    "  0x24ca    CIRCLED LATIN CAPITAL LETTER U"
+  ],
+  "C2496": [
+    "  &_U-o_  "
+  ],
+  "C2497": [
+    "  0x24cb    CIRCLED LATIN CAPITAL LETTER V"
+  ],
+  "C2498": [
+    "  &_V-o_  "
+  ],
+  "C2499": [
+    "  0x24cc    CIRCLED LATIN CAPITAL LETTER W"
+  ],
+  "C2500": [
+    "  &_W-o_  "
+  ],
+  "C2501": [
+    "  0x24cd    CIRCLED LATIN CAPITAL LETTER X"
+  ],
+  "C2502": [
+    "  &_X-o_  "
+  ],
+  "C2503": [
+    "  0x24ce    CIRCLED LATIN CAPITAL LETTER Y"
+  ],
+  "C2504": [
+    "  &_Y-o_  "
+  ],
+  "C2505": [
+    "  0x24cf    CIRCLED LATIN CAPITAL LETTER Z"
+  ],
+  "C2506": [
+    "  &_Z-o_  "
+  ],
+  "C2507": [
+    "  0x24d0    CIRCLED LATIN SMALL LETTER A"
+  ],
+  "C2508": [
+    "  &_a-o_  "
+  ],
+  "C2509": [
+    "  0x24d1    CIRCLED LATIN SMALL LETTER B"
+  ],
+  "C2510": [
+    "  &_b-o_  "
+  ],
+  "C2511": [
+    "  0x24d2    CIRCLED LATIN SMALL LETTER C"
+  ],
+  "C2512": [
+    "  &_c-o_  "
+  ],
+  "C2513": [
+    "  0x24d3    CIRCLED LATIN SMALL LETTER D"
+  ],
+  "C2514": [
+    "  &_d-o_  "
+  ],
+  "C2515": [
+    "  0x24d4    CIRCLED LATIN SMALL LETTER E"
+  ],
+  "C2516": [
+    "  &_e-o_  "
+  ],
+  "C2517": [
+    "  0x24d5    CIRCLED LATIN SMALL LETTER F"
+  ],
+  "C2518": [
+    "  &_f-o_  "
+  ],
+  "C2519": [
+    "  0x24d6    CIRCLED LATIN SMALL LETTER G"
+  ],
+  "C2520": [
+    "  &_g-o_  "
+  ],
+  "C2521": [
+    "  0x24d7    CIRCLED LATIN SMALL LETTER H"
+  ],
+  "C2522": [
+    "  &_h-o_  "
+  ],
+  "C2523": [
+    "  0x24d8    CIRCLED LATIN SMALL LETTER I"
+  ],
+  "C2524": [
+    "  &_i-o_  "
+  ],
+  "C2525": [
+    "  0x24d9    CIRCLED LATIN SMALL LETTER J"
+  ],
+  "C2526": [
+    "  &_j-o_  "
+  ],
+  "C2527": [
+    "  0x24da    CIRCLED LATIN SMALL LETTER K"
+  ],
+  "C2528": [
+    "  &_k-o_  "
+  ],
+  "C2529": [
+    "  0x24db    CIRCLED LATIN SMALL LETTER L"
+  ],
+  "C2530": [
+    "  &_l-o_  "
+  ],
+  "C2531": [
+    "  0x24dc    CIRCLED LATIN SMALL LETTER M"
+  ],
+  "C2532": [
+    "  &_m-o_  "
+  ],
+  "C2533": [
+    "  0x24dd    CIRCLED LATIN SMALL LETTER N"
+  ],
+  "C2534": [
+    "  &_n-o_  "
+  ],
+  "C2535": [
+    "  0x24de    CIRCLED LATIN SMALL LETTER O"
+  ],
+  "C2536": [
+    "  &_o-o_  "
+  ],
+  "C2537": [
+    "  0x24df    CIRCLED LATIN SMALL LETTER P"
+  ],
+  "C2538": [
+    "  &_p-o_  "
+  ],
+  "C2539": [
+    "  0x24e0    CIRCLED LATIN SMALL LETTER Q"
+  ],
+  "C2540": [
+    "  &_q-o_  "
+  ],
+  "C2541": [
+    "  0x24e1    CIRCLED LATIN SMALL LETTER R"
+  ],
+  "C2542": [
+    "  &_r-o_  "
+  ],
+  "C2543": [
+    "  0x24e2    CIRCLED LATIN SMALL LETTER S"
+  ],
+  "C2544": [
+    "  &_s-o_  "
+  ],
+  "C2545": [
+    "  0x24e3    CIRCLED LATIN SMALL LETTER T"
+  ],
+  "C2546": [
+    "  &_t-o_  "
+  ],
+  "C2547": [
+    "  0x24e4    CIRCLED LATIN SMALL LETTER U"
+  ],
+  "C2548": [
+    "  &_u-o_  "
+  ],
+  "C2549": [
+    "  0x24e5    CIRCLED LATIN SMALL LETTER V"
+  ],
+  "C2550": [
+    "  &_v-o_  "
+  ],
+  "C2551": [
+    "  0x24e6    CIRCLED LATIN SMALL LETTER W"
+  ],
+  "C2552": [
+    "  &_w-o_  "
+  ],
+  "C2553": [
+    "  0x24e7    CIRCLED LATIN SMALL LETTER X"
+  ],
+  "C2554": [
+    "  &_x-o_  "
+  ],
+  "C2555": [
+    "  0x24e8    CIRCLED LATIN SMALL LETTER Y"
+  ],
+  "C2556": [
+    "  &_y-o_  "
+  ],
+  "C2557": [
+    "  0x24e9    CIRCLED LATIN SMALL LETTER Z"
+  ],
+  "C2558": [
+    "  &_z-o_  "
+  ],
+  "C2559": [
+    "  0x24ea    CIRCLED DIGIT ZERO"
+  ],
+  "C2560": [
+    "  &_0-o_  "
+  ],
+  "C2561": [
+    "  0x2500    BOX DRAWINGS LIGHT HORIZONTAL"
+  ],
+  "C2562": [
+    "  &hh  "
+  ],
+  "C2563": [
+    "  0x2501    BOX DRAWINGS HEAVY HORIZONTAL"
+  ],
+  "C2564": [
+    "  &HH  "
+  ],
+  "C2565": [
+    "  0x2502    BOX DRAWINGS LIGHT VERTICAL"
+  ],
+  "C2566": [
+    "  &vv  "
+  ],
+  "C2567": [
+    "  0x2503    BOX DRAWINGS HEAVY VERTICAL"
+  ],
+  "C2568": [
+    "  &VV  "
+  ],
+  "C2569": [
+    "  0x2504    BOX DRAWINGS LIGHT TRIPLE DASH HORIZONTAL"
+  ],
+  "C2570": [
+    "  &3-  "
+  ],
+  "C2571": [
+    "  0x2505    BOX DRAWINGS HEAVY TRIPLE DASH HORIZONTAL"
+  ],
+  "C2572": [
+    "  &3_  "
+  ],
+  "C2573": [
+    "  0x2506    BOX DRAWINGS LIGHT TRIPLE DASH VERTICAL"
+  ],
+  "C2574": [
+    "  &3!  "
+  ],
+  "C2575": [
+    "  0x2507    BOX DRAWINGS HEAVY TRIPLE DASH VERTICAL"
+  ],
+  "C2576": [
+    "  &3/  "
+  ],
+  "C2577": [
+    "  0x2508    BOX DRAWINGS LIGHT QUADRUPLE DASH HORIZONTAL"
+  ],
+  "C2578": [
+    "  &4-  "
+  ],
+  "C2579": [
+    "  0x2509    BOX DRAWINGS HEAVY QUADRUPLE DASH HORIZONTAL"
+  ],
+  "C2580": [
+    "  &4_  "
+  ],
+  "C2581": [
+    "  0x250a    BOX DRAWINGS LIGHT QUADRUPLE DASH VERTICAL"
+  ],
+  "C2582": [
+    "  &4!  "
+  ],
+  "C2583": [
+    "  0x250b    BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL"
+  ],
+  "C2584": [
+    "  &4/  "
+  ],
+  "C2585": [
+    "  0x250c    BOX DRAWINGS LIGHT DOWN AND RIGHT"
+  ],
+  "C2586": [
+    "  &dr  "
+  ],
+  "C2587": [
+    "  0x250d    BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY"
+  ],
+  "C2588": [
+    "  &dR  "
+  ],
+  "C2589": [
+    "  0x250e    BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT"
+  ],
+  "C2590": [
+    "  &Dr  "
+  ],
+  "C2591": [
+    "  0x250f    BOX DRAWINGS HEAVY DOWN AND RIGHT"
+  ],
+  "C2592": [
+    "  &DR  "
+  ],
+  "C2593": [
+    "  0x2510    BOX DRAWINGS LIGHT DOWN AND LEFT"
+  ],
+  "C2594": [
+    "  &dl  "
+  ],
+  "C2595": [
+    "  0x2511    BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY"
+  ],
+  "C2596": [
+    "  &dL  "
+  ],
+  "C2597": [
+    "  0x2512    BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT"
+  ],
+  "C2598": [
+    "  &Dl  "
+  ],
+  "C2599": [
+    "  0x2513    BOX DRAWINGS HEAVY DOWN AND LEFT"
+  ],
+  "C2600": [
+    "  &LD  "
+  ],
+  "C2601": [
+    "  0x2514    BOX DRAWINGS LIGHT UP AND RIGHT"
+  ],
+  "C2602": [
+    "  &ur  "
+  ],
+  "C2603": [
+    "  0x2515    BOX DRAWINGS UP LIGHT AND RIGHT HEAVY"
+  ],
+  "C2604": [
+    "  &uR  "
+  ],
+  "C2605": [
+    "  0x2516    BOX DRAWINGS UP HEAVY AND RIGHT LIGHT"
+  ],
+  "C2606": [
+    "  &Ur  "
+  ],
+  "C2607": [
+    "  0x2517    BOX DRAWINGS HEAVY UP AND RIGHT"
+  ],
+  "C2608": [
+    "  &UR  "
+  ],
+  "C2609": [
+    "  0x2518    BOX DRAWINGS LIGHT UP AND LEFT"
+  ],
+  "C2610": [
+    "  &ul  "
+  ],
+  "C2611": [
+    "  0x2519    BOX DRAWINGS UP LIGHT AND LEFT HEAVY"
+  ],
+  "C2612": [
+    "  &uL  "
+  ],
+  "C2613": [
+    "  0x251a    BOX DRAWINGS UP HEAVY AND LEFT LIGHT"
+  ],
+  "C2614": [
+    "  &Ul  "
+  ],
+  "C2615": [
+    "  0x251b    BOX DRAWINGS HEAVY UP AND LEFT"
+  ],
+  "C2616": [
+    "  &UL  "
+  ],
+  "C2617": [
+    "  0x251c    BOX DRAWINGS LIGHT VERTICAL AND RIGHT"
+  ],
+  "C2618": [
+    "  &vr  "
+  ],
+  "C2619": [
+    "  0x251d    BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY"
+  ],
+  "C2620": [
+    "  &vR  "
+  ],
+  "C2621": [
+    "  0x251e    BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT"
+  ],
+  "C2622": [
+    "  &_Udr_  "
+  ],
+  "C2623": [
+    "  0x251f    BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT"
+  ],
+  "C2624": [
+    "  &_uDr_  "
+  ],
+  "C2625": [
+    "  0x2520    BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT"
+  ],
+  "C2626": [
+    "  &Vr  "
+  ],
+  "C2627": [
+    "  0x2521    BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY"
+  ],
+  "C2628": [
+    "  &_UdR_  "
+  ],
+  "C2629": [
+    "  0x2522    BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY"
+  ],
+  "C2630": [
+    "  &_uDR_  "
+  ],
+  "C2631": [
+    "  0x2523    BOX DRAWINGS HEAVY VERTICAL AND RIGHT"
+  ],
+  "C2632": [
+    "  &VR  "
+  ],
+  "C2633": [
+    "  0x2524    BOX DRAWINGS LIGHT VERTICAL AND LEFT"
+  ],
+  "C2634": [
+    "  &vl  "
+  ],
+  "C2635": [
+    "  0x2525    BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY"
+  ],
+  "C2636": [
+    "  &vL  "
+  ],
+  "C2637": [
+    "  0x2526    BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT"
+  ],
+  "C2638": [
+    "  &_Udl_  "
+  ],
+  "C2639": [
+    "  0x2527    BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT"
+  ],
+  "C2640": [
+    "  &_uDl_  "
+  ],
+  "C2641": [
+    "  0x2528    BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT"
+  ],
+  "C2642": [
+    "  &Vl  "
+  ],
+  "C2643": [
+    "  0x2529    BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY"
+  ],
+  "C2644": [
+    "  &_UdL_  "
+  ],
+  "C2645": [
+    "  0x252a    BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY"
+  ],
+  "C2646": [
+    "  &_uDL_  "
+  ],
+  "C2647": [
+    "  0x252b    BOX DRAWINGS HEAVY VERTICAL AND LEFT"
+  ],
+  "C2648": [
+    "  &VL  "
+  ],
+  "C2649": [
+    "  0x252c    BOX DRAWINGS LIGHT DOWN AND HORIZONTAL"
+  ],
+  "C2650": [
+    "  &dh  "
+  ],
+  "C2651": [
+    "  0x252d    BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT"
+  ],
+  "C2652": [
+    "  &_dLr_  "
+  ],
+  "C2653": [
+    "  0x252e    BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT"
+  ],
+  "C2654": [
+    "  &_dlR_  "
+  ],
+  "C2655": [
+    "  0x252f    BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY"
+  ],
+  "C2656": [
+    "  &dH  "
+  ],
+  "C2657": [
+    "  0x2530    BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT"
+  ],
+  "C2658": [
+    "  &Dh  "
+  ],
+  "C2659": [
+    "  0x2531    BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY"
+  ],
+  "C2660": [
+    "  &_DLr_  "
+  ],
+  "C2661": [
+    "  0x2532    BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY"
+  ],
+  "C2662": [
+    "  &_DlR_  "
+  ],
+  "C2663": [
+    "  0x2533    BOX DRAWINGS HEAVY DOWN AND HORIZONTAL"
+  ],
+  "C2664": [
+    "  &DH  "
+  ],
+  "C2665": [
+    "  0x2534    BOX DRAWINGS LIGHT UP AND HORIZONTAL"
+  ],
+  "C2666": [
+    "  &uh  "
+  ],
+  "C2667": [
+    "  0x2535    BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT"
+  ],
+  "C2668": [
+    "  &_uLr_  "
+  ],
+  "C2669": [
+    "  0x2536    BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT"
+  ],
+  "C2670": [
+    "  &_ulR_  "
+  ],
+  "C2671": [
+    "  0x2537    BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY"
+  ],
+  "C2672": [
+    "  &uH  "
+  ],
+  "C2673": [
+    "  0x2538    BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT"
+  ],
+  "C2674": [
+    "  &Uh  "
+  ],
+  "C2675": [
+    "  0x2539    BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY"
+  ],
+  "C2676": [
+    "  &_ULr_  "
+  ],
+  "C2677": [
+    "  0x253a    BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY"
+  ],
+  "C2678": [
+    "  &_UlR_  "
+  ],
+  "C2679": [
+    "  0x253b    BOX DRAWINGS HEAVY UP AND HORIZONTAL"
+  ],
+  "C2680": [
+    "  &UH  "
+  ],
+  "C2681": [
+    "  0x253c    BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL"
+  ],
+  "C2682": [
+    "  &vh  "
+  ],
+  "C2683": [
+    "  0x253d    BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT"
+  ],
+  "C2684": [
+    "  &_vLr_  "
+  ],
+  "C2685": [
+    "  0x253e    BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT"
+  ],
+  "C2686": [
+    "  &_vlR_  "
+  ],
+  "C2687": [
+    "  0x253f    BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY"
+  ],
+  "C2688": [
+    "  &vH  "
+  ],
+  "C2689": [
+    "  0x2540    BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT"
+  ],
+  "C2690": [
+    "  &_Udh_  "
+  ],
+  "C2691": [
+    "  0x2541    BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT"
+  ],
+  "C2692": [
+    "  &_uDh_  "
+  ],
+  "C2693": [
+    "  0x2542    BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT"
+  ],
+  "C2694": [
+    "  &Vh  "
+  ],
+  "C2695": [
+    "  0x2543    BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT"
+  ],
+  "C2696": [
+    "  &_UdLr_  "
+  ],
+  "C2697": [
+    "  0x2544    BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT"
+  ],
+  "C2698": [
+    "  &_UdlR_  "
+  ],
+  "C2699": [
+    "  0x2545    BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT"
+  ],
+  "C2700": [
+    "  &_uDLr_  "
+  ],
+  "C2701": [
+    "  0x2546    BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT"
+  ],
+  "C2702": [
+    "  &_uDlR_  "
+  ],
+  "C2703": [
+    "  0x2547    BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY"
+  ],
+  "C2704": [
+    "  &_UdH_  "
+  ],
+  "C2705": [
+    "  0x2548    BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY"
+  ],
+  "C2706": [
+    "  &_uDH_  "
+  ],
+  "C2707": [
+    "  0x2549    BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY"
+  ],
+  "C2708": [
+    "  &_VLr_  "
+  ],
+  "C2709": [
+    "  0x254a    BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY"
+  ],
+  "C2710": [
+    "  &_VlR_  "
+  ],
+  "C2711": [
+    "  0x254b    BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL"
+  ],
+  "C2712": [
+    "  &VH  "
+  ],
+  "C2713": [
+    "  0x2571    BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT"
+  ],
+  "C2714": [
+    "  &FD  "
+  ],
+  "C2715": [
+    "  0x2572    BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT"
+  ],
+  "C2716": [
+    "  &BD  "
+  ],
+  "C2717": [
+    "  0x2580    UPPER HALF BLOCK"
+  ],
+  "C2718": [
+    "  &TB  "
+  ],
+  "C2719": [
+    "  0x2584    LOWER HALF BLOCK"
+  ],
+  "C2720": [
+    "  &LB  "
+  ],
+  "C2721": [
+    "  0x2588    FULL BLOCK"
+  ],
+  "C2722": [
+    "  &FB  "
+  ],
+  "C2723": [
+    "  0x258c    LEFT HALF BLOCK"
+  ],
+  "C2724": [
+    "  &lB  "
+  ],
+  "C2725": [
+    "  0x2590    RIGHT HALF BLOCK"
+  ],
+  "C2726": [
+    "  &RB  "
+  ],
+  "C2727": [
+    "  0x2591    LIGHT SHADE"
+  ],
+  "C2728": [
+    "  &.S  "
+  ],
+  "C2729": [
+    "  0x2592    MEDIUM SHADE"
+  ],
+  "C2730": [
+    "  &:S  "
+  ],
+  "C2731": [
+    "  0x2593    DARK SHADE"
+  ],
+  "C2732": [
+    "  &?S  "
+  ],
+  "C2733": [
+    "  0x25a0    BLACK SQUARE"
+  ],
+  "C2734": [
+    "  &fS  "
+  ],
+  "C2735": [
+    "  0x25a1    WHITE SQUARE"
+  ],
+  "C2736": [
+    "  &OS  "
+  ],
+  "C2737": [
+    "  0x25a2    WHITE SQUARE WITH ROUNDED CORNERS"
+  ],
+  "C2738": [
+    "  &RO  "
+  ],
+  "C2739": [
+    "  0x25a3    WHITE SQUARE CONTAINING BLACK SMALL SQUARE"
+  ],
+  "C2740": [
+    "  &Rr  "
+  ],
+  "C2741": [
+    "  0x25a4    SQUARE WITH HORIZONTAL FILL"
+  ],
+  "C2742": [
+    "  &RF  "
+  ],
+  "C2743": [
+    "  0x25a5    SQUARE WITH VERTICAL FILL"
+  ],
+  "C2744": [
+    "  &RY  "
+  ],
+  "C2745": [
+    "  0x25a6    SQUARE WITH ORTHOGONAL CROSSHATCH FILL"
+  ],
+  "C2746": [
+    "  &RH  "
+  ],
+  "C2747": [
+    "  0x25a7    SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL"
+  ],
+  "C2748": [
+    "  &RZ  "
+  ],
+  "C2749": [
+    "  0x25a8    SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL"
+  ],
+  "C2750": [
+    "  &RK  "
+  ],
+  "C2751": [
+    "  0x25a9    SQUARE WITH DIAGONAL CROSSHATCH FILL"
+  ],
+  "C2752": [
+    "  &RX  "
+  ],
+  "C2753": [
+    "  0x25aa    BLACK SMALL SQUARE"
+  ],
+  "C2754": [
+    "  &sB  "
+  ],
+  "C2755": [
+    "  0x25ac    BLACK RECTANGLE"
+  ],
+  "C2756": [
+    "  &SR  "
+  ],
+  "C2757": [
+    "  0x25ad    WHITE RECTANGLE"
+  ],
+  "C2758": [
+    "  &Or  "
+  ],
+  "C2759": [
+    "  0x25b2    BLACK UP-POINTING TRIANGLE"
+  ],
+  "C2760": [
+    "  &UT  "
+  ],
+  "C2761": [
+    "  0x25b3    WHITE UP-POINTING TRIANGLE"
+  ],
+  "C2762": [
+    "  &uT  "
+  ],
+  "C2763": [
+    "  0x25b6    BLACK RIGHT-POINTING TRIANGLE"
+  ],
+  "C2764": [
+    "  &PR  "
+  ],
+  "C2765": [
+    "  0x25b7    WHITE RIGHT-POINTING TRIANGLE"
+  ],
+  "C2766": [
+    "  &Tr  "
+  ],
+  "C2767": [
+    "  0x25bc    BLACK DOWN-POINTING TRIANGLE"
+  ],
+  "C2768": [
+    "  &Dt  "
+  ],
+  "C2769": [
+    "  0x25bd    WHITE DOWN-POINTING TRIANGLE"
+  ],
+  "C2770": [
+    "  &dT  "
+  ],
+  "C2771": [
+    "  0x25c0    BLACK LEFT-POINTING TRIANGLE"
+  ],
+  "C2772": [
+    "  &PL  "
+  ],
+  "C2773": [
+    "  0x25c1    WHITE LEFT-POINTING TRIANGLE"
+  ],
+  "C2774": [
+    "  &Tl  "
+  ],
+  "C2775": [
+    "  0x25c6    BLACK DIAMOND"
+  ],
+  "C2776": [
+    "  &Db  "
+  ],
+  "C2777": [
+    "  0x25c7    WHITE DIAMOND"
+  ],
+  "C2778": [
+    "  &Dw  "
+  ],
+  "C2779": [
+    "  0x25ca    LOZENGE"
+  ],
+  "C2780": [
+    "  &LZ  "
+  ],
+  "C2781": [
+    "  0x25cb    WHITE CIRCLE"
+  ],
+  "C2782": [
+    "  &0m  "
+  ],
+  "C2783": [
+    "  0x25ce    BULLSEYE"
+  ],
+  "C2784": [
+    "  &0o  "
+  ],
+  "C2785": [
+    "  0x25cf    BLACK CIRCLE"
+  ],
+  "C2786": [
+    "  &0M  "
+  ],
+  "C2787": [
+    "  0x25d0    CIRCLE WITH LEFT HALF BLACK"
+  ],
+  "C2788": [
+    "  &0L  "
+  ],
+  "C2789": [
+    "  0x25d1    CIRCLE WITH RIGHT HALF BLACK"
+  ],
+  "C2790": [
+    "  &0R  "
+  ],
+  "C2791": [
+    "  0x25d8    INVERSE BULLET"
+  ],
+  "C2792": [
+    "  &Sn  "
+  ],
+  "C2793": [
+    "  0x25d9    INVERSE WHITE CIRCLE"
+  ],
+  "C2794": [
+    "  &Ic  "
+  ],
+  "C2795": [
+    "  0x25e2    BLACK LOWER RIGHT TRIANGLE"
+  ],
+  "C2796": [
+    "  &Fd  "
+  ],
+  "C2797": [
+    "  0x25e3    BLACK LOWER LEFT TRIANGLE"
+  ],
+  "C2798": [
+    "  &Bd  "
+  ],
+  "C2799": [
+    "  0x2605    BLACK STAR"
+  ],
+  "C2800": [
+    "  &*2  "
+  ],
+  "C2801": [
+    "  0x2606    WHITE STAR"
+  ],
+  "C2802": [
+    "  &*1  "
+  ],
+  "C2803": [
+    "  0x260e    BLACK TELEPHONE"
+  ],
+  "C2804": [
+    "  &_TEL_  "
+  ],
+  "C2805": [
+    "  0x260f    WHITE TELEPHONE"
+  ],
+  "C2806": [
+    "  &_tel_  "
+  ],
+  "C2807": [
+    "  0x261c    WHITE LEFT POINTING INDEX"
+  ],
+  "C2808": [
+    "  &<H  "
+  ],
+  "C2809": [
+    "  0x261e    WHITE RIGHT POINTING INDEX"
+  ],
+  "C2810": [
+    "  &>H  "
+  ],
+  "C2811": [
+    "  0x263a    WHITE SMILING FACE"
+  ],
+  "C2812": [
+    "  &0u  "
+  ],
+  "C2813": [
+    "  0x263b    BLACK SMILING FACE"
+  ],
+  "C2814": [
+    "  &0U  "
+  ],
+  "C2815": [
+    "  0x263c    WHITE SUN WITH RAYS"
+  ],
+  "C2816": [
+    "  &SU  "
+  ],
+  "C2817": [
+    "  0x2640    FEMALE SIGN"
+  ],
+  "C2818": [
+    "  &Fm  "
+  ],
+  "C2819": [
+    "  0x2642    MALE SIGN"
+  ],
+  "C2820": [
+    "  &Ml  "
+  ],
+  "C2821": [
+    "  0x2660    BLACK SPADE SUIT"
+  ],
+  "C2822": [
+    "  &cS  "
+  ],
+  "C2823": [
+    "  0x2661    WHITE HEART SUIT"
+  ],
+  "C2824": [
+    "  &cH  "
+  ],
+  "C2825": [
+    "  0x2662    WHITE DIAMOND SUIT"
+  ],
+  "C2826": [
+    "  &cD  "
+  ],
+  "C2827": [
+    "  0x2663    BLACK CLUB SUIT"
+  ],
+  "C2828": [
+    "  &cC  "
+  ],
+  "C2829": [
+    "  0x2664    WHITE SPADE SUIT"
+  ],
+  "C2830": [
+    "  &_cS-_  "
+  ],
+  "C2831": [
+    "  0x2665    BLACK HEART SUIT"
+  ],
+  "C2832": [
+    "  &_cH-_  "
+  ],
+  "C2833": [
+    "  0x2666    BLACK DIAMOND SUIT"
+  ],
+  "C2834": [
+    "  &_cD-_  "
+  ],
+  "C2835": [
+    "  0x2667    WHITE CLUB SUIT"
+  ],
+  "C2836": [
+    "  &_cC-_  "
+  ],
+  "C2837": [
+    "  0x2669    QUARTER NOTE"
+  ],
+  "C2838": [
+    "  &Md  "
+  ],
+  "C2839": [
+    "  0x266a    EIGHTH NOTE"
+  ],
+  "C2840": [
+    "  &M8  "
+  ],
+  "C2841": [
+    "  0x266b    BARRED EIGHTH NOTES"
+  ],
+  "C2842": [
+    "  &M2  "
+  ],
+  "C2843": [
+    "  0x266c    BARRED SIXTEENTH NOTES"
+  ],
+  "C2844": [
+    "  &_M16_  "
+  ],
+  "C2845": [
+    "  0x266d    MUSIC FLAT SIGN"
+  ],
+  "C2846": [
+    "  &Mb  "
+  ],
+  "C2847": [
+    "  0x266e    MUSIC NATURAL SIGN"
+  ],
+  "C2848": [
+    "  &Mx  "
+  ],
+  "C2849": [
+    "  0x266f    MUSIC SHARP SIGN"
+  ],
+  "C2850": [
+    "  &MX  "
+  ],
+  "C2851": [
+    "  0x2713    CHECK MARK"
+  ],
+  "C2852": [
+    "  &OK  "
+  ],
+  "C2853": [
+    "  0x2717    BALLOT X"
+  ],
+  "C2854": [
+    "  &XX  "
+  ],
+  "C2855": [
+    "  0x2720    MALTESE CROSS"
+  ],
+  "C2856": [
+    "  &-X  "
+  ],
+  "C2857": [
+    "  0x3000    IDEOGRAPHIC SPACE"
+  ],
+  "C2858": [
+    "  &IS  "
+  ],
+  "C2859": [
+    "  0x3001    IDEOGRAPHIC COMMA"
+  ],
+  "C2860": [
+    "  &,_  "
+  ],
+  "C2861": [
+    "  0x3002    IDEOGRAPHIC PERIOD"
+  ],
+  "C2862": [
+    "  &._  "
+  ],
+  "C2863": [
+    "  0x3003    DITTO MARK"
+  ],
+  "C2864": [
+    "  &+\"  "
+  ],
+  "C2865": [
+    "  0x3004    IDEOGRAPHIC DITTO MARK"
+  ],
+  "C2866": [
+    "  &+_  "
+  ],
+  "C2867": [
+    "  0x3005    IDEOGRAPHIC ITERATION MARK"
+  ],
+  "C2868": [
+    "  &*_  "
+  ],
+  "C2869": [
+    "  0x3006    IDEOGRAPHIC CLOSING MARK"
+  ],
+  "C2870": [
+    "  &;_  "
+  ],
+  "C2871": [
+    "  0x3007    IDEOGRAPHIC NUMBER ZERO"
+  ],
+  "C2872": [
+    "  &0_  "
+  ],
+  "C2873": [
+    "  0x300a    LEFT DOUBLE ANGLE BRACKET"
+  ],
+  "C2874": [
+    "  &<+  "
+  ],
+  "C2875": [
+    "  0x300b    RIGHT DOUBLE ANGLE BRACKET"
+  ],
+  "C2876": [
+    "  &>+  "
+  ],
+  "C2877": [
+    "  0x300c    LEFT CORNER BRACKET"
+  ],
+  "C2878": [
+    "  &<'  "
+  ],
+  "C2879": [
+    "  0x300d    RIGHT CORNER BRACKET"
+  ],
+  "C2880": [
+    "  &>'  "
+  ],
+  "C2881": [
+    "  0x300e    LEFT WHITE CORNER BRACKET"
+  ],
+  "C2882": [
+    "  &<\"  "
+  ],
+  "C2883": [
+    "  0x300f    RIGHT WHITE CORNER BRACKET"
+  ],
+  "C2884": [
+    "  &>\"  "
+  ],
+  "C2885": [
+    "  0x3010    LEFT BLACK LENTICULAR BRACKET"
+  ],
+  "C2886": [
+    "  &(\"  "
+  ],
+  "C2887": [
+    "  0x3011    RIGHT BLACK LENTICULAR BRACKET"
+  ],
+  "C2888": [
+    "  &)\"  "
+  ],
+  "C2889": [
+    "  0x3012    POSTAL MARK"
+  ],
+  "C2890": [
+    "  &=T  "
+  ],
+  "C2891": [
+    "  0x3013    GETA MARK"
+  ],
+  "C2892": [
+    "  &=_  "
+  ],
+  "C2893": [
+    "  0x3014    LEFT TORTOISE SHELL BRACKET"
+  ],
+  "C2894": [
+    "  &('  "
+  ],
+  "C2895": [
+    "  0x3015    RIGHT TORTOISE SHELL BRACKET"
+  ],
+  "C2896": [
+    "  &)'  "
+  ],
+  "C2897": [
+    "  0x3016    LEFT WHITE LENTICULAR BRACKET"
+  ],
+  "C2898": [
+    "  &(I  "
+  ],
+  "C2899": [
+    "  0x3017    RIGHT WHITE LENTICULAR BRACKET"
+  ],
+  "C2900": [
+    "  &)I  "
+  ],
+  "C2901": [
+    "  0x301c    WAVE DASH"
+  ],
+  "C2902": [
+    "  &-?  "
+  ],
+  "C2903": [
+    "  0x3020    POSTAL MARK FACE"
+  ],
+  "C2904": [
+    "  &_=T:)_  "
+  ],
+  "C2905": [
+    "  0x3041    HIRAGANA LETTER SMALL A"
+  ],
+  "C2906": [
+    "  &A5  "
+  ],
+  "C2907": [
+    "  0x3042    HIRAGANA LETTER A"
+  ],
+  "C2908": [
+    "  &a5  "
+  ],
+  "C2909": [
+    "  0x3043    HIRAGANA LETTER SMALL I"
+  ],
+  "C2910": [
+    "  &I5  "
+  ],
+  "C2911": [
+    "  0x3044    HIRAGANA LETTER I"
+  ],
+  "C2912": [
+    "  &i5  "
+  ],
+  "C2913": [
+    "  0x3045    HIRAGANA LETTER SMALL U"
+  ],
+  "C2914": [
+    "  &U5  "
+  ],
+  "C2915": [
+    "  0x3046    HIRAGANA LETTER U"
+  ],
+  "C2916": [
+    "  &u5  "
+  ],
+  "C2917": [
+    "  0x3047    HIRAGANA LETTER SMALL E"
+  ],
+  "C2918": [
+    "  &E5  "
+  ],
+  "C2919": [
+    "  0x3048    HIRAGANA LETTER E"
+  ],
+  "C2920": [
+    "  &e5  "
+  ],
+  "C2921": [
+    "  0x3049    HIRAGANA LETTER SMALL O"
+  ],
+  "C2922": [
+    "  &O5  "
+  ],
+  "C2923": [
+    "  0x304a    HIRAGANA LETTER O"
+  ],
+  "C2924": [
+    "  &o5  "
+  ],
+  "C2925": [
+    "  0x304b    HIRAGANA LETTER KA"
+  ],
+  "C2926": [
+    "  &ka  "
+  ],
+  "C2927": [
+    "  0x304c    HIRAGANA LETTER GA"
+  ],
+  "C2928": [
+    "  &ga  "
+  ],
+  "C2929": [
+    "  0x304d    HIRAGANA LETTER KI"
+  ],
+  "C2930": [
+    "  &ki  "
+  ],
+  "C2931": [
+    "  0x304e    HIRAGANA LETTER GI"
+  ],
+  "C2932": [
+    "  &gi  "
+  ],
+  "C2933": [
+    "  0x304f    HIRAGANA LETTER KU"
+  ],
+  "C2934": [
+    "  &ku  "
+  ],
+  "C2935": [
+    "  0x3050    HIRAGANA LETTER GU"
+  ],
+  "C2936": [
+    "  &gu  "
+  ],
+  "C2937": [
+    "  0x3051    HIRAGANA LETTER KE"
+  ],
+  "C2938": [
+    "  &ke  "
+  ],
+  "C2939": [
+    "  0x3052    HIRAGANA LETTER GE"
+  ],
+  "C2940": [
+    "  &ge  "
+  ],
+  "C2941": [
+    "  0x3053    HIRAGANA LETTER KO"
+  ],
+  "C2942": [
+    "  &ko  "
+  ],
+  "C2943": [
+    "  0x3054    HIRAGANA LETTER GO"
+  ],
+  "C2944": [
+    "  &go  "
+  ],
+  "C2945": [
+    "  0x3055    HIRAGANA LETTER SA"
+  ],
+  "C2946": [
+    "  &sa  "
+  ],
+  "C2947": [
+    "  0x3056    HIRAGANA LETTER ZA"
+  ],
+  "C2948": [
+    "  &za  "
+  ],
+  "C2949": [
+    "  0x3057    HIRAGANA LETTER SI"
+  ],
+  "C2950": [
+    "  &si  "
+  ],
+  "C2951": [
+    "  0x3058    HIRAGANA LETTER ZI"
+  ],
+  "C2952": [
+    "  &zi  "
+  ],
+  "C2953": [
+    "  0x3059    HIRAGANA LETTER SU"
+  ],
+  "C2954": [
+    "  &su  "
+  ],
+  "C2955": [
+    "  0x305a    HIRAGANA LETTER ZU"
+  ],
+  "C2956": [
+    "  &zu  "
+  ],
+  "C2957": [
+    "  0x305b    HIRAGANA LETTER SE"
+  ],
+  "C2958": [
+    "  &se  "
+  ],
+  "C2959": [
+    "  0x305c    HIRAGANA LETTER ZE"
+  ],
+  "C2960": [
+    "  &ze  "
+  ],
+  "C2961": [
+    "  0x305d    HIRAGANA LETTER SO"
+  ],
+  "C2962": [
+    "  &so  "
+  ],
+  "C2963": [
+    "  0x305e    HIRAGANA LETTER ZO"
+  ],
+  "C2964": [
+    "  &zo  "
+  ],
+  "C2965": [
+    "  0x305f    HIRAGANA LETTER TA"
+  ],
+  "C2966": [
+    "  &ta  "
+  ],
+  "C2967": [
+    "  0x3060    HIRAGANA LETTER DA"
+  ],
+  "C2968": [
+    "  &da  "
+  ],
+  "C2969": [
+    "  0x3061    HIRAGANA LETTER TI"
+  ],
+  "C2970": [
+    "  &ti  "
+  ],
+  "C2971": [
+    "  0x3062    HIRAGANA LETTER DI"
+  ],
+  "C2972": [
+    "  &di  "
+  ],
+  "C2973": [
+    "  0x3063    HIRAGANA LETTER SMALL TU"
+  ],
+  "C2974": [
+    "  &tU  "
+  ],
+  "C2975": [
+    "  0x3064    HIRAGANA LETTER TU"
+  ],
+  "C2976": [
+    "  &tu  "
+  ],
+  "C2977": [
+    "  0x3065    HIRAGANA LETTER DU"
+  ],
+  "C2978": [
+    "  &du  "
+  ],
+  "C2979": [
+    "  0x3066    HIRAGANA LETTER TE"
+  ],
+  "C2980": [
+    "  &te  "
+  ],
+  "C2981": [
+    "  0x3067    HIRAGANA LETTER DE"
+  ],
+  "C2982": [
+    "  &de  "
+  ],
+  "C2983": [
+    "  0x3068    HIRAGANA LETTER TO"
+  ],
+  "C2984": [
+    "  &to  "
+  ],
+  "C2985": [
+    "  0x3069    HIRAGANA LETTER DO"
+  ],
+  "C2986": [
+    "  &do  "
+  ],
+  "C2987": [
+    "  0x306a    HIRAGANA LETTER NA"
+  ],
+  "C2988": [
+    "  &na  "
+  ],
+  "C2989": [
+    "  0x306b    HIRAGANA LETTER NI"
+  ],
+  "C2990": [
+    "  &ni  "
+  ],
+  "C2991": [
+    "  0x306c    HIRAGANA LETTER NU"
+  ],
+  "C2992": [
+    "  &nu  "
+  ],
+  "C2993": [
+    "  0x306d    HIRAGANA LETTER NE"
+  ],
+  "C2994": [
+    "  &ne  "
+  ],
+  "C2995": [
+    "  0x306e    HIRAGANA LETTER NO"
+  ],
+  "C2996": [
+    "  &no  "
+  ],
+  "C2997": [
+    "  0x306f    HIRAGANA LETTER HA"
+  ],
+  "C2998": [
+    "  &ha  "
+  ],
+  "C2999": [
+    "  0x3070    HIRAGANA LETTER BA"
+  ],
+  "C3000": [
+    "  &ba  "
+  ],
+  "C3001": [
+    "  0x3071    HIRAGANA LETTER PA"
+  ],
+  "C3002": [
+    "  &pa  "
+  ],
+  "C3003": [
+    "  0x3072    HIRAGANA LETTER HI"
+  ],
+  "C3004": [
+    "  &hi  "
+  ],
+  "C3005": [
+    "  0x3073    HIRAGANA LETTER BI"
+  ],
+  "C3006": [
+    "  &bi  "
+  ],
+  "C3007": [
+    "  0x3074    HIRAGANA LETTER PI"
+  ],
+  "C3008": [
+    "  &pi  "
+  ],
+  "C3009": [
+    "  0x3075    HIRAGANA LETTER HU"
+  ],
+  "C3010": [
+    "  &hu  "
+  ],
+  "C3011": [
+    "  0x3076    HIRAGANA LETTER BU"
+  ],
+  "C3012": [
+    "  &bu  "
+  ],
+  "C3013": [
+    "  0x3077    HIRAGANA LETTER PU"
+  ],
+  "C3014": [
+    "  &pu  "
+  ],
+  "C3015": [
+    "  0x3078    HIRAGANA LETTER HE"
+  ],
+  "C3016": [
+    "  &he  "
+  ],
+  "C3017": [
+    "  0x3079    HIRAGANA LETTER BE"
+  ],
+  "C3018": [
+    "  &be  "
+  ],
+  "C3019": [
+    "  0x307a    HIRAGANA LETTER PE"
+  ],
+  "C3020": [
+    "  &pe  "
+  ],
+  "C3021": [
+    "  0x307b    HIRAGANA LETTER HO"
+  ],
+  "C3022": [
+    "  &ho  "
+  ],
+  "C3023": [
+    "  0x307c    HIRAGANA LETTER BO"
+  ],
+  "C3024": [
+    "  &bo  "
+  ],
+  "C3025": [
+    "  0x307d    HIRAGANA LETTER PO"
+  ],
+  "C3026": [
+    "  &po  "
+  ],
+  "C3027": [
+    "  0x307e    HIRAGANA LETTER MA"
+  ],
+  "C3028": [
+    "  &ma  "
+  ],
+  "C3029": [
+    "  0x307f    HIRAGANA LETTER MI"
+  ],
+  "C3030": [
+    "  &mi  "
+  ],
+  "C3031": [
+    "  0x3080    HIRAGANA LETTER MU"
+  ],
+  "C3032": [
+    "  &mu  "
+  ],
+  "C3033": [
+    "  0x3081    HIRAGANA LETTER ME"
+  ],
+  "C3034": [
+    "  &me  "
+  ],
+  "C3035": [
+    "  0x3082    HIRAGANA LETTER MO"
+  ],
+  "C3036": [
+    "  &mo  "
+  ],
+  "C3037": [
+    "  0x3083    HIRAGANA LETTER SMALL YA"
+  ],
+  "C3038": [
+    "  &yA  "
+  ],
+  "C3039": [
+    "  0x3084    HIRAGANA LETTER YA"
+  ],
+  "C3040": [
+    "  &ya  "
+  ],
+  "C3041": [
+    "  0x3085    HIRAGANA LETTER SMALL YU"
+  ],
+  "C3042": [
+    "  &yU  "
+  ],
+  "C3043": [
+    "  0x3086    HIRAGANA LETTER YU"
+  ],
+  "C3044": [
+    "  &yu  "
+  ],
+  "C3045": [
+    "  0x3087    HIRAGANA LETTER SMALL YO"
+  ],
+  "C3046": [
+    "  &yO  "
+  ],
+  "C3047": [
+    "  0x3088    HIRAGANA LETTER YO"
+  ],
+  "C3048": [
+    "  &yo  "
+  ],
+  "C3049": [
+    "  0x3089    HIRAGANA LETTER RA"
+  ],
+  "C3050": [
+    "  &ra  "
+  ],
+  "C3051": [
+    "  0x308a    HIRAGANA LETTER RI"
+  ],
+  "C3052": [
+    "  &ri  "
+  ],
+  "C3053": [
+    "  0x308b    HIRAGANA LETTER RU"
+  ],
+  "C3054": [
+    "  &ru  "
+  ],
+  "C3055": [
+    "  0x308c    HIRAGANA LETTER RE"
+  ],
+  "C3056": [
+    "  &re  "
+  ],
+  "C3057": [
+    "  0x308d    HIRAGANA LETTER RO"
+  ],
+  "C3058": [
+    "  &ro  "
+  ],
+  "C3059": [
+    "  0x308e    HIRAGANA LETTER SMALL WA"
+  ],
+  "C3060": [
+    "  &wA  "
+  ],
+  "C3061": [
+    "  0x308f    HIRAGANA LETTER WA"
+  ],
+  "C3062": [
+    "  &wa  "
+  ],
+  "C3063": [
+    "  0x3090    HIRAGANA LETTER WI"
+  ],
+  "C3064": [
+    "  &wi  "
+  ],
+  "C3065": [
+    "  0x3091    HIRAGANA LETTER WE"
+  ],
+  "C3066": [
+    "  &we  "
+  ],
+  "C3067": [
+    "  0x3092    HIRAGANA LETTER WO"
+  ],
+  "C3068": [
+    "  &wo  "
+  ],
+  "C3069": [
+    "  0x3093    HIRAGANA LETTER N"
+  ],
+  "C3070": [
+    "  &n5  "
+  ],
+  "C3071": [
+    "  0x3094    HIRAGANA LETTER VU"
+  ],
+  "C3072": [
+    "  &vu  "
+  ],
+  "C3073": [
+    "  0x309b    KATAKANA-HIRAGANA VOICED SOUND MARK"
+  ],
+  "C3074": [
+    "  &\"5  "
+  ],
+  "C3075": [
+    "  0x309c    KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK"
+  ],
+  "C3076": [
+    "  &05  "
+  ],
+  "C3077": [
+    "  0x309d    HIRAGANA ITERATION MARK"
+  ],
+  "C3078": [
+    "  &*5  "
+  ],
+  "C3079": [
+    "  0x309e    HIRAGANA VOICED ITERATION MARK"
+  ],
+  "C3080": [
+    "  &+5  "
+  ],
+  "C3081": [
+    "  0x30a1    KATAKANA LETTER SMALL A"
+  ],
+  "C3082": [
+    "  &a6  "
+  ],
+  "C3083": [
+    "  0x30a2    KATAKANA LETTER A"
+  ],
+  "C3084": [
+    "  &A6  "
+  ],
+  "C3085": [
+    "  0x30a3    KATAKANA LETTER SMALL I"
+  ],
+  "C3086": [
+    "  &i6  "
+  ],
+  "C3087": [
+    "  0x30a4    KATAKANA LETTER I"
+  ],
+  "C3088": [
+    "  &I6  "
+  ],
+  "C3089": [
+    "  0x30a5    KATAKANA LETTER SMALL U"
+  ],
+  "C3090": [
+    "  &u6  "
+  ],
+  "C3091": [
+    "  0x30a6    KATAKANA LETTER U"
+  ],
+  "C3092": [
+    "  &U6  "
+  ],
+  "C3093": [
+    "  0x30a7    KATAKANA LETTER SMALL E"
+  ],
+  "C3094": [
+    "  &e6  "
+  ],
+  "C3095": [
+    "  0x30a8    KATAKANA LETTER E"
+  ],
+  "C3096": [
+    "  &E6  "
+  ],
+  "C3097": [
+    "  0x30a9    KATAKANA LETTER SMALL O"
+  ],
+  "C3098": [
+    "  &o6  "
+  ],
+  "C3099": [
+    "  0x30aa    KATAKANA LETTER O"
+  ],
+  "C3100": [
+    "  &O6  "
+  ],
+  "C3101": [
+    "  0x30ab    KATAKANA LETTER KA"
+  ],
+  "C3102": [
+    "  &Ka  "
+  ],
+  "C3103": [
+    "  0x30ac    KATAKANA LETTER GA"
+  ],
+  "C3104": [
+    "  &Ga  "
+  ],
+  "C3105": [
+    "  0x30ad    KATAKANA LETTER KI"
+  ],
+  "C3106": [
+    "  &Ki  "
+  ],
+  "C3107": [
+    "  0x30ae    KATAKANA LETTER GI"
+  ],
+  "C3108": [
+    "  &Gi  "
+  ],
+  "C3109": [
+    "  0x30af    KATAKANA LETTER KU"
+  ],
+  "C3110": [
+    "  &Ku  "
+  ],
+  "C3111": [
+    "  0x30b0    KATAKANA LETTER GU"
+  ],
+  "C3112": [
+    "  &Gu  "
+  ],
+  "C3113": [
+    "  0x30b1    KATAKANA LETTER KE"
+  ],
+  "C3114": [
+    "  &Ke  "
+  ],
+  "C3115": [
+    "  0x30b2    KATAKANA LETTER GE"
+  ],
+  "C3116": [
+    "  &Ge  "
+  ],
+  "C3117": [
+    "  0x30b3    KATAKANA LETTER KO"
+  ],
+  "C3118": [
+    "  &Ko  "
+  ],
+  "C3119": [
+    "  0x30b4    KATAKANA LETTER GO"
+  ],
+  "C3120": [
+    "  &Go  "
+  ],
+  "C3121": [
+    "  0x30b5    KATAKANA LETTER SA"
+  ],
+  "C3122": [
+    "  &Sa  "
+  ],
+  "C3123": [
+    "  0x30b6    KATAKANA LETTER ZA"
+  ],
+  "C3124": [
+    "  &Za  "
+  ],
+  "C3125": [
+    "  0x30b7    KATAKANA LETTER SI"
+  ],
+  "C3126": [
+    "  &Si  "
+  ],
+  "C3127": [
+    "  0x30b8    KATAKANA LETTER ZI"
+  ],
+  "C3128": [
+    "  &Zi  "
+  ],
+  "C3129": [
+    "  0x30b9    KATAKANA LETTER SU"
+  ],
+  "C3130": [
+    "  &Su  "
+  ],
+  "C3131": [
+    "  0x30ba    KATAKANA LETTER ZU"
+  ],
+  "C3132": [
+    "  &Zu  "
+  ],
+  "C3133": [
+    "  0x30bb    KATAKANA LETTER SE"
+  ],
+  "C3134": [
+    "  &Se  "
+  ],
+  "C3135": [
+    "  0x30bc    KATAKANA LETTER ZE"
+  ],
+  "C3136": [
+    "  &Ze  "
+  ],
+  "C3137": [
+    "  0x30bd    KATAKANA LETTER SO"
+  ],
+  "C3138": [
+    "  &So  "
+  ],
+  "C3139": [
+    "  0x30be    KATAKANA LETTER ZO"
+  ],
+  "C3140": [
+    "  &Zo  "
+  ],
+  "C3141": [
+    "  0x30bf    KATAKANA LETTER TA"
+  ],
+  "C3142": [
+    "  &Ta  "
+  ],
+  "C3143": [
+    "  0x30c0    KATAKANA LETTER DA"
+  ],
+  "C3144": [
+    "  &Da  "
+  ],
+  "C3145": [
+    "  0x30c1    KATAKANA LETTER TI"
+  ],
+  "C3146": [
+    "  &Ti  "
+  ],
+  "C3147": [
+    "  0x30c2    KATAKANA LETTER DI"
+  ],
+  "C3148": [
+    "  &Di  "
+  ],
+  "C3149": [
+    "  0x30c3    KATAKANA LETTER SMALL TU"
+  ],
+  "C3150": [
+    "  &TU  "
+  ],
+  "C3151": [
+    "  0x30c4    KATAKANA LETTER TU"
+  ],
+  "C3152": [
+    "  &Tu  "
+  ],
+  "C3153": [
+    "  0x30c5    KATAKANA LETTER DU"
+  ],
+  "C3154": [
+    "  &Du  "
+  ],
+  "C3155": [
+    "  0x30c6    KATAKANA LETTER TE"
+  ],
+  "C3156": [
+    "  &Te  "
+  ],
+  "C3157": [
+    "  0x30c7    KATAKANA LETTER DE"
+  ],
+  "C3158": [
+    "  &De  "
+  ],
+  "C3159": [
+    "  0x30c8    KATAKANA LETTER TO"
+  ],
+  "C3160": [
+    "  &To  "
+  ],
+  "C3161": [
+    "  0x30c9    KATAKANA LETTER DO"
+  ],
+  "C3162": [
+    "  &Do  "
+  ],
+  "C3163": [
+    "  0x30ca    KATAKANA LETTER NA"
+  ],
+  "C3164": [
+    "  &Na  "
+  ],
+  "C3165": [
+    "  0x30cb    KATAKANA LETTER NI"
+  ],
+  "C3166": [
+    "  &Ni  "
+  ],
+  "C3167": [
+    "  0x30cc    KATAKANA LETTER NU"
+  ],
+  "C3168": [
+    "  &Nu  "
+  ],
+  "C3169": [
+    "  0x30cd    KATAKANA LETTER NE"
+  ],
+  "C3170": [
+    "  &Ne  "
+  ],
+  "C3171": [
+    "  0x30ce    KATAKANA LETTER NO"
+  ],
+  "C3172": [
+    "  &No  "
+  ],
+  "C3173": [
+    "  0x30cf    KATAKANA LETTER HA"
+  ],
+  "C3174": [
+    "  &Ha  "
+  ],
+  "C3175": [
+    "  0x30d0    KATAKANA LETTER BA"
+  ],
+  "C3176": [
+    "  &Ba  "
+  ],
+  "C3177": [
+    "  0x30d1    KATAKANA LETTER PA"
+  ],
+  "C3178": [
+    "  &Pa  "
+  ],
+  "C3179": [
+    "  0x30d2    KATAKANA LETTER HI"
+  ],
+  "C3180": [
+    "  &Hi  "
+  ],
+  "C3181": [
+    "  0x30d3    KATAKANA LETTER BI"
+  ],
+  "C3182": [
+    "  &Bi  "
+  ],
+  "C3183": [
+    "  0x30d4    KATAKANA LETTER PI"
+  ],
+  "C3184": [
+    "  &Pi  "
+  ],
+  "C3185": [
+    "  0x30d5    KATAKANA LETTER HU"
+  ],
+  "C3186": [
+    "  &Hu  "
+  ],
+  "C3187": [
+    "  0x30d6    KATAKANA LETTER BU"
+  ],
+  "C3188": [
+    "  &Bu  "
+  ],
+  "C3189": [
+    "  0x30d7    KATAKANA LETTER PU"
+  ],
+  "C3190": [
+    "  &Pu  "
+  ],
+  "C3191": [
+    "  0x30d8    KATAKANA LETTER HE"
+  ],
+  "C3192": [
+    "  &He  "
+  ],
+  "C3193": [
+    "  0x30d9    KATAKANA LETTER BE"
+  ],
+  "C3194": [
+    "  &Be  "
+  ],
+  "C3195": [
+    "  0x30da    KATAKANA LETTER PE"
+  ],
+  "C3196": [
+    "  &Pe  "
+  ],
+  "C3197": [
+    "  0x30db    KATAKANA LETTER HO"
+  ],
+  "C3198": [
+    "  &Ho  "
+  ],
+  "C3199": [
+    "  0x30dc    KATAKANA LETTER BO"
+  ],
+  "C3200": [
+    "  &Bo  "
+  ],
+  "C3201": [
+    "  0x30dd    KATAKANA LETTER PO"
+  ],
+  "C3202": [
+    "  &Po  "
+  ],
+  "C3203": [
+    "  0x30de    KATAKANA LETTER MA"
+  ],
+  "C3204": [
+    "  &Ma  "
+  ],
+  "C3205": [
+    "  0x30df    KATAKANA LETTER MI"
+  ],
+  "C3206": [
+    "  &Mi  "
+  ],
+  "C3207": [
+    "  0x30e0    KATAKANA LETTER MU"
+  ],
+  "C3208": [
+    "  &Mu  "
+  ],
+  "C3209": [
+    "  0x30e1    KATAKANA LETTER ME"
+  ],
+  "C3210": [
+    "  &Me  "
+  ],
+  "C3211": [
+    "  0x30e2    KATAKANA LETTER MO"
+  ],
+  "C3212": [
+    "  &Mo  "
+  ],
+  "C3213": [
+    "  0x30e3    KATAKANA LETTER SMALL YA"
+  ],
+  "C3214": [
+    "  &YA  "
+  ],
+  "C3215": [
+    "  0x30e4    KATAKANA LETTER YA"
+  ],
+  "C3216": [
+    "  &Ya  "
+  ],
+  "C3217": [
+    "  0x30e5    KATAKANA LETTER SMALL YU"
+  ],
+  "C3218": [
+    "  &YU  "
+  ],
+  "C3219": [
+    "  0x30e6    KATAKANA LETTER YU"
+  ],
+  "C3220": [
+    "  &Yu  "
+  ],
+  "C3221": [
+    "  0x30e7    KATAKANA LETTER SMALL YO"
+  ],
+  "C3222": [
+    "  &YO  "
+  ],
+  "C3223": [
+    "  0x30e8    KATAKANA LETTER YO"
+  ],
+  "C3224": [
+    "  &Yo  "
+  ],
+  "C3225": [
+    "  0x30e9    KATAKANA LETTER RA"
+  ],
+  "C3226": [
+    "  &Ra  "
+  ],
+  "C3227": [
+    "  0x30ea    KATAKANA LETTER RI"
+  ],
+  "C3228": [
+    "  &Ri  "
+  ],
+  "C3229": [
+    "  0x30eb    KATAKANA LETTER RU"
+  ],
+  "C3230": [
+    "  &Ru  "
+  ],
+  "C3231": [
+    "  0x30ec    KATAKANA LETTER RE"
+  ],
+  "C3232": [
+    "  &Re  "
+  ],
+  "C3233": [
+    "  0x30ed    KATAKANA LETTER RO"
+  ],
+  "C3234": [
+    "  &Ro  "
+  ],
+  "C3235": [
+    "  0x30ee    KATAKANA LETTER SMALL WA"
+  ],
+  "C3236": [
+    "  &WA  "
+  ],
+  "C3237": [
+    "  0x30ef    KATAKANA LETTER WA"
+  ],
+  "C3238": [
+    "  &Wa  "
+  ],
+  "C3239": [
+    "  0x30f0    KATAKANA LETTER WI"
+  ],
+  "C3240": [
+    "  &Wi  "
+  ],
+  "C3241": [
+    "  0x30f1    KATAKANA LETTER WE"
+  ],
+  "C3242": [
+    "  &We  "
+  ],
+  "C3243": [
+    "  0x30f2    KATAKANA LETTER WO"
+  ],
+  "C3244": [
+    "  &Wo  "
+  ],
+  "C3245": [
+    "  0x30f3    KATAKANA LETTER N"
+  ],
+  "C3246": [
+    "  &N6  "
+  ],
+  "C3247": [
+    "  0x30f4    KATAKANA LETTER VU"
+  ],
+  "C3248": [
+    "  &Vu  "
+  ],
+  "C3249": [
+    "  0x30f5    KATAKANA LETTER SMALL KA"
+  ],
+  "C3250": [
+    "  &KA  "
+  ],
+  "C3251": [
+    "  0x30f6    KATAKANA LETTER SMALL KE"
+  ],
+  "C3252": [
+    "  &KE  "
+  ],
+  "C3253": [
+    "  0x30f7    KATAKANA LETTER VA"
+  ],
+  "C3254": [
+    "  &Va  "
+  ],
+  "C3255": [
+    "  0x30f8    KATAKANA LETTER VI"
+  ],
+  "C3256": [
+    "  &Vi  "
+  ],
+  "C3257": [
+    "  0x30f9    KATAKANA LETTER VE"
+  ],
+  "C3258": [
+    "  &Ve  "
+  ],
+  "C3259": [
+    "  0x30fa    KATAKANA LETTER VO"
+  ],
+  "C3260": [
+    "  &Vo  "
+  ],
+  "C3261": [
+    "  0x30fb    KATAKANA MIDDLE DOT"
+  ],
+  "C3262": [
+    "  &.6  "
+  ],
+  "C3263": [
+    "  0x30fc    KATAKANA-HIRAGANA PROLONGED SOUND MARK"
+  ],
+  "C3264": [
+    "  &-6  "
+  ],
+  "C3265": [
+    "  0x30fd    KATAKANA ITERATION MARK"
+  ],
+  "C3266": [
+    "  &*6  "
+  ],
+  "C3267": [
+    "  0x30fe    KATAKANA VOICED ITERATION MARK"
+  ],
+  "C3268": [
+    "  &+6  "
+  ],
+  "C3269": [
+    "  0x3105    BOPOMOFO LETTER B"
+  ],
+  "C3270": [
+    "  &b4  "
+  ],
+  "C3271": [
+    "  0x3106    BOPOMOFO LETTER P"
+  ],
+  "C3272": [
+    "  &p4  "
+  ],
+  "C3273": [
+    "  0x3107    BOPOMOFO LETTER M"
+  ],
+  "C3274": [
+    "  &m4  "
+  ],
+  "C3275": [
+    "  0x3108    BOPOMOFO LETTER F"
+  ],
+  "C3276": [
+    "  &f4  "
+  ],
+  "C3277": [
+    "  0x3109    BOPOMOFO LETTER D"
+  ],
+  "C3278": [
+    "  &d4  "
+  ],
+  "C3279": [
+    "  0x310a    BOPOMOFO LETTER T"
+  ],
+  "C3280": [
+    "  &t4  "
+  ],
+  "C3281": [
+    "  0x310b    BOPOMOFO LETTER N"
+  ],
+  "C3282": [
+    "  &n4  "
+  ],
+  "C3283": [
+    "  0x310c    BOPOMOFO LETTER L"
+  ],
+  "C3284": [
+    "  &l4  "
+  ],
+  "C3285": [
+    "  0x310d    BOPOMOFO LETTER G"
+  ],
+  "C3286": [
+    "  &g4  "
+  ],
+  "C3287": [
+    "  0x310e    BOPOMOFO LETTER K"
+  ],
+  "C3288": [
+    "  &k4  "
+  ],
+  "C3289": [
+    "  0x310f    BOPOMOFO LETTER H"
+  ],
+  "C3290": [
+    "  &h4  "
+  ],
+  "C3291": [
+    "  0x3110    BOPOMOFO LETTER J"
+  ],
+  "C3292": [
+    "  &j4  "
+  ],
+  "C3293": [
+    "  0x3111    BOPOMOFO LETTER Q"
+  ],
+  "C3294": [
+    "  &q4  "
+  ],
+  "C3295": [
+    "  0x3112    BOPOMOFO LETTER X"
+  ],
+  "C3296": [
+    "  &x4  "
+  ],
+  "C3297": [
+    "  0x3113    BOPOMOFO LETTER ZH"
+  ],
+  "C3298": [
+    "  &zh  "
+  ],
+  "C3299": [
+    "  0x3114    BOPOMOFO LETTER CH"
+  ],
+  "C3300": [
+    "  &ch  "
+  ],
+  "C3301": [
+    "  0x3115    BOPOMOFO LETTER SH"
+  ],
+  "C3302": [
+    "  &sh  "
+  ],
+  "C3303": [
+    "  0x3116    BOPOMOFO LETTER R"
+  ],
+  "C3304": [
+    "  &r4  "
+  ],
+  "C3305": [
+    "  0x3117    BOPOMOFO LETTER Z"
+  ],
+  "C3306": [
+    "  &z4  "
+  ],
+  "C3307": [
+    "  0x3118    BOPOMOFO LETTER C"
+  ],
+  "C3308": [
+    "  &c4  "
+  ],
+  "C3309": [
+    "  0x3119    BOPOMOFO LETTER S"
+  ],
+  "C3310": [
+    "  &s4  "
+  ],
+  "C3311": [
+    "  0x311a    BOPOMOFO LETTER A"
+  ],
+  "C3312": [
+    "  &a4  "
+  ],
+  "C3313": [
+    "  0x311b    BOPOMOFO LETTER O"
+  ],
+  "C3314": [
+    "  &o4  "
+  ],
+  "C3315": [
+    "  0x311c    BOPOMOFO LETTER E"
+  ],
+  "C3316": [
+    "  &e4  "
+  ],
+  "C3317": [
+    "  0x311d    BOPOMOFO LETTER EH"
+  ],
+  "C3318": [
+    "  &_eh4_  "
+  ],
+  "C3319": [
+    "  0x311e    BOPOMOFO LETTER AI"
+  ],
+  "C3320": [
+    "  &ai  "
+  ],
+  "C3321": [
+    "  0x311f    BOPOMOFO LETTER EI"
+  ],
+  "C3322": [
+    "  &ei  "
+  ],
+  "C3323": [
+    "  0x3120    BOPOMOFO LETTER AU"
+  ],
+  "C3324": [
+    "  &au  "
+  ],
+  "C3325": [
+    "  0x3121    BOPOMOFO LETTER OU"
+  ],
+  "C3326": [
+    "  &ou  "
+  ],
+  "C3327": [
+    "  0x3122    BOPOMOFO LETTER AN"
+  ],
+  "C3328": [
+    "  &an  "
+  ],
+  "C3329": [
+    "  0x3123    BOPOMOFO LETTER EN"
+  ],
+  "C3330": [
+    "  &en  "
+  ],
+  "C3331": [
+    "  0x3124    BOPOMOFO LETTER ANG"
+  ],
+  "C3332": [
+    "  &aN  "
+  ],
+  "C3333": [
+    "  0x3125    BOPOMOFO LETTER ENG"
+  ],
+  "C3334": [
+    "  &eN  "
+  ],
+  "C3335": [
+    "  0x3126    BOPOMOFO LETTER ER"
+  ],
+  "C3336": [
+    "  &er  "
+  ],
+  "C3337": [
+    "  0x3127    BOPOMOFO LETTER I"
+  ],
+  "C3338": [
+    "  &i4  "
+  ],
+  "C3339": [
+    "  0x3128    BOPOMOFO LETTER U"
+  ],
+  "C3340": [
+    "  &u4  "
+  ],
+  "C3341": [
+    "  0x3129    BOPOMOFO LETTER IU"
+  ],
+  "C3342": [
+    "  &iu  "
+  ],
+  "C3343": [
+    "  0x312a    BOPOMOFO LETTER V"
+  ],
+  "C3344": [
+    "  &v4  "
+  ],
+  "C3345": [
+    "  0x312b    BOPOMOFO LETTER NG"
+  ],
+  "C3346": [
+    "  &nG  "
+  ],
+  "C3347": [
+    "  0x312c    BOPOMOFO LETTER GN"
+  ],
+  "C3348": [
+    "  &gn  "
+  ],
+  "C3349": [
+    "  0x321c    PARENTHESIZED HANGUL JU"
+  ],
+  "C3350": [
+    "  &_(JU)_  "
+  ],
+  "C3351": [
+    "  0x3220    PARENTHESIZED IDEOGRAPH ONE"
+  ],
+  "C3352": [
+    "  &1c  "
+  ],
+  "C3353": [
+    "  0x3221    PARENTHESIZED IDEOGRAPH TWO"
+  ],
+  "C3354": [
+    "  &2c  "
+  ],
+  "C3355": [
+    "  0x3222    PARENTHESIZED IDEOGRAPH THREE"
+  ],
+  "C3356": [
+    "  &3c  "
+  ],
+  "C3357": [
+    "  0x3223    PARENTHESIZED IDEOGRAPH FOUR"
+  ],
+  "C3358": [
+    "  &4c  "
+  ],
+  "C3359": [
+    "  0x3224    PARENTHESIZED IDEOGRAPH FIVE"
+  ],
+  "C3360": [
+    "  &5c  "
+  ],
+  "C3361": [
+    "  0x3225    PARENTHESIZED IDEOGRAPH SIX"
+  ],
+  "C3362": [
+    "  &6c  "
+  ],
+  "C3363": [
+    "  0x3226    PARENTHESIZED IDEOGRAPH SEVEN"
+  ],
+  "C3364": [
+    "  &7c  "
+  ],
+  "C3365": [
+    "  0x3227    PARENTHESIZED IDEOGRAPH EIGHT"
+  ],
+  "C3366": [
+    "  &8c  "
+  ],
+  "C3367": [
+    "  0x3228    PARENTHESIZED IDEOGRAPH NINE"
+  ],
+  "C3368": [
+    "  &9c  "
+  ],
+  "C3369": [
+    "  0x3229    PARENTHESIZED IDEOGRAPH TEN"
+  ],
+  "C3370": [
+    "  &_10c_  "
+  ],
+  "C3371": [
+    "  0x327f    KOREAN STANDARD SYMBOL"
+  ],
+  "C3372": [
+    "  &_KSC_  "
+  ],
+  "C3373": [
+    "  0xe001    JOIN THIS LINE WITH NEXT LINE (Mnemonic)"
+  ],
+  "C3374": [
+    "  &/c  "
+  ],
+  "C3375": [
+    "  0xe002    Unit space A (ISO-IR-8-1 064)"
+  ],
+  "C3376": [
+    "  &UA  "
+  ],
+  "C3377": [
+    "  0xe003    Unit space B (ISO-IR-8-1 096)"
+  ],
+  "C3378": [
+    "  &UB  "
+  ],
+  "C3379": [
+    "  0xe004    NON-SPACING UMLAUT (ISO-IR-38 201) (character part)"
+  ],
+  "C3380": [
+    "  &\"3  "
+  ],
+  "C3381": [
+    "  0xe005    NON-SPACING DIAERESIS WITH ACCENT (ISO-IR-70 192) (character part)"
+  ],
+  "C3382": [
+    "  &\"1  "
+  ],
+  "C3383": [
+    "  0xe006    NON-SPACING GRAVE ACCENT (ISO-IR-103 193) (character part)"
+  ],
+  "C3384": [
+    "  &\"!  "
+  ],
+  "C3385": [
+    "  0xe007    NON-SPACING ACUTE ACCENT (ISO-IR-103 194) (character part)"
+  ],
+  "C3386": [
+    "  &\"'  "
+  ],
+  "C3387": [
+    "  0xe008    NON-SPACING CIRCUMFLEX ACCENT (ISO-IR-103 195) (character part)"
+  ],
+  "C3388": [
+    "  &\">  "
+  ],
+  "C3389": [
+    "  0xe009    NON-SPACING TILDE (ISO-IR-103 196) (character part)"
+  ],
+  "C3390": [
+    "  &\"?  "
+  ],
+  "C3391": [
+    "  0xe00a    NON-SPACING MACRON (ISO-IR-103 197) (character part)"
+  ],
+  "C3392": [
+    "  &\"-  "
+  ],
+  "C3393": [
+    "  0xe00b    NON-SPACING BREVE (ISO-IR-103 198) (character part)"
+  ],
+  "C3394": [
+    "  &\"(  "
+  ],
+  "C3395": [
+    "  0xe00c    NON-SPACING DOT ABOVE (ISO-IR-103 199) (character part)"
+  ],
+  "C3396": [
+    "  &\".  "
+  ],
+  "C3397": [
+    "  0xe00d    NON-SPACING DIAERESIS (ISO-IR-103 200) (character part)"
+  ],
+  "C3398": [
+    "  &\":  "
+  ],
+  "C3399": [
+    "  0xe00e    NON-SPACING RING ABOVE (ISO-IR-103 202) (character part)"
+  ],
+  "C3400": [
+    "  &\"0  "
+  ],
+  "C3401": [
+    "  0xe00f    NON-SPACING DOUBLE ACCUTE (ISO-IR-103 204) (character part)"
+  ],
+  "C3402": [
+    "  &\"\"  "
+  ],
+  "C3403": [
+    "  0xe010    NON-SPACING CARON (ISO-IR-103 206) (character part)"
+  ],
+  "C3404": [
+    "  &\"<  "
+  ],
+  "C3405": [
+    "  0xe011    NON-SPACING CEDILLA (ISO-IR-103 203) (character part)"
+  ],
+  "C3406": [
+    "  &\",  "
+  ],
+  "C3407": [
+    "  0xe012    NON-SPACING OGONEK (ISO-IR-103 206) (character part)"
+  ],
+  "C3408": [
+    "  &\";  "
+  ],
+  "C3409": [
+    "  0xe013    NON-SPACING LOW LINE (ISO-IR-103 204) (character part)"
+  ],
+  "C3410": [
+    "  &\"_  "
+  ],
+  "C3411": [
+    "  0xe014    NON-SPACING DOUBLE LOW LINE (ISO-IR-38 217) (character part)"
+  ],
+  "C3412": [
+    "  &\"=  "
+  ],
+  "C3413": [
+    "  0xe015    NON-SPACING LONG SOLIDUS (ISO-IR-128 201) (character part)"
+  ],
+  "C3414": [
+    "  &\"/  "
+  ],
+  "C3415": [
+    "  0xe016    GREEK NON-SPACING IOTA BELOW (ISO-IR-55 39) (character part)"
+  ],
+  "C3416": [
+    "  &\"i  "
+  ],
+  "C3417": [
+    "  0xe017    GREEK NON-SPACING DASIA PNEUMATA (ISO-IR-55 38) (character part)"
+  ],
+  "C3418": [
+    "  &\"d  "
+  ],
+  "C3419": [
+    "  0xe018    GREEK NON-SPACING PSILI PNEUMATA (ISO-IR-55 37) (character part)"
+  ],
+  "C3420": [
+    "  &\"p  "
+  ],
+  "C3421": [
+    "  0xe019    GREEK DASIA PNEUMATA (ISO-IR-18 92)"
+  ],
+  "C3422": [
+    "  &;;  "
+  ],
+  "C3423": [
+    "  0xe01a    GREEK PSILI PNEUMATA (ISO-IR-18 124)"
+  ],
+  "C3424": [
+    "  &,,  "
+  ],
+  "C3425": [
+    "  0xe01b    GREEK SMALL LETTER MIDDLE BETA (ISO-IR-18 99)"
+  ],
+  "C3426": [
+    "  &b3  "
+  ],
+  "C3427": [
+    "  0xe01c    CIRCLE (ISO-IR-83 0294)"
+  ],
+  "C3428": [
+    "  &Ci  "
+  ],
+  "C3429": [
+    "  0xe01d    FUNCTION SIGN (ISO-IR-143 221)"
+  ],
+  "C3430": [
+    "  &f(  "
+  ],
+  "C3431": [
+    "  0xe01e    LATIN SMALL LETTER EZH (ISO-IR-158 142)"
+  ],
+  "C3432": [
+    "  &ed  "
+  ],
+  "C3433": [
+    "  0xe01f    ANTE MERIDIAM SIGN (ISO-IR-149 0267)"
+  ],
+  "C3434": [
+    "  &am  "
+  ],
+  "C3435": [
+    "  0xe020    POST MERIDIAM SIGN (ISO-IR-149 0268)"
+  ],
+  "C3436": [
+    "  &pm  "
+  ],
+  "C3437": [
+    "  0xe021    TEL COMPATIBILITY SIGN (ISO-IR-149 0269)"
+  ],
+  "C3438": [
+    "  &_Tel_  "
+  ],
+  "C3439": [
+    "  0xe022    ARABIC LETTER ALEF FINAL FORM COMPATIBILITY (IBM868 144)"
+  ],
+  "C3440": [
+    "  &_a+:_  "
+  ],
+  "C3441": [
+    "  0xe023    DUTCH GUILDER SIGN (IBM437 159)"
+  ],
+  "C3442": [
+    "  &Fl  "
+  ],
+  "C3443": [
+    "  0xe024    GAMMA FUNCTION SIGN (ISO-10646-1DIS 032/032/037/122)"
+  ],
+  "C3444": [
+    "  &GF  "
+  ],
+  "C3445": [
+    "  0xe025    RIGHTWARDS VECTOR ABOVE (ISO-10646-1DIS 032/032/038/046)"
+  ],
+  "C3446": [
+    "  &>V  "
+  ],
+  "C3447": [
+    "  0xe026    GREEK VARIA (ISO-10646-1DIS 032/032/042/164)"
+  ],
+  "C3448": [
+    "  &!*  "
+  ],
+  "C3449": [
+    "  0xe027    GREEK PERISPOMENI (ISO-10646-1DIS 032/032/042/165)"
+  ],
+  "C3450": [
+    "  &?*  "
+  ],
+  "C3451": [
+    "  0xe028    LATIN CAPITAL LETTER J WITH CARON (lowercase: 000/000/001/240)"
+  ],
+  "C3452": [
+    "  &J<  "
+  ],
+  "C3453": [
+    "  0xfb00    LATIN SMALL LIGATURE FF"
+  ],
+  "C3454": [
+    "  &ff  "
+  ],
+  "C3455": [
+    "  0xfb01    LATIN SMALL LIGATURE FI"
+  ],
+  "C3456": [
+    "  &fi  "
+  ],
+  "C3457": [
+    "  0xfb02    LATIN SMALL LIGATURE FL"
+  ],
+  "C3458": [
+    "  &fl  "
+  ],
+  "C3459": [
+    "  0xfb03    LATIN SMALL LIGATURE FFI"
+  ],
+  "C3460": [
+    "  &_ffi_  "
+  ],
+  "C3461": [
+    "  0xfb04    LATIN SMALL LIGATURE FFL"
+  ],
+  "C3462": [
+    "  &_ffl_  "
+  ],
+  "C3463": [
+    "  0xfb05    LATIN SMALL LIGATURE FT"
+  ],
+  "C3464": [
+    "  &ft  "
+  ],
+  "C3465": [
+    "  0xfb06    LATIN SMALL LIGATURE ST"
+  ],
+  "C3466": [
+    "  &st  "
+  ],
+  "C3467": [
+    "  0xfe7d    ARABIC SHADDA MEDIAL FORM"
+  ],
+  "C3468": [
+    "  &_3+;_  "
+  ],
+  "C3469": [
+    "  0xfe82    ARABIC LETTER ALEF WITH MADDA ABOVE FINAL FORM"
+  ],
+  "C3470": [
+    "  &_aM._  "
+  ],
+  "C3471": [
+    "  0xfe84    ARABIC LETTER ALEF WITH HAMZA ABOVE FINAL FORM"
+  ],
+  "C3472": [
+    "  &_aH._  "
+  ],
+  "C3473": [
+    "  0xfe8d    ARABIC LETTER ALEF ISOLATED FORM"
+  ],
+  "C3474": [
+    "  &_a+-_  "
+  ],
+  "C3475": [
+    "  0xfe8e    ARABIC LETTER ALEF FINAL FORM"
+  ],
+  "C3476": [
+    "  &_a+._  "
+  ],
+  "C3477": [
+    "  0xfe8f    ARABIC LETTER BEH ISOLATED FORM"
+  ],
+  "C3478": [
+    "  &_b+-_  "
+  ],
+  "C3479": [
+    "  0xfe90    ARABIC LETTER BEH INITIAL FORM"
+  ],
+  "C3480": [
+    "  &_b+,_  "
+  ],
+  "C3481": [
+    "  0xfe91    ARABIC LETTER BEH MEDIAL FORM"
+  ],
+  "C3482": [
+    "  &_b+;_  "
+  ],
+  "C3483": [
+    "  0xfe92    ARABIC LETTER BEH FINAL FORM"
+  ],
+  "C3484": [
+    "  &_b+._  "
+  ],
+  "C3485": [
+    "  0xfe93    ARABIC LETTER TEH MARBUTA ISOLATED FORM"
+  ],
+  "C3486": [
+    "  &_tm-_  "
+  ],
+  "C3487": [
+    "  0xfe94    ARABIC LETTER TEH MARBUTA FINAL FORM"
+  ],
+  "C3488": [
+    "  &_tm._  "
+  ],
+  "C3489": [
+    "  0xfe95    ARABIC LETTER TEH ISOLATED FORM"
+  ],
+  "C3490": [
+    "  &_t+-_  "
+  ],
+  "C3491": [
+    "  0xfe96    ARABIC LETTER TEH INITIAL FORM"
+  ],
+  "C3492": [
+    "  &_t+,_  "
+  ],
+  "C3493": [
+    "  0xfe97    ARABIC LETTER TEH MEDIAL FORM"
+  ],
+  "C3494": [
+    "  &_t+;_  "
+  ],
+  "C3495": [
+    "  0xfe98    ARABIC LETTER TEH FINAL FORM"
+  ],
+  "C3496": [
+    "  &_t+._  "
+  ],
+  "C3497": [
+    "  0xfe99    ARABIC LETTER THEH ISOLATED FORM"
+  ],
+  "C3498": [
+    "  &_tk-_  "
+  ],
+  "C3499": [
+    "  0xfe9a    ARABIC LETTER THEH INITIAL FORM"
+  ],
+  "C3500": [
+    "  &_tk,_  "
+  ],
+  "C3501": [
+    "  0xfe9b    ARABIC LETTER THEH MEDIAL FORM"
+  ],
+  "C3502": [
+    "  &_tk;_  "
+  ],
+  "C3503": [
+    "  0xfe9c    ARABIC LETTER THEH FINAL FORM"
+  ],
+  "C3504": [
+    "  &_tk._  "
+  ],
+  "C3505": [
+    "  0xfe9d    ARABIC LETTER JEEM ISOLATED FORM"
+  ],
+  "C3506": [
+    "  &_g+-_  "
+  ],
+  "C3507": [
+    "  0xfe9e    ARABIC LETTER JEEM INITIAL FORM"
+  ],
+  "C3508": [
+    "  &_g+,_  "
+  ],
+  "C3509": [
+    "  0xfe9f    ARABIC LETTER JEEM MEDIAL FORM"
+  ],
+  "C3510": [
+    "  &_g+;_  "
+  ],
+  "C3511": [
+    "  0xfea0    ARABIC LETTER JEEM FINAL FORM"
+  ],
+  "C3512": [
+    "  &_g+._  "
+  ],
+  "C3513": [
+    "  0xfea1    ARABIC LETTER HAH ISOLATED FORM"
+  ],
+  "C3514": [
+    "  &_hk-_  "
+  ],
+  "C3515": [
+    "  0xfea2    ARABIC LETTER HAH INITIAL FORM"
+  ],
+  "C3516": [
+    "  &_hk,_  "
+  ],
+  "C3517": [
+    "  0xfea3    ARABIC LETTER HAH MEDIAL FORM"
+  ],
+  "C3518": [
+    "  &_hk;_  "
+  ],
+  "C3519": [
+    "  0xfea4    ARABIC LETTER HAH FINAL FORM"
+  ],
+  "C3520": [
+    "  &_hk._  "
+  ],
+  "C3521": [
+    "  0xfea5    ARABIC LETTER KHAH ISOLATED FORM"
+  ],
+  "C3522": [
+    "  &_x+-_  "
+  ],
+  "C3523": [
+    "  0xfea6    ARABIC LETTER KHAH INITIAL FORM"
+  ],
+  "C3524": [
+    "  &_x+,_  "
+  ],
+  "C3525": [
+    "  0xfea7    ARABIC LETTER KHAH MEDIAL FORM"
+  ],
+  "C3526": [
+    "  &_x+;_  "
+  ],
+  "C3527": [
+    "  0xfea8    ARABIC LETTER KHAH FINAL FORM"
+  ],
+  "C3528": [
+    "  &_x+._  "
+  ],
+  "C3529": [
+    "  0xfea9    ARABIC LETTER DAL ISOLATED FORM"
+  ],
+  "C3530": [
+    "  &_d+-_  "
+  ],
+  "C3531": [
+    "  0xfeaa    ARABIC LETTER DAL FINAL FORM"
+  ],
+  "C3532": [
+    "  &_d+._  "
+  ],
+  "C3533": [
+    "  0xfeab    ARABIC LETTER THAL ISOLATED FORM"
+  ],
+  "C3534": [
+    "  &_dk-_  "
+  ],
+  "C3535": [
+    "  0xfeac    ARABIC LETTER THAL FINAL FORM"
+  ],
+  "C3536": [
+    "  &_dk._  "
+  ],
+  "C3537": [
+    "  0xfead    ARABIC LETTER REH ISOLATED FORM"
+  ],
+  "C3538": [
+    "  &_r+-_  "
+  ],
+  "C3539": [
+    "  0xfeae    ARABIC LETTER REH FINAL FORM"
+  ],
+  "C3540": [
+    "  &_r+._  "
+  ],
+  "C3541": [
+    "  0xfeaf    ARABIC LETTER ZAIN ISOLATED FORM"
+  ],
+  "C3542": [
+    "  &_z+-_  "
+  ],
+  "C3543": [
+    "  0xfeb0    ARABIC LETTER ZAIN FINAL FORM"
+  ],
+  "C3544": [
+    "  &_z+._  "
+  ],
+  "C3545": [
+    "  0xfeb1    ARABIC LETTER SEEN ISOLATED FORM"
+  ],
+  "C3546": [
+    "  &_s+-_  "
+  ],
+  "C3547": [
+    "  0xfeb2    ARABIC LETTER SEEN INITIAL FORM"
+  ],
+  "C3548": [
+    "  &_s+,_  "
+  ],
+  "C3549": [
+    "  0xfeb3    ARABIC LETTER SEEN MEDIAL FORM"
+  ],
+  "C3550": [
+    "  &_s+;_  "
+  ],
+  "C3551": [
+    "  0xfeb4    ARABIC LETTER SEEN FINAL FORM"
+  ],
+  "C3552": [
+    "  &_s+._  "
+  ],
+  "C3553": [
+    "  0xfeb5    ARABIC LETTER SHEEN ISOLATED FORM"
+  ],
+  "C3554": [
+    "  &_sn-_  "
+  ],
+  "C3555": [
+    "  0xfeb6    ARABIC LETTER SHEEN INITIAL FORM"
+  ],
+  "C3556": [
+    "  &_sn,_  "
+  ],
+  "C3557": [
+    "  0xfeb7    ARABIC LETTER SHEEN MEDIAL FORM"
+  ],
+  "C3558": [
+    "  &_sn;_  "
+  ],
+  "C3559": [
+    "  0xfeb8    ARABIC LETTER SHEEN FINAL FORM"
+  ],
+  "C3560": [
+    "  &_sn._  "
+  ],
+  "C3561": [
+    "  0xfeb9    ARABIC LETTER SAD ISOLATED FORM"
+  ],
+  "C3562": [
+    "  &_c+-_  "
+  ],
+  "C3563": [
+    "  0xfeba    ARABIC LETTER SAD INITIAL FORM"
+  ],
+  "C3564": [
+    "  &_c+,_  "
+  ],
+  "C3565": [
+    "  0xfebb    ARABIC LETTER SAD MEDIAL FORM"
+  ],
+  "C3566": [
+    "  &_c+;_  "
+  ],
+  "C3567": [
+    "  0xfebc    ARABIC LETTER SAD FINAL FORM"
+  ],
+  "C3568": [
+    "  &_c+._  "
+  ],
+  "C3569": [
+    "  0xfebd    ARABIC LETTER DAD ISOLATED FORM"
+  ],
+  "C3570": [
+    "  &_dd-_  "
+  ],
+  "C3571": [
+    "  0xfebe    ARABIC LETTER DAD INITIAL FORM"
+  ],
+  "C3572": [
+    "  &_dd,_  "
+  ],
+  "C3573": [
+    "  0xfebf    ARABIC LETTER DAD MEDIAL FORM"
+  ],
+  "C3574": [
+    "  &_dd;_  "
+  ],
+  "C3575": [
+    "  0xfec0    ARABIC LETTER DAD FINAL FORM"
+  ],
+  "C3576": [
+    "  &_dd._  "
+  ],
+  "C3577": [
+    "  0xfec1    ARABIC LETTER TAH ISOLATED FORM"
+  ],
+  "C3578": [
+    "  &_tj-_  "
+  ],
+  "C3579": [
+    "  0xfec2    ARABIC LETTER TAH INITIAL FORM"
+  ],
+  "C3580": [
+    "  &_tj,_  "
+  ],
+  "C3581": [
+    "  0xfec3    ARABIC LETTER TAH MEDIAL FORM"
+  ],
+  "C3582": [
+    "  &_tj;_  "
+  ],
+  "C3583": [
+    "  0xfec4    ARABIC LETTER TAH FINAL FORM"
+  ],
+  "C3584": [
+    "  &_tj._  "
+  ],
+  "C3585": [
+    "  0xfec5    ARABIC LETTER ZAH ISOLATED FORM"
+  ],
+  "C3586": [
+    "  &_zH-_  "
+  ],
+  "C3587": [
+    "  0xfec6    ARABIC LETTER ZAH INITIAL FORM"
+  ],
+  "C3588": [
+    "  &_zH,_  "
+  ],
+  "C3589": [
+    "  0xfec7    ARABIC LETTER ZAH MEDIAL FORM"
+  ],
+  "C3590": [
+    "  &_zH;_  "
+  ],
+  "C3591": [
+    "  0xfec8    ARABIC LETTER ZAH FINAL FORM"
+  ],
+  "C3592": [
+    "  &_zH._  "
+  ],
+  "C3593": [
+    "  0xfec9    ARABIC LETTER AIN ISOLATED FORM"
+  ],
+  "C3594": [
+    "  &_e+-_  "
+  ],
+  "C3595": [
+    "  0xfeca    ARABIC LETTER AIN INITIAL FORM"
+  ],
+  "C3596": [
+    "  &_e+,_  "
+  ],
+  "C3597": [
+    "  0xfecb    ARABIC LETTER AIN MEDIAL FORM"
+  ],
+  "C3598": [
+    "  &_e+;_  "
+  ],
+  "C3599": [
+    "  0xfecc    ARABIC LETTER AIN FINAL FORM"
+  ],
+  "C3600": [
+    "  &_e+._  "
+  ],
+  "C3601": [
+    "  0xfecd    ARABIC LETTER GHAIN ISOLATED FORM"
+  ],
+  "C3602": [
+    "  &_i+-_  "
+  ],
+  "C3603": [
+    "  0xfece    ARABIC LETTER GHAIN INITIAL FORM"
+  ],
+  "C3604": [
+    "  &_i+,_  "
+  ],
+  "C3605": [
+    "  0xfecf    ARABIC LETTER GHAIN MEDIAL FORM"
+  ],
+  "C3606": [
+    "  &_i+;_  "
+  ],
+  "C3607": [
+    "  0xfed0    ARABIC LETTER GHAIN FINAL FORM"
+  ],
+  "C3608": [
+    "  &_i+._  "
+  ],
+  "C3609": [
+    "  0xfed1    ARABIC LETTER FEH ISOLATED FORM"
+  ],
+  "C3610": [
+    "  &_f+-_  "
+  ],
+  "C3611": [
+    "  0xfed2    ARABIC LETTER FEH INITIAL FORM"
+  ],
+  "C3612": [
+    "  &_f+,_  "
+  ],
+  "C3613": [
+    "  0xfed3    ARABIC LETTER FEH MEDIAL FORM"
+  ],
+  "C3614": [
+    "  &_f+;_  "
+  ],
+  "C3615": [
+    "  0xfed4    ARABIC LETTER FEH FINAL FORM"
+  ],
+  "C3616": [
+    "  &_f+._  "
+  ],
+  "C3617": [
+    "  0xfed5    ARABIC LETTER QAF ISOLATED FORM"
+  ],
+  "C3618": [
+    "  &_q+-_  "
+  ],
+  "C3619": [
+    "  0xfed6    ARABIC LETTER QAF INITIAL FORM"
+  ],
+  "C3620": [
+    "  &_q+,_  "
+  ],
+  "C3621": [
+    "  0xfed7    ARABIC LETTER QAF MEDIAL FORM"
+  ],
+  "C3622": [
+    "  &_q+;_  "
+  ],
+  "C3623": [
+    "  0xfed8    ARABIC LETTER QAF FINAL FORM"
+  ],
+  "C3624": [
+    "  &_q+._  "
+  ],
+  "C3625": [
+    "  0xfed9    ARABIC LETTER KAF ISOLATED FORM"
+  ],
+  "C3626": [
+    "  &_k+-_  "
+  ],
+  "C3627": [
+    "  0xfeda    ARABIC LETTER KAF INITIAL FORM"
+  ],
+  "C3628": [
+    "  &_k+,_  "
+  ],
+  "C3629": [
+    "  0xfedb    ARABIC LETTER KAF MEDIAL FORM"
+  ],
+  "C3630": [
+    "  &_k+;_  "
+  ],
+  "C3631": [
+    "  0xfedc    ARABIC LETTER KAF FINAL FORM"
+  ],
+  "C3632": [
+    "  &_k+._  "
+  ],
+  "C3633": [
+    "  0xfedd    ARABIC LETTER LAM ISOLATED FORM"
+  ],
+  "C3634": [
+    "  &_l+-_  "
+  ],
+  "C3635": [
+    "  0xfede    ARABIC LETTER LAM INITIAL FORM"
+  ],
+  "C3636": [
+    "  &_l+,_  "
+  ],
+  "C3637": [
+    "  0xfedf    ARABIC LETTER LAM MEDIAL FORM"
+  ],
+  "C3638": [
+    "  &_l+;_  "
+  ],
+  "C3639": [
+    "  0xfee0    ARABIC LETTER LAM FINAL FORM"
+  ],
+  "C3640": [
+    "  &_l+._  "
+  ],
+  "C3641": [
+    "  0xfee1    ARABIC LETTER MEEM ISOLATED FORM"
+  ],
+  "C3642": [
+    "  &_m+-_  "
+  ],
+  "C3643": [
+    "  0xfee2    ARABIC LETTER MEEM INITIAL FORM"
+  ],
+  "C3644": [
+    "  &_m+,_  "
+  ],
+  "C3645": [
+    "  0xfee3    ARABIC LETTER MEEM MEDIAL FORM"
+  ],
+  "C3646": [
+    "  &_m+;_  "
+  ],
+  "C3647": [
+    "  0xfee4    ARABIC LETTER MEEM FINAL FORM"
+  ],
+  "C3648": [
+    "  &_m+._  "
+  ],
+  "C3649": [
+    "  0xfee5    ARABIC LETTER NOON ISOLATED FORM"
+  ],
+  "C3650": [
+    "  &_n+-_  "
+  ],
+  "C3651": [
+    "  0xfee6    ARABIC LETTER NOON INITIAL FORM"
+  ],
+  "C3652": [
+    "  &_n+,_  "
+  ],
+  "C3653": [
+    "  0xfee7    ARABIC LETTER NOON MEDIAL FORM"
+  ],
+  "C3654": [
+    "  &_n+;_  "
+  ],
+  "C3655": [
+    "  0xfee8    ARABIC LETTER NOON FINAL FORM"
+  ],
+  "C3656": [
+    "  &_n+._  "
+  ],
+  "C3657": [
+    "  0xfee9    ARABIC LETTER HEH ISOLATED FORM"
+  ],
+  "C3658": [
+    "  &_h+-_  "
+  ],
+  "C3659": [
+    "  0xfeea    ARABIC LETTER HEH INITIAL FORM"
+  ],
+  "C3660": [
+    "  &_h+,_  "
+  ],
+  "C3661": [
+    "  0xfeeb    ARABIC LETTER HEH MEDIAL FORM"
+  ],
+  "C3662": [
+    "  &_h+;_  "
+  ],
+  "C3663": [
+    "  0xfeec    ARABIC LETTER HEH FINAL FORM"
+  ],
+  "C3664": [
+    "  &_h+._  "
+  ],
+  "C3665": [
+    "  0xfeed    ARABIC LETTER WAW ISOLATED FORM"
+  ],
+  "C3666": [
+    "  &_w+-_  "
+  ],
+  "C3667": [
+    "  0xfeee    ARABIC LETTER WAW FINAL FORM"
+  ],
+  "C3668": [
+    "  &_w+._  "
+  ],
+  "C3669": [
+    "  0xfeef    ARABIC LETTER ALEF MAKSURA ISOLATED FORM"
+  ],
+  "C3670": [
+    "  &_j+-_  "
+  ],
+  "C3671": [
+    "  0xfef0    ARABIC LETTER ALEF MAKSURA FINAL FORM"
+  ],
+  "C3672": [
+    "  &_j+._  "
+  ],
+  "C3673": [
+    "  0xfef1    ARABIC LETTER YEH ISOLATED FORM"
+  ],
+  "C3674": [
+    "  &_y+-_  "
+  ],
+  "C3675": [
+    "  0xfef2    ARABIC LETTER YEH INITIAL FORM"
+  ],
+  "C3676": [
+    "  &_y+,_  "
+  ],
+  "C3677": [
+    "  0xfef3    ARABIC LETTER YEH MEDIAL FORM"
+  ],
+  "C3678": [
+    "  &_y+;_  "
+  ],
+  "C3679": [
+    "  0xfef4    ARABIC LETTER YEH FINAL FORM"
+  ],
+  "C3680": [
+    "  &_y+._  "
+  ],
+  "C3681": [
+    "  0xfef5    ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE ISOLATED FORM"
+  ],
+  "C3682": [
+    "  &_lM-_  "
+  ],
+  "C3683": [
+    "  0xfef6    ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE FINAL FORM"
+  ],
+  "C3684": [
+    "  &_lM._  "
+  ],
+  "C3685": [
+    "  0xfef7    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE ISOLATED FORM"
+  ],
+  "C3686": [
+    "  &_lH-_  "
+  ],
+  "C3687": [
+    "  0xfef8    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE FINAL FORM"
+  ],
+  "C3688": [
+    "  &_lH._  "
+  ],
+  "C3689": [
+    "  0xfef9    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM"
+  ],
+  "C3690": [
+    "  &_lh-_  "
+  ],
+  "C3691": [
+    "  0xfefa    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW FINAL FORM"
+  ],
+  "C3692": [
+    "  &_lh._  "
+  ],
+  "C3693": [
+    "  0xfefb    ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM"
+  ],
+  "C3694": [
+    "  &_la-_  "
+  ],
+  "C3695": [
+    "  0xfefc    ARABIC LIGATURE LAM WITH ALEF FINAL FORM"
+  ],
+  "C3696": [
+    "  &_la._  "
+  ]
+}

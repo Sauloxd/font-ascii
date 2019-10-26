@@ -1,0 +1,821 @@
+{
+  "buffer": [
+    "  "
+  ],
+  "C1": [
+    "     ",
+    "     ",
+    "     ",
+    "     ",
+    "     ",
+    "      "
+  ],
+  "C2": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C3": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C4": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C5": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C6": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C7": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C8": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C9": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C10": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C11": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C12": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C13": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C14": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C15": [
+    "         ",
+    "         ",
+    "         ",
+    "  amr  ",
+    " dMP   ",
+    "          "
+  ],
+  "C16": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C17": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C18": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C19": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C20": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C21": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C22": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C23": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C24": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C25": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C26": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C27": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C28": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C29": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C30": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C31": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C32": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C33": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C34": [
+    "     .aMMMb  ",
+    "    dMP\"dMP  ",
+    "    dMMMMMP   ",
+    "   dMP dMP    ",
+    "  dMP dMP     ",
+    "               "
+  ],
+  "C35": [
+    "     dMMMMb  ",
+    "    dMP\"dMP  ",
+    "    dMMMMK\"   ",
+    "   dMP.aMF    ",
+    "  dMMMMP\"     ",
+    "               "
+  ],
+  "C36": [
+    "    .aMMMb  ",
+    "   dMP\"VMP  ",
+    "   dMP       ",
+    "  dMP.aMP    ",
+    "  VMMMP\"     ",
+    "              "
+  ],
+  "C37": [
+    "     dMMMMb  ",
+    "    dMP VMP  ",
+    "    dMP dMP   ",
+    "   dMP.aMP    ",
+    "  dMMMMP\"     ",
+    "               "
+  ],
+  "C38": [
+    "     dMMMMMP  ",
+    "     dMP       ",
+    "    dMMMP      ",
+    "   dMP         ",
+    "  dMMMMMP      ",
+    "                "
+  ],
+  "C39": [
+    "     dMMMMMP  ",
+    "     dMP       ",
+    "    dMMMP      ",
+    "   dMP         ",
+    "  dMP          ",
+    "                "
+  ],
+  "C40": [
+    "    .aMMMMP  ",
+    "    dMP\"      ",
+    "   dMP MMP\"   ",
+    "  dMP.dMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C41": [
+    "     dMP dMP  ",
+    "     dMP dMP   ",
+    "    dMMMMMP    ",
+    "   dMP dMP     ",
+    "  dMP dMP      ",
+    "                "
+  ],
+  "C42": [
+    "     dMP  ",
+    "     amr   ",
+    "    dMP    ",
+    "   dMP     ",
+    "  dMP      ",
+    "            "
+  ],
+  "C43": [
+    "    dMMMMMP  ",
+    "        dMP   ",
+    "       dMP    ",
+    "  dK .dMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C44": [
+    "     dMP dMP  ",
+    "     dMP.dMP   ",
+    "    dMMMMK\"    ",
+    "   dMP\"AMF     ",
+    "  dMP dMP      ",
+    "                "
+  ],
+  "C45": [
+    "     dMP  ",
+    "     dMP   ",
+    "    dMP    ",
+    "   dMP     ",
+    " dMMMMMP  ",
+    "            "
+  ],
+  "C46": [
+    "     dMMMMMMMMb  ",
+    "    dMP\"dMP\"dMP  ",
+    "    dMP dMP dMP   ",
+    "   dMP dMP dMP    ",
+    "  dMP dMP dMP     ",
+    "                   "
+  ],
+  "C47": [
+    "     dMMMMb  ",
+    "    dMP dMP  ",
+    "    dMP dMP   ",
+    "   dMP dMP    ",
+    "  dMP dMP     ",
+    "               "
+  ],
+  "C48": [
+    "    .aMMMb  ",
+    "   dMP\"dMP  ",
+    "   dMP dMP   ",
+    "  dMP.aMP    ",
+    "  VMMMP\"     ",
+    "              "
+  ],
+  "C49": [
+    "     dMMMMb  ",
+    "    dMP.dMP  ",
+    "    dMMMMP\"   ",
+    "   dMP        ",
+    "  dMP         ",
+    "               "
+  ],
+  "C50": [
+    "    .aMMMb  ",
+    "   dMP\"dMP  ",
+    "   dMP.dMP   ",
+    "  dMP.MMP    ",
+    "  VMMP\"MP    ",
+    "              "
+  ],
+  "C51": [
+    "     dMMMMb  ",
+    "    dMP.dMP  ",
+    "    dMMMMK\"   ",
+    "   dMP\"AMF    ",
+    "  dMP dMP     ",
+    "               "
+  ],
+  "C52": [
+    "    .dMMMb  ",
+    "   dMP\" VP  ",
+    "    VMMMb    ",
+    "  dP .dMP    ",
+    "  VMMMP\"     ",
+    "              "
+  ],
+  "C53": [
+    "  dMMMMMMP  ",
+    "     dMP     ",
+    "    dMP      ",
+    "   dMP       ",
+    "  dMP        ",
+    "              "
+  ],
+  "C54": [
+    "    dMP dMP  ",
+    "    dMP dMP   ",
+    "   dMP dMP    ",
+    "  dMP.aMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C55": [
+    "   dMP dMP  ",
+    "   dMP dMP   ",
+    "  dMP dMP    ",
+    "  YMvAP\"     ",
+    "   VP\"       ",
+    "              "
+  ],
+  "C56": [
+    "    dMP dMP dMP  ",
+    "    dMP dMP dMP   ",
+    "   dMP dMP dMP    ",
+    "  dMP.dMP.dMP     ",
+    "  VMMMPVMMP\"      ",
+    "                   "
+  ],
+  "C57": [
+    "     dMP dMP  ",
+    "     dMK.dMP   ",
+    "    .dMMMK\"    ",
+    "   dMP\"AMF     ",
+    "  dMP dMP      ",
+    "                "
+  ],
+  "C58": [
+    "    dMP dMP  ",
+    "    dMP.dMP   ",
+    "    VMMMMP    ",
+    "  dA .dMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C59": [
+    "     dMMMMMP  ",
+    "       .dMP\"   ",
+    "     .dMP\"     ",
+    "   .dMP\"       ",
+    "  dMMMMMP      ",
+    "                "
+  ],
+  "C60": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C61": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C62": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C63": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C64": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C65": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C66": [
+    "     .aMMMb  ",
+    "    dMP\"dMP  ",
+    "    dMMMMMP   ",
+    "   dMP dMP    ",
+    "  dMP dMP     ",
+    "               "
+  ],
+  "C67": [
+    "     dMMMMb  ",
+    "    dMP\"dMP  ",
+    "    dMMMMK\"   ",
+    "   dMP.aMF    ",
+    "  dMMMMP\"     ",
+    "               "
+  ],
+  "C68": [
+    "    .aMMMb  ",
+    "   dMP\"VMP  ",
+    "   dMP       ",
+    "  dMP.aMP    ",
+    "  VMMMP\"     ",
+    "              "
+  ],
+  "C69": [
+    "     dMMMMb  ",
+    "    dMP VMP  ",
+    "    dMP dMP   ",
+    "   dMP.aMP    ",
+    "  dMMMMP\"     ",
+    "               "
+  ],
+  "C70": [
+    "     dMMMMMP  ",
+    "     dMP       ",
+    "    dMMMP      ",
+    "   dMP         ",
+    "  dMMMMMP      ",
+    "                "
+  ],
+  "C71": [
+    "     dMMMMMP  ",
+    "     dMP       ",
+    "    dMMMP      ",
+    "   dMP         ",
+    "  dMP          ",
+    "                "
+  ],
+  "C72": [
+    "    .aMMMMP  ",
+    "    dMP\"      ",
+    "   dMP MMP\"   ",
+    "  dMP.dMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C73": [
+    "     dMP dMP  ",
+    "     dMP dMP   ",
+    "    dMMMMMP    ",
+    "   dMP dMP     ",
+    "  dMP dMP      ",
+    "                "
+  ],
+  "C74": [
+    "     dMP  ",
+    "     amr   ",
+    "    dMP    ",
+    "   dMP     ",
+    "  dMP      ",
+    "            "
+  ],
+  "C75": [
+    "    dMMMMMP  ",
+    "        dMP   ",
+    "       dMP    ",
+    "  dK .dMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C76": [
+    "     dMP dMP  ",
+    "     dMP.dMP   ",
+    "    dMMMMK\"    ",
+    "   dMP\"AMF     ",
+    "  dMP dMP      ",
+    "                "
+  ],
+  "C77": [
+    "     dMP  ",
+    "     dMP   ",
+    "    dMP    ",
+    "   dMP     ",
+    " dMMMMMP  ",
+    "            "
+  ],
+  "C78": [
+    "     dMMMMMMMMb  ",
+    "     dMP\"dMP\"dMP  ",
+    "    dMP dMP dMP   ",
+    "   dMP dMP dMP    ",
+    "  dMP dMP dMP     ",
+    "                   "
+  ],
+  "C79": [
+    "     dMMMMb  ",
+    "    dMP dMP  ",
+    "    dMP dMP   ",
+    "   dMP dMP    ",
+    "  dMP dMP     ",
+    "               "
+  ],
+  "C80": [
+    "    .aMMMb  ",
+    "   dMP\"dMP  ",
+    "   dMP dMP   ",
+    "  dMP.aMP    ",
+    "  VMMMP\"     ",
+    "              "
+  ],
+  "C81": [
+    "     dMMMMb  ",
+    "    dMP.dMP  ",
+    "    dMMMMP\"   ",
+    "   dMP        ",
+    "  dMP         ",
+    "               "
+  ],
+  "C82": [
+    "    .aMMMb  ",
+    "   dMP\"dMP  ",
+    "   dMP.dMP   ",
+    "  dMP.MMP    ",
+    "  VMMP\"MP    ",
+    "              "
+  ],
+  "C83": [
+    "     dMMMMb  ",
+    "    dMP.dMP  ",
+    "    dMMMMK\"   ",
+    "   dMP\"AMF    ",
+    "  dMP dMP     ",
+    "               "
+  ],
+  "C84": [
+    "    .dMMMb  ",
+    "   dMP\" VP  ",
+    "    VMMMb    ",
+    "  dP .dMP    ",
+    "  VMMMP\"     ",
+    "              "
+  ],
+  "C85": [
+    "  dMMMMMMP  ",
+    "     dMP     ",
+    "    dMP      ",
+    "   dMP       ",
+    "  dMP        ",
+    "              "
+  ],
+  "C86": [
+    "    dMP dMP  ",
+    "    dMP dMP   ",
+    "   dMP dMP    ",
+    "  dMP.aMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C87": [
+    "   dMP dMP  ",
+    "   dMP dMP   ",
+    "  dMP dMP    ",
+    "  YMvAP\"     ",
+    "   VP\"       ",
+    "              "
+  ],
+  "C88": [
+    "    dMP dMP dMP  ",
+    "    dMP dMP dMP   ",
+    "   dMP dMP dMP    ",
+    "  dMP.dMP.dMP     ",
+    "  VMMMPVMMP\"      ",
+    "                   "
+  ],
+  "C89": [
+    "     dMP dMP  ",
+    "     dMK.dMP   ",
+    "    .dMMMK\"    ",
+    "   dMP\"AMF     ",
+    "  dMP dMP      ",
+    "                "
+  ],
+  "C90": [
+    "    dMP dMP  ",
+    "    dMP.dMP   ",
+    "    VMMMMP    ",
+    "  dA .dMP     ",
+    "  VMMMP\"      ",
+    "               "
+  ],
+  "C91": [
+    "     dMMMMMP  ",
+    "       .dMP\"   ",
+    "     .dMP\"     ",
+    "   .dMP\"       ",
+    "  dMMMMMP      ",
+    "                "
+  ],
+  "C92": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C93": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C94": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C95": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C96": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C97": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C98": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C99": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C100": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C101": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ],
+  "C102": [
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "   ",
+    "    "
+  ]
+}

@@ -613,720 +613,576 @@
     "  |     "
   ],
   "C103": [
-    "  160  NO-BREAK SPACE",
     "    ",
     "    ",
-    "    "
+    "    ",
+    "     "
   ],
   "C104": [
-    "    @",
-    "  161  INVERTED EXCLAMATION MARK",
     "      ",
-    "  o  "
+    "  o  ",
+    "  |  ",
+    "       "
   ],
   "C105": [
-    "  |  ",
-    "      @",
-    "  162  CENT SIGN",
-    "        "
-  ],
-  "C106": [
+    "        ",
     "   |_  ",
     "  (__  ",
-    "   |   @",
-    "  163  POUND SIGN"
+    "   |    "
   ],
-  "C107": [
+  "C106": [
     "     _    ",
     "   _/_`   ",
     "    |___  ",
     "            "
   ],
-  "C108": [
-    "  164  CURRENCY SIGN",
+  "C107": [
     "        ",
     "  `o'  ",
-    "  ' `  "
+    "  ' `  ",
+    "         "
+  ],
+  "C108": [
+    "          ",
+    "  _\\_/_  ",
+    "  --|--  ",
+    "           "
   ],
   "C109": [
-    "        @",
-    "  165  YEN SIGN",
-    "          ",
-    "  _\\_/_  "
+    "  |  ",
+    "  |  ",
+    "  |  ",
+    "  |   "
   ],
   "C110": [
-    "  --|--  ",
-    "          @",
-    "  166  BROKEN BAR",
-    "  |  "
-  ],
-  "C111": [
-    "  |  ",
-    "  |  ",
-    "  |  @",
-    "  167  SECTION SIGN"
-  ],
-  "C112": [
     "   _  ",
     "  (   ",
     "  ()  ",
     "  _)   "
   ],
-  "C113": [
-    "  168  DIAERESIS",
+  "C111": [
     "  o o  ",
     "        ",
-    "        "
+    "        ",
+    "         "
   ],
-  "C114": [
-    "        @",
-    "  169  COPYRIGHT SIGN",
+  "C112": [
     "   _   ",
-    "  |C|  "
-  ],
-  "C115": [
+    "  |C|  ",
     "  `-'  ",
-    "        @",
-    "  170  FEMININE ORDINAL INDICATOR",
-    "   _.  "
+    "         "
   ],
-  "C116": [
+  "C113": [
+    "   _.  ",
     "  (_|  ",
     "  ---  ",
-    "        @",
-    "  171  LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+    "         "
   ],
-  "C117": [
+  "C114": [
     "       ",
     "  //  ",
     "  \\\\  ",
     "        "
   ],
-  "C118": [
-    "  172  NOT SIGN",
+  "C115": [
     "        ",
     "  __   ",
-    "    |  "
+    "    |  ",
+    "         "
   ],
-  "C119": [
-    "        @",
-    "  173  SOFT HYPHEN",
+  "C116": [
     "      ",
-    "  _  "
-  ],
-  "C120": [
+    "  _  ",
     "      ",
-    "      @",
-    "  174  REGISTERED SIGN",
-    "   _   "
+    "       "
   ],
-  "C121": [
+  "C117": [
+    "   _   ",
     "  |R|  ",
     "  `-'  ",
-    "        @",
-    "  175  MACRON"
+    "         "
   ],
-  "C122": [
+  "C118": [
     "  __  ",
     "       ",
     "       ",
     "        "
   ],
-  "C123": [
-    "  176  DEGREE SIGN",
+  "C119": [
     "  O  ",
     "      ",
-    "      "
+    "      ",
+    "       "
   ],
-  "C124": [
-    "      @",
-    "  177  PLUS-MINUS SIGN",
+  "C120": [
     "        ",
-    "  _|_  "
-  ],
-  "C125": [
     "  _|_  ",
-    "        @",
-    "  178  SUPERSCRIPT TWO",
-    "  2  "
+    "  _|_  ",
+    "         "
   ],
-  "C126": [
+  "C121": [
+    "  2  ",
     "      ",
     "      ",
-    "      @",
-    "  179  SUPERSCRIPT THREE"
+    "       "
   ],
-  "C127": [
+  "C122": [
     "  3  ",
     "      ",
     "      ",
     "       "
   ],
-  "C128": [
-    "  180  ACUTE ACCENT",
+  "C123": [
     "  /  ",
     "      ",
-    "      "
+    "      ",
+    "       "
   ],
-  "C129": [
-    "      @",
-    "  181  MICRO SIGN",
+  "C124": [
     "        ",
-    "        "
-  ],
-  "C130": [
+    "        ",
     "  |_|  ",
-    "  |    @",
-    "  182  PILCROW SIGN",
-    "   __   "
+    "  |     "
   ],
-  "C131": [
+  "C125": [
+    "   __   ",
     "  (| |  ",
     "   | |  ",
-    "         @",
-    "  183  MIDDLE DOT"
+    "          "
   ],
-  "C132": [
+  "C126": [
     "      ",
     "  o  ",
     "      ",
     "       "
   ],
-  "C133": [
-    "  184  CEDILLA",
+  "C127": [
     "      ",
     "      ",
-    "      "
+    "      ",
+    "  S   "
   ],
-  "C134": [
-    "  S  @",
-    "  185  SUPERSCRIPT ONE",
+  "C128": [
     "  1  ",
-    "      "
-  ],
-  "C135": [
     "      ",
-    "      @",
-    "  186  MASCULINE ORDINAL INDICATOR",
-    "   _   "
+    "      ",
+    "       "
   ],
-  "C136": [
+  "C129": [
+    "   _   ",
     "  (_)  ",
     "  ---  ",
-    "        @",
-    "  187  RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+    "         "
   ],
-  "C137": [
+  "C130": [
     "       ",
     "  \\\\  ",
     "  //  ",
     "        "
   ],
-  "C138": [
-    "  188  VULGAR FRACTION ONE QUARTER",
+  "C131": [
     "       ",
     "  1/  ",
-    "  /4  "
+    "  /4  ",
+    "        "
   ],
-  "C139": [
-    "       @",
-    "  189  VULGAR FRACTION ONE HALF",
+  "C132": [
     "       ",
-    "  1/  "
-  ],
-  "C140": [
+    "  1/  ",
     "  /2  ",
-    "       @",
-    "  190  VULGAR FRACTION THREE QUARTERS",
-    "       "
+    "        "
   ],
-  "C141": [
+  "C133": [
+    "       ",
     "  3/  ",
     "  /4  ",
-    "       @",
-    "  191  INVERTED QUESTION MARK"
+    "        "
   ],
-  "C142": [
+  "C134": [
     "       ",
     "   o  ",
     "  (_  ",
     "        "
   ],
-  "C143": [
-    "  192  LATIN CAPITAL LETTER A WITH GRAVE",
+  "C135": [
     "    \\   ",
     "   /\\   ",
-    "  /--\\  "
-  ],
-  "C144": [
-    "         @",
-    "  193  LATIN CAPITAL LETTER A WITH ACUTE",
-    "   /    ",
-    "   /\\   "
-  ],
-  "C145": [
     "  /--\\  ",
-    "         @",
-    "  194  LATIN CAPITAL LETTER A WITH CIRCUMFLEX",
-    "   /\\   "
+    "          "
   ],
-  "C146": [
+  "C136": [
+    "   /    ",
     "   /\\   ",
     "  /--\\  ",
-    "         @",
-    "  195  LATIN CAPITAL LETTER A WITH TILDE"
+    "          "
   ],
-  "C147": [
+  "C137": [
+    "   /\\   ",
+    "   /\\   ",
+    "  /--\\  ",
+    "          "
+  ],
+  "C138": [
     "   /\\/  ",
     "   /\\   ",
     "  /--\\  ",
     "          "
   ],
-  "C148": [
-    "  196  LATIN CAPITAL LETTER A WITH DIAERESIS",
+  "C139": [
     "  o  o  ",
     "   /\\   ",
-    "  /--\\  "
+    "  /--\\  ",
+    "          "
   ],
-  "C149": [
-    "         @",
-    "  197  LATIN CAPITAL LETTER A WITH RING ABOVE",
+  "C140": [
     "    O    ",
-    "   / \\   "
-  ],
-  "C150": [
+    "   / \\   ",
     "  /---\\  ",
-    "          @",
-    "  198  LATIN CAPITAL LETTER AE",
-    "     _  "
+    "           "
   ],
-  "C151": [
+  "C141": [
+    "     _  ",
     "   /|_  ",
     "  /-|_  ",
-    "         @",
-    "  199  LATIN CAPITAL LETTER C WITH CEDILLA"
+    "          "
   ],
-  "C152": [
+  "C142": [
     "   _  ",
     "  /   ",
     "  \\_  ",
     "   S   "
   ],
-  "C153": [
-    "  200  LATIN CAPITAL LETTER E WITH GRAVE",
+  "C143": [
     "  \\_  ",
     "  |_  ",
-    "  |_  "
+    "  |_  ",
+    "        "
   ],
-  "C154": [
-    "       @",
-    "  201  LATIN CAPITAL LETTER E WITH ACUTE",
+  "C144": [
     "   _/  ",
-    "  |_   "
-  ],
-  "C155": [
-    "  |_   ",
-    "        @",
-    "  202  LATIN CAPITAL LETTER E WITH CIRCUMFLEX",
-    "   /\\  "
-  ],
-  "C156": [
     "  |_   ",
     "  |_   ",
-    "        @",
-    "  203  LATIN CAPITAL LETTER E WITH DIAERESIS"
+    "         "
   ],
-  "C157": [
+  "C145": [
+    "   /\\  ",
+    "  |_   ",
+    "  |_   ",
+    "         "
+  ],
+  "C146": [
     "  o_o  ",
     "  |_   ",
     "  |_   ",
     "         "
   ],
-  "C158": [
-    "  204  LATIN CAPITAL LETTER I WITH GRAVE",
+  "C147": [
     "  \\__  ",
     "   |   ",
-    "  _|_  "
-  ],
-  "C159": [
-    "        @",
-    "  205  LATIN CAPITAL LETTER I WITH ACUTE",
-    "  __/  ",
-    "   |   "
-  ],
-  "C160": [
     "  _|_  ",
-    "        @",
-    "  206  LATIN CAPITAL LETTER I WITH CIRCUMFLEX",
-    "   /\\  "
+    "         "
   ],
-  "C161": [
+  "C148": [
+    "  __/  ",
+    "   |   ",
+    "  _|_  ",
+    "         "
+  ],
+  "C149": [
+    "   /\\  ",
     "  ___  ",
     "  _|_  ",
-    "        @",
-    "  207  LATIN CAPITAL LETTER I WITH DIAERESIS"
+    "         "
   ],
-  "C162": [
+  "C150": [
     "  o_o  ",
     "   |   ",
     "  _|_  ",
     "         "
   ],
-  "C163": [
-    "  208  LATIN CAPITAL LETTER ETH",
+  "C151": [
     "    _   ",
     "  _|_\\  ",
-    "   |_/  "
+    "   |_/  ",
+    "          "
   ],
-  "C164": [
-    "         @",
-    "  209  LATIN CAPITAL LETTER N WITH TILDE",
+  "C152": [
     "   /\\/  ",
-    "  |\\ |  "
-  ],
-  "C165": [
+    "  |\\ |  ",
     "  | \\|  ",
-    "         @",
-    "  210  LATIN CAPITAL LETTER O WITH GRAVE",
-    "   \\   "
+    "          "
   ],
-  "C166": [
+  "C153": [
+    "   \\   ",
     "  / \\  ",
     "  \\_/  ",
-    "        @",
-    "  211  LATIN CAPITAL LETTER O WITH ACUTE"
+    "         "
   ],
-  "C167": [
+  "C154": [
     "   /   ",
     "  / \\  ",
     "  \\_/  ",
     "         "
   ],
-  "C168": [
-    "  212  LATIN CAPITAL LETTER O WITH CIRCUMFLEX",
+  "C155": [
     "   /\\  ",
     "  / \\  ",
-    "  \\_/  "
-  ],
-  "C169": [
-    "        @",
-    "  213  LATIN CAPITAL LETTER O WITH TILDE",
-    "  /\\/  ",
-    "  / \\  "
-  ],
-  "C170": [
     "  \\_/  ",
-    "        @",
-    "  214  LATIN CAPITAL LETTER O WITH DIAERESIS",
-    "  o_o  "
+    "         "
   ],
-  "C171": [
+  "C156": [
+    "  /\\/  ",
     "  / \\  ",
     "  \\_/  ",
-    "        @",
-    "  215  MULTIPLICATION SIGN"
+    "         "
   ],
-  "C172": [
+  "C157": [
+    "  o_o  ",
+    "  / \\  ",
+    "  \\_/  ",
+    "         "
+  ],
+  "C158": [
     "      ",
     "      ",
     "  X  ",
     "       "
   ],
-  "C173": [
-    "  216  LATIN CAPITAL LETTER O WITH STROKE",
+  "C159": [
     "   __   ",
     "  / /\\  ",
-    "  \\/_/  "
+    "  \\/_/  ",
+    "          "
   ],
-  "C174": [
-    "         @",
-    "  217  LATIN CAPITAL LETTER U WITH GRAVE",
+  "C160": [
     "   \\   ",
-    "  | |  "
-  ],
-  "C175": [
-    "  |_|  ",
-    "        @",
-    "  218  LATIN CAPITAL LETTER U WITH ACUTE",
-    "   /   "
-  ],
-  "C176": [
     "  | |  ",
     "  |_|  ",
-    "        @",
-    "  219  LATIN CAPITAL LETTER U WITH CIRCUMFLEX"
+    "         "
   ],
-  "C177": [
+  "C161": [
+    "   /   ",
+    "  | |  ",
+    "  |_|  ",
+    "         "
+  ],
+  "C162": [
     "   /\\  ",
     "  | |  ",
     "  |_|  ",
     "         "
   ],
-  "C178": [
-    "  220  LATIN CAPITAL LETTER U WITH DIAERESIS",
+  "C163": [
     "  o o  ",
     "  | |  ",
-    "  |_|  "
+    "  |_|  ",
+    "         "
   ],
-  "C179": [
-    "        @",
-    "  221  LATIN CAPITAL LETTER Y WITH ACUTE",
+  "C164": [
     "   /   ",
-    "  \\_/  "
-  ],
-  "C180": [
+    "  \\_/  ",
     "   |   ",
-    "        @",
-    "  222  LATIN CAPITAL LETTER THORN",
-    "  |_   "
+    "         "
   ],
-  "C181": [
+  "C165": [
+    "  |_   ",
     "  |_)  ",
     "  |    ",
-    "        @",
-    "  223  LATIN SMALL LETTER SHARP S"
+    "         "
   ],
-  "C182": [
+  "C166": [
     "   _   ",
     "  | )  ",
     "  | )  ",
     "  |     "
   ],
-  "C183": [
-    "  224  LATIN SMALL LETTER A WITH GRAVE",
+  "C167": [
     "   \\   ",
     "   _.  ",
-    "  (_|  "
-  ],
-  "C184": [
-    "        @",
-    "  225  LATIN SMALL LETTER A WITH ACUTE",
-    "   /   ",
-    "   _.  "
-  ],
-  "C185": [
     "  (_|  ",
-    "        @",
-    "  226  LATIN SMALL LETTER A WITH CIRCUMFLEX",
-    "   /\\  "
+    "         "
   ],
-  "C186": [
+  "C168": [
+    "   /   ",
     "   _.  ",
     "  (_|  ",
-    "        @",
-    "  227  LATIN SMALL LETTER A WITH TILDE"
+    "         "
   ],
-  "C187": [
+  "C169": [
+    "   /\\  ",
+    "   _.  ",
+    "  (_|  ",
+    "         "
+  ],
+  "C170": [
     "  /\\/  ",
     "   _.  ",
     "  (_|  ",
     "         "
   ],
-  "C188": [
-    "  228  LATIN SMALL LETTER A WITH DIAERESIS",
+  "C171": [
     "  o o  ",
     "   _.  ",
-    "  (_|  "
-  ],
-  "C189": [
-    "        @",
-    "  229  LATIN SMALL LETTER A WITH RING ABOVE",
-    "   O   ",
-    "   _.  "
-  ],
-  "C190": [
     "  (_|  ",
-    "        @",
-    "  230  LATIN SMALL LETTER AE",
-    "          "
+    "         "
   ],
-  "C191": [
+  "C172": [
+    "   O   ",
+    "   _.  ",
+    "  (_|  ",
+    "         "
+  ],
+  "C173": [
+    "          ",
     "   ___   ",
     "  (_|/_  ",
-    "          @",
-    "  231  LATIN SMALL LETTER C WITH CEDILLA"
+    "           "
   ],
-  "C192": [
+  "C174": [
     "       ",
     "   _  ",
     "  (_  ",
     "   S   "
   ],
-  "C193": [
-    "  232  LATIN SMALL LETTER E WITH GRAVE",
+  "C175": [
     "   \\   ",
     "   _   ",
-    "  (/_  "
-  ],
-  "C194": [
-    "        @",
-    "  233  LATIN SMALL LETTER E WITH ACUTE",
-    "   /   ",
-    "   _   "
-  ],
-  "C195": [
     "  (/_  ",
-    "        @",
-    "  234  LATIN SMALL LETTER E WITH CIRCUMFLEX",
-    "   /\\  "
+    "         "
   ],
-  "C196": [
+  "C176": [
+    "   /   ",
     "   _   ",
     "  (/_  ",
-    "        @",
-    "  235  LATIN SMALL LETTER E WITH DIAERESIS"
+    "         "
   ],
-  "C197": [
+  "C177": [
+    "   /\\  ",
+    "   _   ",
+    "  (/_  ",
+    "         "
+  ],
+  "C178": [
     "  o o  ",
     "   _   ",
     "  (/_  ",
     "         "
   ],
-  "C198": [
-    "  236  LATIN SMALL LETTER I WITH GRAVE",
+  "C179": [
     "  \\  ",
     "      ",
-    "  |  "
-  ],
-  "C199": [
-    "      @",
-    "  237  LATIN SMALL LETTER I WITH ACUTE",
-    "  /  ",
-    "      "
-  ],
-  "C200": [
     "  |  ",
-    "      @",
-    "  238  LATIN SMALL LETTER I WITH CIRCUMFLEX",
-    "  /\\  "
+    "       "
   ],
-  "C201": [
+  "C180": [
+    "  /  ",
+    "      ",
+    "  |  ",
+    "       "
+  ],
+  "C181": [
+    "  /\\  ",
     "       ",
     "  |   ",
-    "       @",
-    "  239  LATIN SMALL LETTER I WITH DIAERESIS"
+    "        "
   ],
-  "C202": [
+  "C182": [
     "  o o  ",
     "        ",
     "   |   ",
     "         "
   ],
-  "C203": [
-    "  240  LATIN SMALL LETTER ETH",
+  "C183": [
     "  X    ",
     "   \\   ",
-    "  (_|  "
+    "  (_|  ",
+    "         "
   ],
-  "C204": [
-    "        @",
-    "  241  LATIN SMALL LETTER N WITH TILDE",
+  "C184": [
     "  /\\/  ",
-    "  ._   "
-  ],
-  "C205": [
+    "  ._   ",
     "  | |  ",
-    "        @",
-    "  242  LATIN SMALL LETTER O WITH GRAVE",
-    "   \\   "
+    "         "
   ],
-  "C206": [
+  "C185": [
+    "   \\   ",
     "   _   ",
     "  (_)  ",
-    "        @",
-    "  243  LATIN SMALL LETTER O WITH ACUTE"
+    "         "
   ],
-  "C207": [
+  "C186": [
     "   /   ",
     "   _   ",
     "  (_)  ",
     "         "
   ],
-  "C208": [
-    "  244  LATIN SMALL LETTER O WITH CIRCUMFLEX",
+  "C187": [
     "   /\\  ",
     "   _   ",
-    "  (_)  "
-  ],
-  "C209": [
-    "        @",
-    "  245  LATIN SMALL LETTER O WITH TILDE",
-    "  /\\/  ",
-    "   _   "
-  ],
-  "C210": [
     "  (_)  ",
-    "        @",
-    "  246  LATIN SMALL LETTER O WITH DIAERESIS",
-    "  o o  "
+    "         "
   ],
-  "C211": [
+  "C188": [
+    "  /\\/  ",
     "   _   ",
     "  (_)  ",
-    "        @",
-    "  247  DIVISION SIGN"
+    "         "
   ],
-  "C212": [
+  "C189": [
+    "  o o  ",
+    "   _   ",
+    "  (_)  ",
+    "         "
+  ],
+  "C190": [
     "   o   ",
     "  ---  ",
     "   o   ",
     "         "
   ],
-  "C213": [
-    "  248  LATIN SMALL LETTER O WITH STROKE",
+  "C191": [
     "        ",
     "   _   ",
-    "  (/)  "
+    "  (/)  ",
+    "         "
   ],
-  "C214": [
-    "        @",
-    "  249  LATIN SMALL LETTER U WITH GRAVE",
+  "C192": [
     "   \\   ",
-    "        "
-  ],
-  "C215": [
-    "  |_|  ",
-    "        @",
-    "  250  LATIN SMALL LETTER U WITH ACUTE",
-    "   /   "
-  ],
-  "C216": [
     "        ",
     "  |_|  ",
-    "        @",
-    "  251  LATIN SMALL LETTER U WITH CIRCUMFLEX"
+    "         "
   ],
-  "C217": [
+  "C193": [
+    "   /   ",
+    "        ",
+    "  |_|  ",
+    "         "
+  ],
+  "C194": [
     "   /\\  ",
     "        ",
     "  |_|  ",
     "         "
   ],
-  "C218": [
-    "  252  LATIN SMALL LETTER U WITH DIAERESIS",
+  "C195": [
     "  o o  ",
     "        ",
-    "  |_|  "
+    "  |_|  ",
+    "         "
   ],
-  "C219": [
-    "        @",
-    "  253  LATIN SMALL LETTER Y WITH ACUTE",
+  "C196": [
     "   /  ",
-    "       "
-  ],
-  "C220": [
+    "       ",
     "  \\/  ",
-    "  /   @",
-    "  254  LATIN SMALL LETTER THORN",
-    "        "
+    "  /    "
   ],
-  "C221": [
+  "C197": [
+    "        ",
     "  |_   ",
     "  |_)  ",
-    "  |    @",
-    "  255  LATIN SMALL LETTER Y WITH DIAERESIS"
+    "  |     "
   ],
-  "C222": [
+  "C198": [
     "  oo  ",
     "       ",
     "  \\/  ",

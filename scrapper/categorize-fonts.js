@@ -8,9 +8,9 @@ const NOT_CATEGORIZED = path.resolve(__dirname, 'not-categorized-fonts.json');
 
 const FLF_DIR = path.resolve(FONT_DIR, 'flf/');
 
-const { flf, aol } = JSON.parse(fs.readFileSync(NOT_CATEGORIZED, 'utf-8'));
+const notParsedData = JSON.parse(fs.readFileSync(NOT_CATEGORIZED, 'utf-8'));
 
-flf.fonts.reduce((process, fileName) => {
+notParsedData.flf.fonts.reduce((process, fileName) => {
   return process.then(() => {
     const fontData = JSON.parse(
       fs.readFileSync(
@@ -26,7 +26,7 @@ flf.fonts.reduce((process, fileName) => {
     };
 
     console.log('Start processing ', fileName);
-    const initialCount = Object.keys(chars).length;
+
     const removeEmptyChar = [
       (acc, [charCode, charInLines]) => {
         if (charInLines.join('').trim() === '') {
@@ -49,7 +49,9 @@ flf.fonts.reduce((process, fileName) => {
           return chainedPromises.then(() =>
             inquierer
               .prompt({
-                message: `[${colors.green(charCode)}]:
+                message: `[${colors.green(charCode)}] - ${index + 1}/${
+                  array.length
+                }:
 ${charInLines.join('\n')}
       `,
                 type: 'input',
@@ -59,13 +61,56 @@ ${charInLines.join('\n')}
                 if (answer.char === '') parsedAnswers.emptyChar.push(charCode);
                 else parsedAnswers[charCode] = answer.char;
                 console.log(parsedAnswers);
-                console.log(`[${index + 1}/${initialCount}]`);
                 // remove finished font from not-categorized
                 // add to categorized
                 // make a way to fix typos!
               }),
           );
         }, Promise.resolve())
+        .then(() => {
+          fs.writeFileSync(
+            path.resolve(__dirname, `processed/${fileName}.json`),
+            JSON.stringify(parsedAnswers, null, 2),
+            'utf-8',
+          );
+        })
+        .then(() => {
+          fs.writeFileSync(
+            path.resolve(__dirname, 'not-categorized-fonts.json'),
+            JSON.stringify(
+              Object.assign(notParsedData, {
+                flf: {
+                  fonts: notParsedData.flf.fonts.filter(
+                    name => name !== fileName,
+                  ),
+                },
+              }),
+              null,
+              2,
+            ),
+            'utf-8',
+          );
+          const categorizedFonts = JSON.parse(
+            fs.readFileSync(
+              path.resolve(__dirname, 'categorized-fonts.json'),
+              'utf-8',
+            ),
+          );
+          fs.writeFileSync(
+            path.resolve(__dirname, 'categorized-fonts.json'),
+            JSON.stringify(
+              Object.assign(categorizedFonts, {
+                flf: {
+                  fonts: categorizedFonts.flf.fonts.concat(fileName),
+                },
+              }),
+              null,
+              2,
+            ),
+            'utf-8',
+          );
+          console.log(`\n\nFinished Processing ${fileName}\n\n`);
+        })
     );
   });
 }, Promise.resolve());

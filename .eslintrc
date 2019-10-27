@@ -1,0 +1,7 @@
+{
+  "extends": "standard",
+  "rules": {
+    "comma-dangle": ["off"],
+    "semi": ["error", "always"]
+  }
+}

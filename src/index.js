@@ -10,7 +10,8 @@ export default function formPhrase(sentence, config) {
 
   const typeface = config && config.typeface,
     color = config && config.color,
-    verbose = config && config.verbose;
+    verbose = config && config.verbose,
+    silent = config && config.silent;
 
   if (verbose) {
     console.log('Typeface: ', typeface);
@@ -23,11 +24,13 @@ export default function formPhrase(sentence, config) {
   const font =
     fonts[typeface] ||
     fonts[Object.keys(fonts)[randomInt(Object.keys(fonts).length)]];
-
-  console.log(
-    sentenceToAsciiAlphabet(sentence, font)
+  
+  const output = sentenceToAsciiAlphabet(sentence, font)
       .map(concatAsciiLetters(color))
       .map(R.join('\n'))
-      .fold(),
-  );
+      .fold();
+  
+  if(!silent) console.log(output)
+  
+  return output;
 }

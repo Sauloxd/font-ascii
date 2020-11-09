@@ -1,6 +1,6 @@
 {
   "name": "font-ascii",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A ascii font in JS, with colors!",
   "main": "dist/index.js",
   "repository": "sauloxd/font-ascii",
@@ -37,9 +37,7 @@
     "prettier": "1.18.2"
   },
   "ava": {
-    "require": [
-      "@babel/register"
-    ]
+    "require": ["@babel/register"]
   },
   "author": {
     "name": "Saulo Furuta",
